@@ -30,8 +30,8 @@ feeds:
     lang: en
 
   # --- Sources françaises ---
-  - name: Les Echos - Start-up
-    url: https://services.lesechos.fr/rss/les-echos-start-up.xml
+  - name: Boursorama - Actualités
+    url: https://www.boursorama.com/rss/actualites.xml
     category: finance
     lang: fr
 
