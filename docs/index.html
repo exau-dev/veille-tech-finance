@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Veille Tech &amp; Finance</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>Veille Tech &amp; Finance</h1>
+    <p class="subtitle" id="last-updated">Chargement des actualités…</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <input
+        type="search"
+        id="search-input"
+        placeholder="Rechercher un mot-clé…"
+        aria-label="Rechercher"
+      />
+
+      <div class="filter-group" id="category-filters" role="group" aria-label="Filtrer par catégorie">
+        <button type="button" class="filter-btn active" data-category="all">Tous</button>
+        <button type="button" class="filter-btn" data-category="tech">Tech</button>
+        <button type="button" class="filter-btn" data-category="finance">Finance</button>
+      </div>
+
+      <select id="source-filter" aria-label="Filtrer par source">
+        <option value="all">Toutes les sources</option>
+      </select>
+    </div>
+
+    <p id="empty-state" class="empty-state" hidden>Aucun article ne correspond à ces filtres.</p>
+
+    <ul id="article-list" class="article-list"></ul>
+  </main>
+
+  <footer class="app-footer">
+    <p>
+      Sources et catégories configurables dans
+      <code>feeds.yaml</code>. Actualisation automatique via GitHub Actions.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
