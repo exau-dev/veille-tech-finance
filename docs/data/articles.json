@@ -1,11 +1,28 @@
 {
-  "generated_at": "2026-09-02T18:01:23.431307+00:00",
-  "count": 100,
+  "generated_at": "2026-09-02T18:13:01.304952+00:00",
+  "count": 120,
   "failed_sources": [
-    "Les Echos - Une",
-    "La Tribune - Technos & Médias"
+    "Les Echos - France"
   ],
   "articles": [
+    {
+      "title": "New Jersey asks the Supreme Court to take on prediction markets",
+      "link": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-02T18:10:09+00:00",
+      "summary": "The petition comes after a key ruling from the 9th U.S. Circuit Court of Appeals on sports-event contracts."
+    },
+    {
+      "title": "Does Medicare pay for long-term care? Many people get it wrong — and it may cost them later",
+      "link": "https://www.cnbc.com/2026/09/02/long-term-care-medicare-medicaid-insurance.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-02T18:03:25+00:00",
+      "summary": "Individuals may generally use Medicaid, insurance or their own funds to pay for long-term care in retirement. Here's what experts say about those choices."
+    },
     {
       "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
       "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
@@ -32,15 +49,6 @@
       "lang": "en",
       "published": "2026-09-02T17:57:04+00:00",
       "summary": "How Michael Khouw is playing ORCL ahead of earnings."
-    },
-    {
-      "title": "New Jersey asks the Supreme Court to take on prediction markets",
-      "link": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-02T17:55:57+00:00",
-      "summary": "The petition comes after a key ruling from the 9th U.S. Circuit Court of Appeals on sports-event contracts."
     },
     {
       "title": "Amazon’s AI assistant can now spot fake emails from the company",
@@ -358,15 +366,6 @@
       "summary": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would adopt most of the behavioral changes propos"
     },
     {
-      "title": "Does Medicare pay for long-term care? Many people get it wrong — and it may cost them later",
-      "link": "https://www.cnbc.com/2026/09/02/long-term-care-medicare-medicaid-insurance.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-02T15:35:22+00:00",
-      "summary": "Individuals may generally use Medicaid, insurance or their own funds to pay for long-term care in retirement. Here's what experts say about those choices."
-    },
-    {
       "title": "Continuous glucose monitors are about to get more complicated",
       "link": "https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis",
       "source": "The Verge",
@@ -383,6 +382,15 @@
       "lang": "en",
       "published": "2026-09-02T15:29:00+00:00",
       "summary": "Changes to the full retirement age would have to be quick and steep to make a dent in the program’s shortfall."
+    },
+    {
+      "title": "Face aux risques climatiques, le Plan propose de financer davantage les communes",
+      "link": "https://www.latribune.fr/article/climat/transitions-ecologiques/32116839519370/face-aux-risques-climatiques-le-plan-propose-de-financer-davantage-les-communes",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T15:25:20+00:00",
+      "summary": "Le Haut-commissariat à la Stratégie et au Plan propose d’ouvrir aux communes capables de présenter un plan de transition crédible un accès à davantage de dette à bas taux. Objectif : financer l’adaptation avant que les sinistres climatiques ne creusent les fractures territoriales."
     },
     {
       "title": "Trump to meet with travel industry CEOs as White House touts World Cup tourism boost",
@@ -439,6 +447,15 @@
       "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
     },
     {
+      "title": "Canicule, sécheresse : Bercy chiffre la facture climatique qui attend le budget 2027",
+      "link": "https://www.latribune.fr/article/economie/finances-publiques/44709213633016/canicule-secheresse-bercy-chiffre-la-facture-climatique-qui-attend-le-budget-2027",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T14:54:25+00:00",
+      "summary": "Les canicules et la sécheresse amputeraient l’activité française de 0,1 point de PIB en 2026, selon Bercy. Le choc vient d’abord de l’agriculture, mais il remet déjà la prévention et l’adaptation climatique au centre des arbitrages du budget 2027."
+    },
+    {
       "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
       "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
       "source": "The Verge",
@@ -491,6 +508,15 @@
       "lang": "fr",
       "published": "2026-09-02T14:13:11+00:00",
       "summary": "Opacité, prix insuffisants, adtech tax élevée. Les éditeurs demandent des comptes aux plateformes tandis que de nouvelles offres tentent de changer la donne avec l'arrivée de l'agentique."
+    },
+    {
+      "title": "Bientôt sous perfusion du FMI, le Sénégal veut (aussi) « relancer l’investissement »",
+      "link": "https://www.latribune.fr/article/afrique/27426297885358/bientot-sous-perfusion-du-fmi-le-senegal-veut-aussi-relancer-l-investissement",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T14:07:10+00:00",
+      "summary": "Sous réserve de l’approbation du conseil d’administration du Fonds monétaire international (FMI), le Sénégal devrait bénéficier d’un prêt de 2,2 milliards de dollars pour soutenir ses réformes économiques et signer le retour des investissements étrangers après un effondrement sans précédent. Au bout"
     },
     {
       "title": "Adobe acquires Indian market intelligence startup Rilo",
@@ -563,6 +589,15 @@
       "lang": "fr",
       "published": "2026-09-02T13:17:24+00:00",
       "summary": "L'arrivée d'AI Overviews en France ne doit pas se résumer à un débat sur l'opt-in ou l'opt-out."
+    },
+    {
+      "title": "Portées par le BTP et l'énergie, les PME-TPE auralpines font de la résistance",
+      "link": "https://www.latribune.fr/article/economie/16733869344714/portees-par-le-btp-et-lenergie-les-pme-tpe-auralpines-font-de-la-resistance",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T13:13:04+00:00",
+      "summary": "Après cinq trimestres en berne, le chiffre d'affaires des PME et TPE auralpines s'inscrit en légère hausse depuis le début de l'année. Une tendance qui se confirme au deuxième trimestre mais reflète davantage une « résistance » de l'écosystème qu'une véritable reprise, selon l'ordre des experts-comp"
     },
     {
       "title": "Souveraineté de l'IA : et si l'Europe se trompait de chemin ?",
@@ -646,6 +681,15 @@
       "summary": "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe."
     },
     {
+      "title": "Chine : le solaire dépasse le charbon, Pékin prépare l’après-pétrole iranien",
+      "link": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/61101742518532/chine-le-solaire-depasse-le-charbon-pekin-prepare-l-apres-petrole-iranien",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T09:54:24+00:00",
+      "summary": "Avec 1 286 GW installés fin juillet, le solaire dépasse pour la première fois les 1 285 GW de centrales au charbon en Chine. Le cap ne met pas fin au thermique, encore responsable de 49,7 % de l’électricité produite, mais il renforce Pékin face au choc pétrolier provoqué par la guerre en Iran."
+    },
+    {
       "title": "Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup",
       "link": "https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html",
       "source": "CNBC - Top News",
@@ -671,6 +715,15 @@
       "lang": "en",
       "published": "2026-09-02T09:19:25+00:00",
       "summary": "\"There are certainly signals, in our view, that Meta's product pipeline could start flowing following this legal clearing event,\" analysts said."
+    },
+    {
+      "title": "Télémédecine : la plateforme Rofim s’ouvre désormais aux patients",
+      "link": "https://www.latribune.fr/article/economie/1924357858798414/telemedecine-la-plateforme-rofim-s-ouvre-desormais-aux-patients",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T08:56:08+00:00",
+      "summary": "Initialement destinée à une utilisation BtoB, par les médecins, la plateforme basée à Marseille s’oriente désormais vers le segment BtoC en ouvrant son accès aux patients. L’objectif étant de leur permettre d’obtenir l’avis complémentaire d’un spécialiste en moins de 7 jours."
     },
     {
       "title": "IA agentique : faut-il migrer vers Kimi-K3 ?",
@@ -745,6 +798,33 @@
       "summary": "\"You think you're smarter than the people that live in Washington, but Washington changes you, you don't change Washington,\" Anthony Scaramucci told CNBC."
     },
     {
+      "title": "Crédit immobilier : pourquoi la dette française menace déjà les taux d’emprunt",
+      "link": "https://www.latribune.fr/article/economie/vos-finances/1063432094417/pourquoi-la-dette-francaise-va-faire-remonter-les-credits-immobiliers",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T05:35:02+00:00",
+      "summary": "Le taux moyen des nouveaux prêts immobiliers est déjà remonté à 3,27 % en juin, contre 3,21 % un mois plus tôt. Avec une OAT française à dix ans installée au-dessus de 4 %, les banques pourraient durcir leurs barèmes : le coût de la dette publique finit par peser sur le budget des acheteurs."
+    },
+    {
+      "title": "« La protection des frontières ne peut être efficace sans morts » : en Grèce, la politique migratoire divise le reste de l'UE",
+      "link": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/43890380364129/la-protection-des-frontieres-ne-peut-etre-efficace-sans-morts-en-grece-la-politique-migratoire-divise-le-reste-de-lue",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T05:00:01+00:00",
+      "summary": "Les récents événements de Ceuta ont ravivé les débats autour de la politique migratoire de l'Union européenne. Athènes, qui enfreint pourtant plusieurs règles de droit, est désormais pris en exemple."
+    },
+    {
+      "title": "Retraites : désindexation ou abattement fiscal, deux réformes aux effets opposés",
+      "link": "https://www.latribune.fr/article/economie/1292165377853314/retraites-desindexation-ou-abattement-fiscal-deux-reformes-aux-effets-opposes",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-02T04:45:02+00:00",
+      "summary": "Pour le budget 2027, le gouvernement hésite entre freiner la hausse des pensions et revoir l'avantage fiscal de 10%. La première option réduirait les dépenses du système de retraite, tandis que la seconde augmenterait les recettes de l'État en visant davantage les retraités aisés."
+    },
+    {
       "title": "Larry Page’s flying car company Pivotal loses its CEO",
       "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
       "source": "TechCrunch",
@@ -808,6 +888,15 @@
       "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service."
     },
     {
+      "title": "▶️ Le développement économique, sujet d'attention des patrons",
+      "link": "https://www.latribune.fr/article/economie/16156769787747/le-developpement-economique-sujet-dattention-des-patrons",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T16:26:56+00:00",
+      "summary": "Retrouvez Le Café de l’Eco chaque mardi à 7h45, la chronique de décryptage de l’économie, de son actualité et de ses enjeux territoriaux."
+    },
+    {
       "title": "\"Nous voulons que Gamma soit la couche visuelle qui permet de donner forme à vos idées\"",
       "link": "https://www.journaldunet.com/intelligence-artificielle/1554213-nous-voulons-que-gamma-devienne-la-couche-visuelle-qui-permet-de-donner-forme-a-vos-idees/",
       "source": "Journal du Net",
@@ -824,6 +913,24 @@
       "lang": "fr",
       "published": "2026-09-01T15:06:22+00:00",
       "summary": "Atinary développe des Self-Driving Labs, des laboratoires autonomes où l'intelligence artificielle et la robotique enchaînent des centaines d'expériences sans intervention humaine. Une approche qui promet d'accélérer les découvertes scientifiques."
+    },
+    {
+      "title": "Caviar de Neuvic entend tripler sa production sur un marché toujours sous pression chinoise",
+      "link": "https://www.latribune.fr/article/economie/agroconso/18268517211588/caviar-de-neuvic-entend-tripler-sa-production-sur-un-marche-toujours-sous-pression-chinoise",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T14:27:54+00:00",
+      "summary": "Le producteur tricolore Caviar de Neuvic a levé 11,6 millions d’euros pour racheter deux piscicultures dans les Pyrénées-Orientales. De quoi accélérer fortement sa croissance alors que le marché européen reste inondé par la production chinoise sans contrepartie. Une indication géographique protégée "
+    },
+    {
+      "title": "Facturation électronique : le lyonnais Indy surfe sur la réforme",
+      "link": "https://www.latribune.fr/article/economie/18180285437943/facturation-electronique-le-lyonnais-indy-surfe-sur-la-reforme",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T14:04:59+00:00",
+      "summary": "Entrée en vigueur ce 1er septembre, la réforme de la facture électronique se déploiera dans toutes les entreprises assujetties à la TVA, quelle que soit leur taille, d'ici à 2027. Agréée depuis mars 2026, la plateforme de la fintech lyonnaise Indy a vu le nombre d'inscrits grimper en août."
     },
     {
       "title": "Industrie : la chute du Mittelstand allemand va-t-elle faire basculer l'Europe dans le protectionnisme ?",
@@ -905,6 +1012,78 @@
       "lang": "fr",
       "published": "2026-09-01T12:11:33+00:00",
       "summary": "La liste vertigineuse des métiers plus ou moins condamnés par ce que l'on appelle le progrès."
+    },
+    {
+      "title": "Retraites : pourquoi les pères touchent davantage le bonus pour trois enfants",
+      "link": "https://www.latribune.fr/article/economie/finances-publiques/10158224413033/retraites-pourquoi-les-peres-touchent-davantage-le-bonus-pour-trois-enfants",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T12:04:00+00:00",
+      "summary": "La majoration actuelle bénéficie aux deux parents de trois enfants ou plus, mais son montant suit celui de la pension. La piste d'un forfait mensuel de 125 euros avantagerait les retraités sous 1 250 euros de pension et réduirait le supplément au-delà de ce seuil."
+    },
+    {
+      "title": "Parcs d’attractions : en région, le défi du nécessaire investissement continu",
+      "link": "https://www.latribune.fr/article/economie/55286137425814/parcs-d-attractions-en-region-le-defi-du-necessaire-investissement-continu",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T12:00:02+00:00",
+      "summary": "Sans toujours rivaliser avec les géants nationaux, les parcs d’attractions régionaux s’imposent sur leur territoire. Pour rester attractifs et assurer un taux de revisite élevé, ces derniers doivent innover en continu et investir à un rythme soutenu pour assurer rentabilité sur le court terme et pér"
+    },
+    {
+      "title": "Diesel : en Afrique, l’Asie dame le pion au Moyen-Orient sur fond de guerre en Iran",
+      "link": "https://www.latribune.fr/article/afrique/54368884959706/diesel-en-afrique-l-asie-dame-le-pion-au-moyen-orient-sur-fond-de-guerre-en-iran",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T08:00:02+00:00",
+      "summary": "Les exportations moyen-orientales de diesel vers le continent africain ont atteint, au mois d’août, leur niveau le plus bas depuis neuf ans, au profit du diesel asiatique dont les approvisionnements connaissent leur meilleur record depuis plus de quatre ans. En cause, les perturbations de navigation"
+    },
+    {
+      "title": "G20 Finance : l’alerte sur les marchés occultée par le retour de Moscou",
+      "link": "https://www.latribune.fr/article/economie/international/1006683336753514/g20-finance-l-alerte-sur-les-marches-occultee-par-le-retour-de-moscou",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T07:26:41+00:00",
+      "summary": "Le gendarme financier du G20 redoute une correction mondiale, nourrie par l’endettement, les valorisations de l’IA et les fragilités de la dette publique. À Asheville, cet avertissement a été éclipsé par la présence du ministre russe Anton Silouanov, qui a ravivé le conflit entre Washington et les E"
+    },
+    {
+      "title": "4 millions d’habitants en moins d’ici 2050 : l’alerte démographique italienne",
+      "link": "https://www.latribune.fr/article/economie/51046045443063/4-millions-d-habitants-en-moins-d-ici-2050-l-alerte-demographique-italienne",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T07:20:01+00:00",
+      "summary": "L’Italie va faire face à une chute démographique qui risque d’accentuer la pression sur la croissance, l’emploi et le financement du modèle social."
+    },
+    {
+      "title": "Shein lève 1,7 milliard de dollars, mais perd les trois quarts de sa valeur",
+      "link": "https://www.latribune.fr/article/banques-finance/industrie-financiere/96415492200551/shein-leve-1-7-milliard-de-dollars-mais-perd-les-trois-quarts-de-sa-valeur",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T06:15:48+00:00",
+      "summary": "Shein est entré à la Bourse de Hong Kong le 1er septembre 2026 en levant 1,7 milliard de dollars. Mais l’opération valorise le groupe environ 26,5 milliards de dollars, contre près de 100 milliards en 2022. Le recul du titre dès la première séance reflète les inquiétudes sur sa croissance, ses marge"
+    },
+    {
+      "title": "Italie : face à l’application du pacte migratoire, Giorgia Meloni prise à son propre piège",
+      "link": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/42571922160884/italie-face-a-l-application-du-pacte-migratoire-giorgia-meloni-prise-a-son-propre-piege",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T05:00:06+00:00",
+      "summary": "Plusieurs pays de l’UE ont annoncé la reprise des transferts de migrants vers l’Italie. Le résultat des nouvelles règles, que la dirigeante d’extrême droite a pourtant soutenues."
+    },
+    {
+      "title": "Ultra-fast fashion : la France dégaine le malus contre AliExpress, Temu et Shein",
+      "link": "https://www.latribune.fr/article/economie/agroconso/13662228522857/ultra-fast-fashion-la-france-degaine-le-malus-contre-aliexpress-temu-et-shein",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-01T04:00:02+00:00",
+      "summary": "Dès mardi, la France impose un malus pouvant atteindre 12 euros par vêtement pour freiner l’ultra-fast fashion et son modèle fondé sur l’explosion des volumes et le renouvellement accéléré des collections."
     }
   ]
 }
