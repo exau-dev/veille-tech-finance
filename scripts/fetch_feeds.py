@@ -14,6 +14,7 @@ import json
 import re
 import sys
 import time
+import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -24,7 +25,10 @@ ROOT = Path(__file__).resolve().parent.parent
 FEEDS_FILE = ROOT / "feeds.yaml"
 OUTPUT_FILE = ROOT / "docs" / "data" / "articles.json"
 MAX_ARTICLES_PER_FEED = 30
-USER_AGENT = "veille-tech-finance-bot/1.0 (+https://github.com/exau-dev/veille-tech-finance)"
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 HTML_TAG_RE = re.compile(r"<[^<]+?>")
 
 
@@ -42,11 +46,30 @@ def clean_summary(entry, limit=300):
     return text[:limit]
 
 
+def fetch_raw(url):
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/rss+xml, application/xml, text/xml, */*;q=0.1",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        return resp.read()
+
+
 def fetch_feed(source):
     print(f"Fetching {source['name']}...", file=sys.stderr)
-    parsed = feedparser.parse(source["url"], agent=USER_AGENT)
+    try:
+        raw = fetch_raw(source["url"])
+    except Exception as exc:  # noqa: BLE001 - keep going on a per-feed basis
+        print(f"  WARNING: request failed for {source['name']}: {exc}", file=sys.stderr)
+        return []
+
+    parsed = feedparser.parse(raw)
     if parsed.bozo and not parsed.entries:
         print(f"  WARNING: failed to parse {source['name']}: {parsed.get('bozo_exception')}", file=sys.stderr)
+        print(f"  DEBUG raw snippet: {raw[:400]!r}", file=sys.stderr)
         return []
 
     articles = []

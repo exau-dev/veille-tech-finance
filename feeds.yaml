@@ -30,13 +30,17 @@ feeds:
     lang: en
 
   # --- Sources françaises ---
-  - name: Les Echos - Une
-    url: https://www.lesechos.fr/rss/rss_une.xml
+  # Note : Les Echos a été retiré (www, syndication et services
+  # subdomains testés) - ils renvoient un 403 systématique aux requêtes
+  # automatisées depuis les IPs GitHub Actions (blocage anti-bot, pas une
+  # mauvaise URL). Le Figaro couvre le même créneau finance sans ce souci.
+  - name: Le Figaro - Économie
+    url: https://www.lefigaro.fr/rss/figaro_economie.xml
     category: finance
     lang: fr
 
-  - name: La Tribune - Technos & Médias
-    url: https://www.latribune.fr/rss/rubriques/technologies-medias.html
+  - name: La Tribune - Actualité
+    url: https://www.latribune.fr/rss/rubriques/actualite.html
     category: tech
     lang: fr
 
