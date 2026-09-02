@@ -30,13 +30,13 @@ feeds:
     lang: en
 
   # --- Sources françaises ---
-  - name: Les Echos - Une
-    url: https://www.lesechos.fr/rss/rss_une.xml
+  - name: Les Echos - France
+    url: https://syndication.lesechos.fr/rss/rss_france.xml
     category: finance
     lang: fr
 
-  - name: La Tribune - Technos & Médias
-    url: https://www.latribune.fr/rss/rubriques/technologies-medias.html
+  - name: La Tribune - Actualité
+    url: https://www.latribune.fr/rss/rubriques/actualite.html
     category: tech
     lang: fr
 
