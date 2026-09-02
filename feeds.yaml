@@ -30,8 +30,8 @@ feeds:
     lang: en
 
   # --- Sources françaises ---
-  - name: Boursorama - Actualités
-    url: https://www.boursorama.com/rss/actualites.xml
+  - name: Le Figaro - Économie
+    url: https://www.lefigaro.fr/rss/figaro_economie.xml
     category: finance
     lang: fr
 
