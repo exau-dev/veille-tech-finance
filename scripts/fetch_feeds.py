@@ -24,7 +24,10 @@ ROOT = Path(__file__).resolve().parent.parent
 FEEDS_FILE = ROOT / "feeds.yaml"
 OUTPUT_FILE = ROOT / "docs" / "data" / "articles.json"
 MAX_ARTICLES_PER_FEED = 30
-USER_AGENT = "veille-tech-finance-bot/1.0 (+https://github.com/exau-dev/veille-tech-finance)"
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 HTML_TAG_RE = re.compile(r"<[^<]+?>")
 
 
