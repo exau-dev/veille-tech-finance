@@ -30,6 +30,10 @@ feeds:
     lang: en
 
   # --- Sources françaises ---
+  # Note : Les Echos a été retiré (www, syndication et services
+  # subdomains testés) - ils renvoient un 403 systématique aux requêtes
+  # automatisées depuis les IPs GitHub Actions (blocage anti-bot, pas une
+  # mauvaise URL). Le Figaro couvre le même créneau finance sans ce souci.
   - name: Le Figaro - Économie
     url: https://www.lefigaro.fr/rss/figaro_economie.xml
     category: finance
