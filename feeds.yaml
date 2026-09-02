@@ -1,0 +1,46 @@
+# Sources RSS pour la veille tech & finance.
+# category: "tech" ou "finance" (utilisé pour le filtrage sur le dashboard)
+# lang: "en" ou "fr"
+#
+# Pour ajouter/retirer une source, éditez simplement cette liste puis relancez
+# scripts/fetch_feeds.py (ou attendez le prochain run planifié du workflow
+# GitHub Actions).
+
+feeds:
+  # --- Tech (généraliste) ---
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+    category: tech
+    lang: en
+
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    category: tech
+    lang: en
+
+  # --- Finance ---
+  - name: MarketWatch - Top Stories
+    url: https://www.marketwatch.com/rss/topstories
+    category: finance
+    lang: en
+
+  - name: CNBC - Top News
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    category: finance
+    lang: en
+
+  # --- Sources françaises ---
+  - name: Les Echos - Une
+    url: https://www.lesechos.fr/rss/rss_une.xml
+    category: finance
+    lang: fr
+
+  - name: La Tribune - Technos & Médias
+    url: https://www.latribune.fr/rss/rubriques/technologies-medias.html
+    category: tech
+    lang: fr
+
+  - name: Journal du Net
+    url: https://www.journaldunet.com/rss/
+    category: tech
+    lang: fr
