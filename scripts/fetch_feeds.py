@@ -14,6 +14,7 @@ import json
 import re
 import sys
 import time
+import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -45,11 +46,23 @@ def clean_summary(entry, limit=300):
     return text[:limit]
 
 
+def fetch_raw_snippet(url, length=400):
+    """Best-effort raw fetch for debugging a parse failure (not used for data)."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            raw = resp.read(length + 200)
+        return raw.decode("utf-8", errors="replace")[:length]
+    except Exception as exc:  # noqa: BLE001 - diagnostics only
+        return f"<could not fetch raw snippet: {exc}>"
+
+
 def fetch_feed(source):
     print(f"Fetching {source['name']}...", file=sys.stderr)
     parsed = feedparser.parse(source["url"], agent=USER_AGENT)
     if parsed.bozo and not parsed.entries:
         print(f"  WARNING: failed to parse {source['name']}: {parsed.get('bozo_exception')}", file=sys.stderr)
+        print(f"  DEBUG raw snippet: {fetch_raw_snippet(source['url'])!r}", file=sys.stderr)
         return []
 
     articles = []
