@@ -46,23 +46,30 @@ def clean_summary(entry, limit=300):
     return text[:limit]
 
 
-def fetch_raw_snippet(url, length=400):
-    """Best-effort raw fetch for debugging a parse failure (not used for data)."""
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            raw = resp.read(length + 200)
-        return raw.decode("utf-8", errors="replace")[:length]
-    except Exception as exc:  # noqa: BLE001 - diagnostics only
-        return f"<could not fetch raw snippet: {exc}>"
+def fetch_raw(url):
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/rss+xml, application/xml, text/xml, */*;q=0.1",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        return resp.read()
 
 
 def fetch_feed(source):
     print(f"Fetching {source['name']}...", file=sys.stderr)
-    parsed = feedparser.parse(source["url"], agent=USER_AGENT)
+    try:
+        raw = fetch_raw(source["url"])
+    except Exception as exc:  # noqa: BLE001 - keep going on a per-feed basis
+        print(f"  WARNING: request failed for {source['name']}: {exc}", file=sys.stderr)
+        return []
+
+    parsed = feedparser.parse(raw)
     if parsed.bozo and not parsed.entries:
         print(f"  WARNING: failed to parse {source['name']}: {parsed.get('bozo_exception')}", file=sys.stderr)
-        print(f"  DEBUG raw snippet: {fetch_raw_snippet(source['url'])!r}", file=sys.stderr)
+        print(f"  DEBUG raw snippet: {raw[:400]!r}", file=sys.stderr)
         return []
 
     articles = []
