@@ -1,18 +1,160 @@
 {
-  "generated_at": "2026-09-17T20:48:02.664865+00:00",
-  "count": 130,
-  "failed_sources": [
-    "MarketWatch - Top Stories"
-  ],
+  "generated_at": "2026-09-18T02:30:19.775739+00:00",
+  "count": 140,
+  "failed_sources": [],
   "articles": [
+    {
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-18T02:00:00+00:00",
+      "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human sa"
+    },
+    {
+      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+      "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T01:35:38+00:00",
+      "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears."
+    },
+    {
+      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+      "link": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T01:04:06+00:00",
+      "summary": "Record diesel prices are already walloping the transportation sector, and if energy prices stay high, the economic impact will spread."
+    },
+    {
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-18T00:02:36+00:00",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7."
+    },
+    {
+      "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
+      "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T23:56:17+00:00",
+      "summary": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology."
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-17T23:25:52+00:00",
+      "summary": "The round values the data center giant at $30.9 billion."
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-17T23:21:17+00:00",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
+    },
+    {
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-17T23:08:24+00:00",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
+    },
     {
       "title": "House heads home to campaign amid calls for urgent AI action",
       "link": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-09-17T20:41:54+00:00",
+      "published": "2026-09-17T22:48:08+00:00",
       "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill."
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-17T22:34:09+00:00",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be."
+    },
+    {
+      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+      "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T22:22:53+00:00",
+      "summary": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company."
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-17T22:14:59+00:00",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
+    },
+    {
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T21:22:00+00:00",
+      "summary": "“The higher that yields go — for at least new money — it becomes more enticing to think about putting money into bonds,” one strategist notes."
+    },
+    {
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T21:22:00+00:00",
+      "summary": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding."
+    },
+    {
+      "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
+      "link": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T21:16:59+00:00",
+      "summary": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it."
+    },
+    {
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T21:09:00+00:00",
+      "summary": "For six months, investors had a playbook: when Trump threatens Iran, buy the dip, because he always backs down. But in September, the playbook stopped working."
+    },
+    {
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T21:00:47+00:00",
+      "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters."
     },
     {
       "title": "The fix for rogue AI agents could be more AI",
@@ -21,7 +163,7 @@
       "category": "tech",
       "lang": "en",
       "published": "2026-09-17T20:34:47+00:00",
-      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years"
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
     },
     {
       "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
@@ -51,6 +193,24 @@
       "summary": "Sébastien Lecornu vise désormais 54 milliards d’euros d’effort en 2027, avec un gel des dépenses de l’État, une contribution des collectivités et de la Sécurité sociale et des mesures sur les retraites."
     },
     {
+      "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
+      "link": "https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T20:27:19+00:00",
+      "summary": "The problem for investors: much of what's flowing through the airwaves is noise and won't help you make money."
+    },
+    {
+      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T20:23:00+00:00",
+      "summary": "Slower-than-expected robotaxi progress is still a chief concern, according to experts."
+    },
+    {
       "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
       "link": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
       "source": "CNBC - Top News",
@@ -69,6 +229,24 @@
       "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
     },
     {
+      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T20:19:00+00:00",
+      "summary": "You want to make sure your pet can receive the care they need when an emergency happens — but is pet insurance the best way to prepare for that?"
+    },
+    {
+      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T20:13:00+00:00",
+      "summary": "As people clamored for Pokemon’s 30th-anniversary card set, Mizuho analysts noted long lines and sold-out items at Target stores."
+    },
+    {
       "title": "UN turns to Google to make its global data ready for AI agents",
       "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
       "source": "TechCrunch",
@@ -85,6 +263,15 @@
       "lang": "en",
       "published": "2026-09-17T19:57:41+00:00",
       "summary": "The next U.S. president and candidates for Senate this November will be tasked with addressing Social Security's funding shortfall."
+    },
+    {
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T19:52:00+00:00",
+      "summary": "With its East-West pipeline shut down, the Straight of Hormuz is the best avenue available and its spigot has recently opened up. Will it last?"
     },
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -114,13 +301,13 @@
       "summary": "D’après un décret signé ce jeudi par Vladimir Poutine, «L.E.V Management» absorbera les actifs des trois entreprises."
     },
     {
-      "title": "Intel and Micron lead our portfolio higher, and J&J strengthens our case for owning it",
-      "link": "https://www.cnbc.com/2026/09/17/intel-and-micron-lead-our-portfolio-higher-and-jjs-strengthens-our-case-for-owning-it-.html",
-      "source": "CNBC - Top News",
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
       "category": "finance",
       "lang": "en",
-      "published": "2026-09-17T19:03:49+00:00",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
+      "published": "2026-09-17T19:07:00+00:00",
+      "summary": "“We also pay for the daughter’s food and drinks and she doesn’t usually even eat half of the meal.”"
     },
     {
       "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
@@ -150,6 +337,15 @@
       "summary": "DÉCRYPTAGE - Le géant de l’IA a révélé dans une nouvelle étude que certains de ses modèles s’étaient subitement mis à inventer leurs propres «prompts», dans de surprenants incidents de désalignement encore jamais vus."
     },
     {
+      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T18:46:00+00:00",
+      "summary": "Zscaler’s stock has missed out on the cybersecurity sector’s big rally this year — but it could soon get its moment in the spotlight"
+    },
+    {
       "title": "Un pain à 60 dollars, des tartines à 14 dollars… Malgré des prix exorbitants, cette boulangerie à New York attire les foules",
       "link": "https://www.lefigaro.fr/conso/un-pain-a-60-dollars-des-tartines-a-14-dollars-malgre-des-prix-exorbitants-cette-boulangerie-a-new-york-attire-les-foules-20260917",
       "source": "Le Figaro - Économie",
@@ -166,15 +362,6 @@
       "lang": "en",
       "published": "2026-09-17T18:30:30+00:00",
       "summary": "The company suspended service in the city in April after one of its robotaxis got swept away."
-    },
-    {
-      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
-      "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T18:23:25+00:00",
-      "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters."
     },
     {
       "title": "Gel du point d’indice des fonctionnaires : Binet dénonce un «scandale» et promet une «journée noire» le 29 septembre",
@@ -211,6 +398,15 @@
       "lang": "fr",
       "published": "2026-09-17T17:48:34+00:00",
       "summary": "DÉCRYPTAGE - La Commission européenne a détaillé jeudi son arsenal pour mieux protéger les enfants en ligne. L’accès sera gradué et les obligations renforcées pour les plus grandes plateformes."
+    },
+    {
+      "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+      "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T17:42:00+00:00",
+      "summary": "BofA analysts say Amazon’s reported plans to expand same-day fulfillment centers represent an effort to make basic goods “immediately accessible.”"
     },
     {
       "title": "« L’accélération est assez fragile et il ne faut pas la casser ! » : après dix ans d’Emmanuel Macron, les acteurs de la French Tech réclament de la « stabilité » aux candidats à la présidentielle",
@@ -303,15 +499,6 @@
       "summary": "EXCLUSIF - Matignon propose des économies sur les APL, les arrêts maladie, les salaires des fonctionnaires ou encore sur les pensions de retraite."
     },
     {
-      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
-      "link": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T17:02:07+00:00",
-      "summary": "Record diesel prices are already walloping the transportation sector, and if energy prices stay high, the economic impact will spread."
-    },
-    {
       "title": "Interdiction jusqu’à 13 ans, restriction jusqu’à 15 ans : avec l’EU Kids Act, le défi de la vérification d’âge",
       "link": "https://www.lefigaro.fr/secteur/high-tech/interdiction-jusqu-a-13-ans-restriction-jusqu-a-15-ans-avec-l-eu-kids-act-le-defi-de-la-verification-d-age-20260917",
       "source": "Le Figaro - Économie",
@@ -319,15 +506,6 @@
       "lang": "fr",
       "published": "2026-09-17T16:50:00+00:00",
       "summary": "DÉCRYPTAGE - Dans sa proposition de règlement pour protéger les mineurs en ligne, la Commission européenne a opté pour une approche « graduelle » dans l’accès des mineurs aux réseaux sociaux, avec des échelons selon l’âge."
-    },
-    {
-      "title": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
-      "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T16:48:00+00:00",
-      "summary": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology."
     },
     {
       "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
@@ -501,24 +679,6 @@
       "summary": "Robert Kraft said Ed Sheeran asked him to commit $2 million toward humanitarian aid amid the controversy over Macklemore’s removal from Sheeran’s U.S. tour"
     },
     {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-17T14:06:14+00:00",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S."
-    },
-    {
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-17T14:00:00+00:00",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
-    },
-    {
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
       "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
       "source": "The Verge",
@@ -573,15 +733,6 @@
       "summary": "Une heure d'arrêt non planifié sur un centre d'usinage CNC coûte bien plus que le simple taux horaire machine. Analyse des composantes réelles, ordres de grandeur et leviers pour en réduire l'impact."
     },
     {
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-17T13:46:16+00:00",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions."
-    },
-    {
       "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
       "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
       "source": "CNBC - Top News",
@@ -600,24 +751,6 @@
       "summary": "Ouidrop a pris possession de sa nouvelle usine d’assemblage près de Bordeaux. Elle y fabrique ses casiers robotisés tri-températures qui équipent déjà les drives d’une vingtaine de supermarchés E. Leclerc, Coopérative U et Intermarché. Le site est dimensionné pour permettre une rapide montée en cade"
     },
     {
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-17T13:38:33+00:00",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
-    },
-    {
-      "title": "Lucid Motors has a potential robotaxi partner for Europe",
-      "link": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-17T13:26:32+00:00",
-      "summary": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet."
-    },
-    {
       "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
       "link": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
       "source": "CNBC - Top News",
@@ -625,24 +758,6 @@
       "lang": "en",
       "published": "2026-09-17T13:00:28+00:00",
       "summary": "The long awaited Innovation Exemption comes two days after the Senate voted to block the Clarity Act crypto market structure bill from advancing."
-    },
-    {
-      "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
-      "link": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-17T13:00:00+00:00",
-      "summary": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also jo"
-    },
-    {
-      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
-      "link": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-17T12:57:46+00:00",
-      "summary": "BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently."
     },
     {
       "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
@@ -661,15 +776,6 @@
       "lang": "en",
       "published": "2026-09-17T12:27:10+00:00",
       "summary": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices."
-    },
-    {
-      "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
-      "link": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T12:02:41+00:00",
-      "summary": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it."
     },
     {
       "title": "Charities say gifts by deceased donors are getting held up at financial firms",
@@ -879,15 +985,6 @@
       "summary": "J. P. Morgan AM estime que 475 milliards d’euros placés par les ménages français sur des supports liquides depuis 2020 auraient valu 394 milliards de plus sur les actions mondiales. Le calcul frappe, mais il repose sur une simulation rétrospective qui ne mesure ni une perte réellement encaissée ni l"
     },
     {
-      "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
-      "link": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-16T23:13:45+00:00",
-      "summary": "Salesforce issued some updated longer-term financials at its annual Dreamforce conference."
-    },
-    {
       "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
       "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
       "source": "CNBC - Top News",
@@ -904,15 +1001,6 @@
       "lang": "en",
       "published": "2026-09-16T21:40:18+00:00",
       "summary": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers."
-    },
-    {
-      "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-      "link": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-16T20:22:24+00:00",
-      "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday."
     },
     {
       "title": "La Fed relève ses taux et ouvre une nouvelle séquence monétaire",
