@@ -1,8 +1,350 @@
 {
-  "generated_at": "2026-09-18T02:30:19.775739+00:00",
+  "generated_at": "2026-09-18T10:19:27.648301+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+      "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T10:09:35+00:00",
+      "summary": "Buffett's son, Howard, will replace him as chairman as dictated by a long-standing succession plan, Berkshire said."
+    },
+    {
+      "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
+      "link": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T10:08:00+00:00",
+      "summary": "Members of the Federal Open Market Committee showed their lowest level of worry about gross domestic product growth since it first started releasing its outlook."
+    },
+    {
+      "title": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
+      "link": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T10:08:00+00:00",
+      "summary": "Bank of America calculates this week’s Federal Open Market Committee statement explaining the decision to lift interest rates by a quarter-point as its most terse, at just 130 words, since 2007."
+    },
+    {
+      "title": "Comment l'IA pédagogique bouscule le marché de la formation professionnelle",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1554805-comment-l-ia-pedagogique-bouscule-la-formation-professionnelle/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T09:57:17+00:00",
+      "summary": "De nouvelles plateformes proposent de transformer la base de connaissances d'une organisation en parcours pédagogiques personnalisés et interactifs. Tour d'horizon de ces éditeurs qui donnent un sérieux coup de jeune à l'e-learning."
+    },
+    {
+      "title": "Carburants : l’aide aux grands rouleurs «ne s’arrêtera pas au 30 septembre», promet le ministre du Commerce Serge Papin",
+      "link": "https://www.lefigaro.fr/conso/carburants-l-aide-grands-rouleurs-ne-s-arretera-pas-au-30-septembre-promet-le-ministre-du-commerce-serge-papin-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T09:53:54+00:00",
+      "summary": "«Nous allons réfléchir à ce qui pourra être proposé pour la suite de l’aide aux grands rouleurs», a indiqué le ministre au sujet de ce coup de pouce financier mis en place au printemps pour aider près de trois millions de travailleurs modestes."
+    },
+    {
+      "title": "Budget 2027 : la gauche promet la censure au gouvernement Lecornu",
+      "link": "https://www.journaldunet.com/business/action-publique/1555095-la-gauche-annonce-une-motion-de-censure-contre-le-gouvernement-lecornu-lors-du-debat-sur-le-budget-2027/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T09:47:56+00:00",
+      "summary": "L'adoption du budget 2027 s'annonce incertaine, la gauche promettant la censure et le sort du gouvernement dépendant de la stratégie du Rassemblement national."
+    },
+    {
+      "title": "Vladimir Poutine place les actifs russes de Nestlé, Auchan et de l'ex-Leroy Merlin sous administration temporaire",
+      "link": "https://www.journaldunet.com/business/1555093-un-decret-de-vladimir-poutine-transfere-les-actifs-russes-de-nestle-auchan-et-de-l-ex-leroy-merlin-a-l-e-v-management/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T09:45:27+00:00",
+      "summary": "Les actifs en Russie de Nestlé, Auchan et de l'ex-Leroy Merlin sont transférés à L.E.V. Management, selon un décret présidentiel publié jeudi 17 septembre 2026."
+    },
+    {
+      "title": "AirAsia's Fernandes refutes financial concerns, points to new growth plans",
+      "link": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T09:44:48+00:00",
+      "summary": "AirAsia's Tony Fernandes pushed back against a report raising concerns over the airline’s financial health, while signaling plans to resume growth."
+    },
+    {
+      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+      "link": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T09:38:17+00:00",
+      "summary": "Anthropic and OpenAI have announced a flurry of AI infrastructure deals over the past year as demand booms."
+    },
+    {
+      "title": "An intense boardroom battle is brewing at India's giant Tata Group",
+      "link": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T09:29:41+00:00",
+      "summary": "In 10 years, India's leading multinational conglomerate, the Tata Group, is facing a new power struggle between the chairman of Tata Sons and Tata Trusts."
+    },
+    {
+      "title": "La diplomatie du silicium ou comment les semi-conducteurs sont devenue une arme de négociation massive des Etats-Unis",
+      "link": "https://www.journaldunet.com/economie/industrie/1554959-.../",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T09:28:20+00:00",
+      "summary": "Donald Trump a fait de l'avance de son pays sur les technologies de frontière l'un des principaux ressorts de sa diplomatie."
+    },
+    {
+      "title": "Amazon renonce à la livraison gratuite de livres retirés en casiers automatiques en France",
+      "link": "https://www.lefigaro.fr/medias/amazon-renonce-a-la-livraison-gratuite-de-livres-retires-en-casiers-automatiques-en-france-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T09:23:19+00:00",
+      "summary": "INFO LE FIGARO -  Soucieux de «recentrer le débat sur l’essentiel», le géant du commerce en ligne fait une concession dans la bataille qui l’opposait aux libraires et aux géants Fnac et Cultura."
+    },
+    {
+      "title": "Copie d'articles du New York Times pour l'IA : un responsable de Microsoft déplore un «vol sans précédent»",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/copie-d-articles-du-new-york-times-pour-l-ia-un-responsable-de-microsoft-deplore-un-vol-sans-precedent-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T09:16:16+00:00",
+      "summary": "Depuis fin 2023, le journal américain a entamé une procédure contre OpenAI et Microsoft pour infraction au droit de la propriété intellectuelle, après l’utilisation sans autorisation de millions d’articles."
+    },
+    {
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T09:15:00+00:00",
+      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”"
+    },
+    {
+      "title": "Quand votre carnet de commandes est écrit au Journal officiel",
+      "link": "https://www.journaldunet.com/management/direction-generale/1555023-quand-votre-carnet-de-commandes-est-ecrit-au-journal-officiel/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T09:03:44+00:00",
+      "summary": "Une taxe annoncée pour janvier 2026, reportée d'un an faute d'un développement informatique côté administration : des secteurs entiers se dimensionnent sur des dates qu'ils ne décident pas."
+    },
+    {
+      "title": "Enquête interne pour harcèlement : le faux sentiment de sécurité des entreprises",
+      "link": "https://www.journaldunet.com/management/direction-generale/1555011-enquete-interne-pour-harcelement-le-faux-sentiment-de-securite-des-entreprises/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T08:56:39+00:00",
+      "summary": "L'enquête interne ne protège pas automatiquement l'employeur. Mal conduite, elle peut fragiliser une sanction et devenir un point faible devant les prud'hommes."
+    },
+    {
+      "title": "Deux offres de reprise industrielles jugées \"intéressantes\" pour Duralex",
+      "link": "https://www.journaldunet.com/economie/industrie/1555091-deux-offres-de-reprises-industrielles-jugees-interessantes-pour-duralex-mais-les-salaries-redoutent-des-suppressions-de-postes/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T08:54:38+00:00",
+      "summary": "Deux projets industriels sont en lice pour la reprise de Duralex, mais les salariés s'inquiètent de la perspective de nombreux licenciements."
+    },
+    {
+      "title": "En Chine, la baisse de taxes qu'on vous propose n'est pas une remise. C'est une déclaration que vous signez seul.",
+      "link": "https://www.journaldunet.com/management/direction-generale/1554965-en-chine-la-baisse-de-taxes-qu-on-vous-propose-n-est-pas-une-remise-c-est-une-declaration-que-vous-signez-seul/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T08:54:21+00:00",
+      "summary": "Sous-évaluer la facture à l'expédition est vu comme un service en Chine. La déclaration en douane, elle, n'engage qu'une personne : l'importateur français."
+    },
+    {
+      "title": "Air France a changé la trajectoire de 130 de ses vols pour limiter les traînées de condensation",
+      "link": "https://www.lefigaro.fr/societes/air-france-a-change-la-trajectoire-de-130-de-ses-vols-pour-limiter-les-trainees-de-condensation-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T08:50:03+00:00",
+      "summary": "Air France a testé avec succès le déroutement de 130 vols transatlantiques entre février et avril 2026 pour éviter les zones favorables aux traînées de condensation, ces nuages artificiels qui accentuent le réchauffement climatique."
+    },
+    {
+      "title": "L'Espagne ramène sa dette publique sous les 100% du PIB, la France dépasse 117%",
+      "link": "https://www.journaldunet.com/business/action-publique/1555087-l-espagne-ramene-sa-dette-publique-sous-les-100-du-pib-atteignant-99-9-en-juillet-2026-alors-que-la-france-depasse-117-du-pib/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T08:44:59+00:00",
+      "summary": "L'Espagne parvient à réduire son endettement public, contrastant avec la trajectoire française, marquée par une dette et une charge d'intérêts en forte hausse."
+    },
+    {
+      "title": "Russie : Auchan et Nestlé réagissent après le transfert de leurs actifs à une société russe",
+      "link": "https://www.lefigaro.fr/societes/russie-nestle-entend-prendre-toutes-les-mesures-necessaires-pour-proteger-ses-droits-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T08:44:33+00:00",
+      "summary": "La filiale russe de la chaîne de grande distribution française Auchan a indiqué avoir demandé des «clarifications» aux autorités du pays."
+    },
+    {
+      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+      "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T08:41:11+00:00",
+      "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms"
+    },
+    {
+      "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
+      "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T08:29:35+00:00",
+      "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears."
+    },
+    {
+      "title": "Gabriel Attal propose la création des \"Etats-Unis d'Europe\" via un référendum européen",
+      "link": "https://www.journaldunet.com/business/action-publique/1555085-gabriel-attal-affirme-que-l-europe-des-27-a-atteint-ses-limites-et-propose-la-creation-des-etats-unis-d-europe-via-un-referendum-europeen/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T08:29:12+00:00",
+      "summary": "Le candidat à la présidentielle détaille sa vision d'une Europe fédérale, prônant une fusion économique et écologique d'un noyau dur de pays pour affronter la concurrence mondiale."
+    },
+    {
+      "title": "Le prix du gazole dépasse 2,39 euros en moyenne, un nouveau record",
+      "link": "https://www.lefigaro.fr/conjoncture/le-prix-du-gazole-depasse-2-39-euros-en-moyenne-nouveau-record-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T08:29:06+00:00",
+      "summary": "Le diesel dépasse ainsi son pic d’avril 2026, alors que la hausse des prix à la pompe alimente des appels à manifester."
+    },
+    {
+      "title": "Geely pousse Renault à renforcer leur alliance avec un nouvel investissement de 319 millions d'euros au Brésil",
+      "link": "https://www.journaldunet.com/economie/industrie/1555083-geely-pousse-renault-a-renforcer-leur-alliance-avec-un-nouvel-investissement-de-319-millions-d-euros-au-bresil-pour-produire-un-suv-hybride-utilisant-la-technologie-chinoise/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-18T08:17:46+00:00",
+      "summary": "L'alliance stratégique entre Renault et Geely s'accélère au Brésil, avec un investissement majeur, une montée au capital de Geely et des perspectives d'extension en Amérique du Sud."
+    },
+    {
+      "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
+      "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T08:02:20+00:00",
+      "summary": "The deal comes as Iran-backed Houthis escalate attacks on Saudi Arabia and seek control of the strategically important Bab el-Mandeb Strait."
+    },
+    {
+      "title": "La justice condamne la Banque de France et deux de ses cadres pour «délit d'entrave»",
+      "link": "https://www.lefigaro.fr/societes/la-justice-condamne-la-banque-de-france-et-deux-de-ses-cadres-pour-delit-d-entrave-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T07:55:46+00:00",
+      "summary": "Le tribunal judiciaire de Paris a infligé à l’institution une amende de 3000 euros en première instance, pour délit d’entrave lié à la non-transmission complète des données relatives à la durée quotidienne du travail de ses agents aux élus du personnel."
+    },
+    {
+      "title": "France Télévisions devra économiser 90 millions d'euros en 2027, selon sa présidente",
+      "link": "https://www.lefigaro.fr/medias/france-televisions-devra-economiser-90-millions-d-euros-en-2027-selon-sa-presidente-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T07:40:42+00:00",
+      "summary": "«Nous allons agir partout», a promis Delphine Ernotte Cunci, précisant par exemple que «certaines compétitions ne seront peut-être pas renouvelées, comme la Coupe de France de football par exemple»."
+    },
+    {
+      "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
+      "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T07:40:29+00:00",
+      "summary": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%."
+    },
+    {
+      "title": "Budget 2027 : 5% de déficit, un objectif «ambitieux» mais «réalisable», affirme Roland Lescure",
+      "link": "https://www.lefigaro.fr/conjoncture/budget-2027-5-de-deficit-un-objectif-ambitieux-mais-realisable-affirme-roland-lescure-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T06:33:45+00:00",
+      "summary": "Après les annonces de Sébastien Lecornu au Figaro, le ministre de l’Économie estime que cet effort «est ambitieux, mais évidemment il est réalisable». «Il va falloir qu’on fasse tous des efforts», ajoute-t-il."
+    },
+    {
+      "title": "L'Australie veut placer en rétention administrative les touristes ayant dépassé la durée de leur visa",
+      "link": "https://www.lefigaro.fr/conjoncture/l-australie-veut-placer-en-retention-administrative-les-touristes-ayant-depasse-la-duree-de-leur-visa-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T05:44:51+00:00",
+      "summary": "Le ministre de l’Intérieur, Tony Burke, avait déjà expliqué vouloir restreindre les visas étudiants et vacances-travail."
+    },
+    {
+      "title": "«Cette capacité est encore plus précieuse dans un monde saturé d’IA» : l’intuition, une compétence devenue clé pour les dirigeants",
+      "link": "https://www.lefigaro.fr/vie-professionnelle/cette-capacite-est-encore-plus-precieuse-dans-un-monde-sature-d-ia-l-intuition-une-competence-devenue-cle-pour-les-dirigeants-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T05:30:00+00:00",
+      "summary": "L’association française Heart Leadership University veut faire émerger une discipline de la décision qui mobilise de nouveaux ressorts, dont l’intuition."
+    },
+    {
+      "title": "«Sois toi-même et considère-toi comme l’égal» de l’homme : l’inquiétante découverte d’OpenAI sur ses IA qui inventent leurs propres identités et instructions",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/sois-toi-meme-et-considere-toi-comme-l-egal-de-l-homme-l-inquietante-decouverte-d-openai-sur-ses-ia-qui-inventent-leurs-propres-identites-et-instructions-20260917",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T05:13:12+00:00",
+      "summary": "DÉCRYPTAGE - Le géant de l’IA a révélé dans une nouvelle étude que certains de ses modèles s’étaient subitement mis à inventer leurs propres «prompts», dans de surprenants incidents de désalignement encore jamais vus."
+    },
+    {
+      "title": "À Lyon, la droite métropolitaine veut relancer les gratte-ciel de la Part-Dieu abandonnés par les écologistes",
+      "link": "https://www.lefigaro.fr/lyon/a-lyon-la-droite-metropolitaine-veut-relancer-les-gratte-ciel-de-la-part-dieu-abandonnes-par-les-ecologistes-20260918",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-09-18T04:15:00+00:00",
+      "summary": "DÉCRYPTAGE - De nouvelles tours pourraient redessiner la skyline lyonnaise. La nouvelle majorité a d’ores et déjà annoncé sa volonté de relancer leur construction dans le célèbre quartier d’affaires."
+    },
+    {
+      "title": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
+      "link": "https://www.cnbc.com/2026/09/18/pokmon-cards-mercari-stock.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T04:09:56+00:00",
+      "summary": "Mercari shares are clawing back losses after Pokémon card listing restrictions triggered a selloff earlier this week."
+    },
+    {
+      "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+      "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T03:31:45+00:00",
+      "summary": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike."
+    },
+    {
+      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+      "link": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-18T03:09:22+00:00",
+      "summary": "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians."
+    },
     {
       "title": "Waymo says Singapore will be its next international robotaxi city",
       "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
@@ -11,15 +353,6 @@
       "lang": "en",
       "published": "2026-09-18T02:00:00+00:00",
       "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human sa"
-    },
-    {
-      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
-      "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-18T01:35:38+00:00",
-      "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears."
     },
     {
       "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
@@ -76,6 +409,15 @@
       "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
     },
     {
+      "title": "Jim Cramer says history offers a playbook for navigating a Fed rate-hiking cycle",
+      "link": "https://www.cnbc.com/2026/09/17/jim-cramer-fed-rate-hike-investing.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T22:58:28+00:00",
+      "summary": "CNBC's Jim Cramer said investors shouldn’t assume stocks will struggle for the entire period."
+    },
+    {
       "title": "House heads home to campaign amid calls for urgent AI action",
       "link": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
       "source": "CNBC - Top News",
@@ -130,15 +472,6 @@
       "summary": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding."
     },
     {
-      "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
-      "link": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T21:16:59+00:00",
-      "summary": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it."
-    },
-    {
       "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
       "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
       "source": "MarketWatch - Top Stories",
@@ -155,6 +488,15 @@
       "lang": "en",
       "published": "2026-09-17T21:00:47+00:00",
       "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters."
+    },
+    {
+      "title": "Bill to curb AI data center utility costs hits snag in Senate",
+      "link": "https://www.cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T20:56:41+00:00",
+      "summary": "Sen. Martin Heinrich, D-N.M., blocked bipartisan legislation aimed at reining in data center-related utility cost increases, calling the bill a half-measure."
     },
     {
       "title": "The fix for rogue AI agents could be more AI",
@@ -209,15 +551,6 @@
       "lang": "en",
       "published": "2026-09-17T20:23:00+00:00",
       "summary": "Slower-than-expected robotaxi progress is still a chief concern, according to experts."
-    },
-    {
-      "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
-      "link": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T20:22:20+00:00",
-      "summary": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress."
     },
     {
       "title": "Is the AI safety debate about safety or control?",
@@ -292,24 +625,6 @@
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’"
     },
     {
-      "title": "Nestlé, Auchan, Leroy Merlin : les actifs russes de plusieurs grandes entreprises transférés à une même société",
-      "link": "https://www.lefigaro.fr/conjoncture/nestle-auchan-leroy-merlin-les-actifs-russes-de-plusieurs-grandes-entreprises-transferes-a-une-meme-societe-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T19:26:29+00:00",
-      "summary": "D’après un décret signé ce jeudi par Vladimir Poutine, «L.E.V Management» absorbera les actifs des trois entreprises."
-    },
-    {
-      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T19:07:00+00:00",
-      "summary": "“We also pay for the daughter’s food and drinks and she doesn’t usually even eat half of the meal.”"
-    },
-    {
       "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
       "source": "The Verge",
@@ -319,42 +634,6 @@
       "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, "
     },
     {
-      "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
-      "link": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T18:52:00+00:00",
-      "summary": "Oil prices fell as additional Saudi crude supplies eased concerns over disruptions to the kingdom’s exports."
-    },
-    {
-      "title": "«Sois toi-même et considère-toi comme l’égal» de l’homme : l’inquiétante découverte d’OpenAI sur ses IA qui inventent leurs propres identités et instructions",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/sois-toi-meme-et-considere-toi-comme-l-egal-de-l-homme-l-inquietante-decouverte-d-openai-sur-ses-ia-qui-inventent-leurs-propres-identites-et-instructions-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T18:48:03+00:00",
-      "summary": "DÉCRYPTAGE - Le géant de l’IA a révélé dans une nouvelle étude que certains de ses modèles s’étaient subitement mis à inventer leurs propres «prompts», dans de surprenants incidents de désalignement encore jamais vus."
-    },
-    {
-      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
-      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T18:46:00+00:00",
-      "summary": "Zscaler’s stock has missed out on the cybersecurity sector’s big rally this year — but it could soon get its moment in the spotlight"
-    },
-    {
-      "title": "Un pain à 60 dollars, des tartines à 14 dollars… Malgré des prix exorbitants, cette boulangerie à New York attire les foules",
-      "link": "https://www.lefigaro.fr/conso/un-pain-a-60-dollars-des-tartines-a-14-dollars-malgre-des-prix-exorbitants-cette-boulangerie-a-new-york-attire-les-foules-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T18:33:20+00:00",
-      "summary": "Le gérant de la boutique, qui appartient à une chaîne autrichienne bien implantée dans le pays, met ces tarifs très élevés sur le compte de la localisation de la boulangerie, dans le quartier chic de SoHo, l’importation des produits d’Autriche et d’un four de deux tonnes venu d’Allemagne."
-    },
-    {
       "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
       "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
       "source": "TechCrunch",
@@ -362,24 +641,6 @@
       "lang": "en",
       "published": "2026-09-17T18:30:30+00:00",
       "summary": "The company suspended service in the city in April after one of its robotaxis got swept away."
-    },
-    {
-      "title": "Gel du point d’indice des fonctionnaires : Binet dénonce un «scandale» et promet une «journée noire» le 29 septembre",
-      "link": "https://www.lefigaro.fr/social/gel-du-point-d-indice-des-fonctionnaires-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T18:20:22+00:00",
-      "summary": "Dans un entretien au Figaro paru ce jeudi, Sébastien Lecornu a annoncé le gel du point d’indice des fonctionnaires, indiquant vouloir «dégager 2 milliards d’euros» grâce à cette mesure."
-    },
-    {
-      "title": "Une « révolution » dans la prise de décision militaire assistée par l’IA : avec HexaForce, Thales offre une alternative à l’américain Palantir",
-      "link": "https://www.lefigaro.fr/economie/une-revolution-dans-la-prise-de-decision-militaire-assistee-par-l-ia-avec-hexaforce-thales-offre-une-alternative-a-l-americain-palantir-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T18:09:49+00:00",
-      "summary": "DÉCRYPTAGE - Le groupe français lance un système de commandement et de contrôle augmenté à IA, interopérable, ouvert, cybersécurisé et souverain."
     },
     {
       "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
@@ -400,24 +661,6 @@
       "summary": "DÉCRYPTAGE - La Commission européenne a détaillé jeudi son arsenal pour mieux protéger les enfants en ligne. L’accès sera gradué et les obligations renforcées pour les plus grandes plateformes."
     },
     {
-      "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
-      "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T17:42:00+00:00",
-      "summary": "BofA analysts say Amazon’s reported plans to expand same-day fulfillment centers represent an effort to make basic goods “immediately accessible.”"
-    },
-    {
-      "title": "« L’accélération est assez fragile et il ne faut pas la casser ! » : après dix ans d’Emmanuel Macron, les acteurs de la French Tech réclament de la « stabilité » aux candidats à la présidentielle",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/l-acceleration-est-assez-fragile-et-il-ne-faut-pas-la-casser-apres-dix-ans-d-emmanuel-macron-les-acteurs-de-la-french-tech-reclament-de-la-stabilite-aux-candidats-a-la-presidentielle-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T17:35:00+00:00",
-      "summary": "REPORTAGE - Plusieurs prétendants à l’Élysée ont défilé mercredi aux rencontres organisées par France Digitale."
-    },
-    {
       "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
       "link": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
       "source": "CNBC - Top News",
@@ -436,15 +679,6 @@
       "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government."
     },
     {
-      "title": "Blocage des prix, baisse des taxes... Quelles sont les propositions des candidats à la présidentielle sur les carburants ?",
-      "link": "https://www.lefigaro.fr/elections/presidentielles/blocage-des-prix-baisse-des-taxes-quelles-sont-les-propositions-des-candidats-a-la-presidentielle-sur-les-carburants-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T17:17:12+00:00",
-      "summary": "Chaque candidat à l’Élysée y va de sa solution pour protéger financièrement les Français de la flambée des prix à la pompe, sur fond de crainte d’un retour des «Gilets jaunes»."
-    },
-    {
       "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
       "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
       "source": "TechCrunch",
@@ -461,15 +695,6 @@
       "lang": "en",
       "published": "2026-09-17T17:15:00+00:00",
       "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases."
-    },
-    {
-      "title": "«Il est temps d’aller au-delà de l’Europe» : au Brésil, Renault vit une lune de miel avec Geely",
-      "link": "https://www.lefigaro.fr/economie/il-est-temps-d-aller-au-dela-de-l-europe-au-bresil-renault-vit-une-lune-de-miel-avec-geely-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T17:15:00+00:00",
-      "summary": "DÉCRYPTAGE - Renault s’apprête à lancer au Brésil une nouvelle voiture dotée de la technologie de Geely. Avec à la clé des coûts réduits et des prix plus accessibles."
     },
     {
       "title": "Quel niveau de déficit public Emmanuel Macron va-t-il laisser à son successeur ?",
@@ -499,15 +724,6 @@
       "summary": "EXCLUSIF - Matignon propose des économies sur les APL, les arrêts maladie, les salaires des fonctionnaires ou encore sur les pensions de retraite."
     },
     {
-      "title": "Interdiction jusqu’à 13 ans, restriction jusqu’à 15 ans : avec l’EU Kids Act, le défi de la vérification d’âge",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/interdiction-jusqu-a-13-ans-restriction-jusqu-a-15-ans-avec-l-eu-kids-act-le-defi-de-la-verification-d-age-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T16:50:00+00:00",
-      "summary": "DÉCRYPTAGE - Dans sa proposition de règlement pour protéger les mineurs en ligne, la Commission européenne a opté pour une approche « graduelle » dans l’accès des mineurs aux réseaux sociaux, avec des échelons selon l’âge."
-    },
-    {
       "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
       "link": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
       "source": "TechCrunch",
@@ -535,15 +751,6 @@
       "summary": "EXCLUSIF - Dans son budget 2027, le gouvernement ne supprime pas cet impôt qui devrait être temporaire, mais le réduit."
     },
     {
-      "title": "Les aides aux pêcheurs «suivront la variation des cours du carburant», annonce la ministre de la Mer",
-      "link": "https://www.lefigaro.fr/conjoncture/les-aides-aux-pecheurs-suivront-la-variation-des-cours-du-carburant-annonce-la-ministre-de-la-mer-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T16:19:08+00:00",
-      "summary": "La ministre déléguée chargée de la Mer et de la Pêche, Catherine Chabaud, a annoncé que les pêcheurs «se sont engagés à débloquer les barrages», à l’issue d’une rencontre de plus de six heures au ministère."
-    },
-    {
       "title": "Apple will let EU apps use less-alarming tracking-consent screens",
       "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
       "source": "TechCrunch",
@@ -551,15 +758,6 @@
       "lang": "en",
       "published": "2026-09-17T16:09:58+00:00",
       "summary": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent."
-    },
-    {
-      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-      "link": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T16:00:17+00:00",
-      "summary": "Bajaria said Netflix would be open to a package of international NFL games if one becomes available when the league renegotiates its media rights agreements."
     },
     {
       "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
@@ -578,24 +776,6 @@
       "lang": "en",
       "published": "2026-09-17T15:50:29+00:00",
       "summary": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more."
-    },
-    {
-      "title": "Le Crédit agricole débloque 1,5 milliard de prêts sécheresse pour les agriculteurs",
-      "link": "https://www.lefigaro.fr/economie/le-credit-agricole-debloque-1-5-milliard-de-prets-secheresse-pour-les-agriculteurs-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T15:43:02+00:00",
-      "summary": "DÉCRYPTAGE - Comme le Crédit mutuel et les Banques populaires, la première banque des agriculteurs met en place de prêts de court terme bonifiés pour aider les fermes à acheter des fourrages pour l’hiver, ainsi que des semis et des engrais pour la prochaine saison."
-    },
-    {
-      "title": "«Il n’y en avait plus 15 minutes après l’ouverture du magasin» : pour ses 30 ans, Pokémon s’offre une nouvelle ruée sur ses cartes",
-      "link": "https://www.lefigaro.fr/conso/il-n-y-en-avait-plus-15-minutes-apres-l-ouverture-du-magasin-pour-ses-30-ans-pokemon-s-offre-une-nouvelle-ruee-sur-ses-cartes-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T15:15:00+00:00",
-      "summary": "À l’occasion de son anniversaire, la célèbre franchise a sorti de nouvelles cartes, prisées des collectionneurs. De quoi attiser les convoitises."
     },
     {
       "title": "EUDI Wallet : c'est aux entreprises d'inventer les usages qui en feront un succès",
@@ -652,15 +832,6 @@
       "summary": "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things."
     },
     {
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T14:30:25+00:00",
-      "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms"
-    },
-    {
       "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
       "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
       "source": "CNBC - Top News",
@@ -668,15 +839,6 @@
       "lang": "en",
       "published": "2026-09-17T14:28:39+00:00",
       "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc."
-    },
-    {
-      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
-      "link": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T14:07:07+00:00",
-      "summary": "Robert Kraft said Ed Sheeran asked him to commit $2 million toward humanitarian aid amid the controversy over Macklemore’s removal from Sheeran’s U.S. tour"
     },
     {
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
@@ -733,15 +895,6 @@
       "summary": "Une heure d'arrêt non planifié sur un centre d'usinage CNC coûte bien plus que le simple taux horaire machine. Analyse des composantes réelles, ordres de grandeur et leviers pour en réduire l'impact."
     },
     {
-      "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-      "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T13:46:14+00:00",
-      "summary": "Trump says the U.S. may be nearing the end of its nearly seven-month war with Iran, as he signals Tehran is open to a deal."
-    },
-    {
       "title": "Dans les coulisses de l’usine bordelaise de Ouidrop qui équipe les drives de la grande distribution",
       "link": "https://www.latribune.fr/article/entreprises-finance/industrie/59005110500933/dans-les-coulisses-de-l-usine-bordelaise-de-ouidrop-qui-equipe-les-drives-de-la-grande-distribution",
       "source": "La Tribune - Actualité",
@@ -769,24 +922,6 @@
       "summary": "U.S. President Donald Trump had described the prospect of Canada becoming the first associate member of the EU as \"laughable.\""
     },
     {
-      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
-      "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T12:27:10+00:00",
-      "summary": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices."
-    },
-    {
-      "title": "Charities say gifts by deceased donors are getting held up at financial firms",
-      "link": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T11:50:08+00:00",
-      "summary": "Nonprofits are pushing back against policies by financial institutions to collect personal information of charity employees before releasing a gift."
-    },
-    {
       "title": "Pendant que la France continue d'emprunter à des niveaux alarmants, l'Espagne ramène sa dette sous les 100% du PIB",
       "link": "https://www.latribune.fr/article/economie/finances-publiques/83235549613565/pendant-que-la-france-continue-demprunter-a-des-niveaux-alarmants-lespagne-ramene-sa-dette-sous-les-100-du-pib",
       "source": "La Tribune - Actualité",
@@ -794,15 +929,6 @@
       "lang": "fr",
       "published": "2026-09-17T11:29:34+00:00",
       "summary": "Pendant que la France s'endette à des taux records au regard de ses adjudications de ce jeudi, l'Espagne a réussi la performance historique de repasser sa dette publique sous la barre des 100 % du PIB. Madrid offre une leçon de redressement budgétaire à Paris, au bord de l'impasse."
-    },
-    {
-      "title": "Commerce transatlantique : l’UE et les États-Unis peuvent-ils vraiment se passer l’un de l’autre ?",
-      "link": "https://www.lefigaro.fr/conjoncture/commerce-transatlantique-l-ue-et-les-etats-unis-peuvent-ils-vraiment-se-passer-l-un-de-l-autre-20260917",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-09-17T11:00:00+00:00",
-      "summary": "DÉCRYPTAGE - Les économies européenne et américaine sont étroitement imbriquées par des échanges commerciaux considérables. Une rupture de ces liens aurait des conséquences désastreuses pour l’économie mondiale."
     },
     {
       "title": "Le bureau national du Parti socialiste écarte Philippe Brun de la primaire",
@@ -830,15 +956,6 @@
       "lang": "fr",
       "published": "2026-09-17T10:04:21+00:00",
       "summary": "Le président américain a menacé de cesser tout commerce avec l'UE en réaction au projet de l'Union européenne de faire du Canada son premier membre associé."
-    },
-    {
-      "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
-      "link": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T10:00:01+00:00",
-      "summary": "CEO Steve O’Donnell said NASCAR's media strategy and the upcoming film \"Days of Thunder 2\" will help raise brand awareness and broaden its fan base."
     },
     {
       "title": "GPT-Image 2.5 vs Nano Banana 2 : quel est le meilleur modèle en septembre 2026 ?",
@@ -904,6 +1021,15 @@
       "summary": "Vingt ans de programmes complexes ont conduit à une conviction simple : l'efficacité dépend de la qualité des interactions, pas de la puissance des outils."
     },
     {
+      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+      "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-17T09:00:01+00:00",
+      "summary": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation."
+    },
+    {
       "title": "Trump gains a tariff weapon against China and India. Will he use it?",
       "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
       "source": "CNBC - Top News",
@@ -958,22 +1084,13 @@
       "summary": "Depuis cet été, Google répond de plus en plus souvent aux candidats à la place des sites. Sur les questions qui vous jugent, salaires et avis, ce sont surtout d'autres pages qu'il cite."
     },
     {
-      "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
-      "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+      "title": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all",
+      "link": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-09-17T05:00:01+00:00",
-      "summary": "Russia’s upcoming election is expected to cement United Russia’s dominance, but voter turnout and its margin of victory could offer clues to public discontent."
-    },
-    {
-      "title": "Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital",
-      "link": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-17T03:35:26+00:00",
-      "summary": "Two of Walter's insurance companies faces federal criminal and civil investigations into the accounting of roughly $21 billion in financial transactions."
+      "published": "2026-09-17T05:10:05+00:00",
+      "summary": "India's digital payment system, which processes more than 1 million transactions every two minutes for free now, will start charging fees to merchants."
     },
     {
       "title": "394 milliards d’euros : ce que la prudence des épargnants français leur a coûté (en théorie)",
@@ -985,24 +1102,6 @@
       "summary": "J. P. Morgan AM estime que 475 milliards d’euros placés par les ménages français sur des supports liquides depuis 2020 auraient valu 394 milliards de plus sur les actions mondiales. Le calcul frappe, mais il repose sur une simulation rétrospective qui ne mesure ni une perte réellement encaissée ni l"
     },
     {
-      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
-      "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-16T23:05:48+00:00",
-      "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies."
-    },
-    {
-      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-      "link": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-16T21:40:18+00:00",
-      "summary": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers."
-    },
-    {
       "title": "La Fed relève ses taux et ouvre une nouvelle séquence monétaire",
       "link": "https://www.latribune.fr/article/economie/72507394881742/la-fed-releve-ses-taux-et-ouvre-une-nouvelle-sequence-monetaire",
       "source": "La Tribune - Actualité",
@@ -1012,69 +1111,6 @@
       "summary": "La Fed a relevé ses taux de 25 points de base, un choix qui marque le retour du resserrement monétaire américain alors que l’inflation et le pétrole compliquent l’équation de son nouveau président, Kevin Warsh."
     },
     {
-      "title": "Désert médical : ce ne sont pas les campagnes qui renoncent aux soins, ce sont les cadres",
-      "link": "https://www.journaldunet.com/management/vie-personnelle/1554871-desert-medical-ce-ne-sont-pas-les-campagnes-qui-renoncent-aux-soins-ce-sont-les-cadres/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T18:00:14+00:00",
-      "summary": "63 % des Français ont renoncé à un rendez-vous médical cette année. Les premiers touchés ne sont pas les campagnes, mais les cadres empêchés par leurs horaires de travail."
-    },
-    {
-      "title": "AIO / AI Mode : ce que les publishers reprochent à Google",
-      "link": "https://www.journaldunet.com/adtech/1554875-aio-ai-mode-ce-que-les-publishers-reprochent-a-google/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T16:53:32+00:00",
-      "summary": "Les éditeurs en ligne ont engagé une mobilisation collective pour documenter l'impact de la mise en œuvre des nouvelles fonctionnalités d'IA du moteur de recherche. Sources attribuées, KPI et opt-out insuffisants…Voici ce qui pose problème."
-    },
-    {
-      "title": "\"Pour résoudre un problème de migration de données, Claude a décidé de supprimer… la base de données !\"",
-      "link": "https://www.journaldunet.com/cybersecurite/1554939-pour-resoudre-un-probleme-de-migration-de-donnees-claude-a-decide-de-supprimer-la-base-de-donnees/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T16:08:15+00:00",
-      "summary": "Les cofondateurs de Kerys Software, Thomas Brethomé et Thomas Girard, témoignent des risques de sécurité qu'ils rencontrent quand ils utilisent l'IA agentique pour améliorer leur solution de virtualisation sécurisée."
-    },
-    {
-      "title": "Identité numérique : l'Europe doit désormais gagner la bataille de la confiance",
-      "link": "https://www.journaldunet.com/cybersecurite/1554867-identite-numerique-l-europe-doit-desormais-gagner-la-bataille-de-la-confiance/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T15:57:00+00:00",
-      "summary": "D'ici fin 2026, les États membres de l'Union européenne devront mettre à disposition de leurs citoyens et résidents le European Digital Identity Wallet, un portefeuille européen d'identité numérique."
-    },
-    {
-      "title": "Le Parti socialiste propose un contre-budget pour 2027 à l'Assemblée nationale",
-      "link": "https://www.journaldunet.com/business/action-publique/1554951-le-parti-socialiste-propose-un-contre-budget-pour-2027-a-l-assemblee-nationale/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T15:24:53+00:00",
-      "summary": "Les députés socialistes présentent un ensemble de mesures fiscales et sociales, misant sur 39,5 milliards d'euros de recettes nouvelles pour soutenir le pouvoir d'achat et la justice sociale."
-    },
-    {
-      "title": "Gabriel Attal affirme que la dissolution de l'Assemblée nationale en 2024 a \"contribué à quasiment flinguer l'économie française\"",
-      "link": "https://www.journaldunet.com/business/action-publique/1554945-gabriel-attal-affirme-que-la-dissolution-de-l-assemblee-nationale-en-2024-a-contribue-a-quasiment-flinguer-l-economie-francaise/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T15:18:59+00:00",
-      "summary": "Le candidat Renaissance à la présidentielle dénonce l'impact économique de la dissolution de 2024, soulignant la dégradation des principaux indicateurs économiques depuis cet événement."
-    },
-    {
-      "title": "Personas synthétiques : quand l'unanimité devient un signal d'alerte",
-      "link": "https://www.journaldunet.com/martech/1554739-personas-synthetiques-quand-l-unanimite-devient-un-signal-d-alerte/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T14:15:41+00:00",
-      "summary": "J'ai demandé à vingt-huit répondants synthétiques s'il fallait remplacer les répondants humains. Aucun n'a défendu le remplacement total. Cette unanimité doit alerter. Explications."
-    },
-    {
       "title": "Le prix du gasoil peut-il vraiment atteindre 3 euros le litre ?",
       "link": "https://www.latribune.fr/article/economie/agroconso/54858597315738/le-prix-du-gasoil-peut-il-vraiment-atteindre-3-euros-le-litre",
       "source": "La Tribune - Actualité",
@@ -1082,42 +1118,6 @@
       "lang": "fr",
       "published": "2026-09-16T13:53:44+00:00",
       "summary": "PODCAST. Les Français s’alarment de la hausse du prix des carburants. Depuis le début de la guerre en Iran, les prix à la pompe ont augmenté sans discontinuer et se rapprochent des 3 euros le litre. Pourrait-on vraiment en arriver là ?"
-    },
-    {
-      "title": "Le prix caché de la passion au travail : pourquoi il faut apprendre à dire non",
-      "link": "https://www.journaldunet.com/management/emploi-cadres/1554909-le-prix-cache-de-la-passion-au-travail-pourquoi-il-faut-apprendre-a-dire-non/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T13:27:51+00:00",
-      "summary": "Valérie Petitpierre, ex-cheffe de cabinet du DG du CICR, ne regrette qu'une chose : ne pas avoir appris plus tôt à dire non. Un manager qui ne pose aucune limite tient moins longtemps, pas plus."
-    },
-    {
-      "title": "Comment savoir si votre entreprise a besoin d'automatisation ?",
-      "link": "https://www.journaldunet.com/management/direction-generale/1554897-comment-savoir-si-votre-entreprise-a-besoin-d-automatisation/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T13:26:37+00:00",
-      "summary": "Beaucoup de dirigeants de PME sentent qu'ils perdent du temps sur l'administratif sans savoir si c'est un vrai problème. Voici comment repérer les signes et par quoi commencer."
-    },
-    {
-      "title": "Rentrée 2026, quelles décisions les entreprises doivent-elles prendre pour réduire leur vulnérabilité climatique ?",
-      "link": "https://www.journaldunet.com/management/direction-generale/1554881-rentree-2026-quelles-decisions-les-entreprises-doivent-elles-prendre-pour-reduire-leur-vulnerabilite-climatique/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T13:24:10+00:00",
-      "summary": "Une chronique de Clément LAURENT – Responsable RSE du cabinet Axys"
-    },
-    {
-      "title": "Travail hybride : après la bataille du télétravail, celle du collectif",
-      "link": "https://www.journaldunet.com/management/emploi-cadres/1554879-travail-hybride-apres-la-bataille-du-teletravail-celle-du-collectif/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-16T13:21:56+00:00",
-      "summary": "Le travail hybride s'est installé durablement dans les entreprises françaises."
     },
     {
       "title": "Kérosène : « L’Europe devrait remercier le Nigeria », dit Aliko Dangote",
