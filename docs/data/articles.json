@@ -1,16 +1,151 @@
 {
-  "generated_at": "2026-09-21T21:29:47.626105+00:00",
+  "generated_at": "2026-09-22T02:39:37.906896+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "Tesla makes a move on Southeast Asia's largest EV market. A homegrown giant awaits",
+      "link": "https://www.cnbc.com/2026/09/22/tesla-vinfast-ev-vietnam.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-22T02:22:23+00:00",
+      "summary": "Tesla recently set up a subsidiary in Vietnam, taking a step toward a potential entry into a fast-growing EV market dominated by homegrown rival VinFast."
+    },
+    {
+      "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+      "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-22T01:51:44+00:00",
+      "summary": "The Treasury Secretary said that Washington was pressuring Iran \"like never before\""
+    },
+    {
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-22T01:30:01+00:00",
+      "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge."
+    },
+    {
+      "title": "Pacte Dutreil : Oxfam réclame un plafond et une baisse de l’exonération",
+      "link": "https://www.latribune.fr/article/economie/29657400697989/pacte-dutreil-oxfam-reclame-un-plafond-et-une-baisse-de-l-exoneration",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-09-22T01:00:07+00:00",
+      "summary": "À l’approche du débat budgétaire, Oxfam propose de plafonner l’avantage fiscal à 1 million d’euros, de ramener l’exonération de 75% à 50% et de la conditionner à l’emploi. L’exécutif, lui, refuse de rouvrir le dossier malgré un coût estimé à 5,5 milliards en 2024."
+    },
+    {
+      "title": "A cut cable disrupted hundreds of flights across the US",
+      "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-21T23:48:56+00:00",
+      "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outag"
+    },
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-21T23:44:28+00:00",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
+      "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-21T23:18:30+00:00",
+      "summary": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week."
+    },
+    {
+      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+      "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-09-21T23:15:32+00:00",
+      "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon h"
+    },
     {
       "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
       "link": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-09-21T21:27:24+00:00",
+      "published": "2026-09-21T23:03:57+00:00",
       "summary": "Meta's Muse AI personal agent tool had 730,000 and 2.5 million downloads over the roughly five-day and thirteen-day time frames after its launch."
+    },
+    {
+      "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+      "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-21T23:03:04+00:00",
+      "summary": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday."
+    },
+    {
+      "title": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
+      "link": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-21T22:46:26+00:00",
+      "summary": "Data centers have been a flash point in the 2026 midterm elections, including Abbott's bid for reelection against Democratic state Rep. Gina Hinojosa."
+    },
+    {
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-21T22:01:00+00:00",
+      "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off."
+    },
+    {
+      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-21T21:57:00+00:00",
+      "summary": "An analyst at BNP has taken a positive view of AT&amp;T’s stock, writing that investors should have “little to quibble with on the mobile side.”"
+    },
+    {
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-21T21:47:00+00:00",
+      "summary": "The lack of clarity around crypto’s regulatory framework hasn’t stopped bitcoin from surging, as investors haven’t abandoned hopes for clearer U.S. rules."
+    },
+    {
+      "title": "Stock boom is fueling a ‘retirement party,’ economists say — what it means for workers",
+      "link": "https://www.cnbc.com/2026/09/21/stock-gains-fuel-retirements-among-older-workers-economists.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-21T21:45:45+00:00",
+      "summary": "Stocks have surged, and economists said the resulting \"wealth effect\" has led older workers to retire at a faster clip."
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-09-21T21:30:00+00:00",
+      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”"
     },
     {
       "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
@@ -20,15 +155,6 @@
       "lang": "en",
       "published": "2026-09-21T21:20:41+00:00",
       "summary": "The market just posted major gains, but the latest performance is not as strong as it may seem."
-    },
-    {
-      "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
-      "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T21:17:56+00:00",
-      "summary": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday."
     },
     {
       "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
@@ -65,15 +191,6 @@
       "lang": "en",
       "published": "2026-09-21T21:00:00+00:00",
       "summary": "“On each of these weekends away, she’s probably spending $500.”"
-    },
-    {
-      "title": "Treasury yields ease as global borrowing costs tumble",
-      "link": "https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T20:55:06+00:00",
-      "summary": "Treasury yields were lower on Monday following last week's interest rate bonanza."
     },
     {
       "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
@@ -139,15 +256,6 @@
       "summary": "On an intraday basis, AMD became the 14th U.S. company to see its market capitalization top $1 trillion."
     },
     {
-      "title": "Moderna will reveal the data for its mRNA cancer vaccine next month. Here’s why it matters.",
-      "link": "https://www.marketwatch.com/story/moderna-will-reveal-the-data-for-its-mrna-cancer-vaccine-next-month-heres-why-it-matters-4470a558?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T20:19:00+00:00",
-      "summary": "One reason that analysts and doctors want to see the data is to better understand how well the personalized treatment works."
-    },
-    {
       "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
       "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
       "source": "TechCrunch",
@@ -175,24 +283,6 @@
       "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees."
     },
     {
-      "title": "America’s power grid is running out of juice — and these stocks stand to gain",
-      "link": "https://www.marketwatch.com/story/americas-power-grid-is-running-out-of-juice-and-these-stocks-stand-to-gain-85364aca?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T20:02:00+00:00",
-      "summary": "SpaceX is one of a host of potential beneficiaries identified by Morgan Stanley as ways to play the intensifying AI power shortage."
-    },
-    {
-      "title": "Elon Musk, Jensen Huang and Tim Cook are set to dine with Xi this week. Here’s what their companies want from China.",
-      "link": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T19:46:00+00:00",
-      "summary": "The Trump White House’s guest list reads like a map of corporate America’s exposure to China — from Tesla’s Shanghai factory, to Nvidia’s blocked AI chips, to Citi’s long-awaited brokerage license."
-    },
-    {
       "title": "Retailer Revolve announces partnership with Donatella Versace",
       "link": "https://www.cnbc.com/2026/09/21/revolve-partnership-donatella-versace.html",
       "source": "CNBC - Top News",
@@ -209,15 +299,6 @@
       "lang": "en",
       "published": "2026-09-21T19:37:01+00:00",
       "summary": "They're the latest metrics on how much the new Medicare coverage is expanding access to GLP-1 medicines since it launched in July."
-    },
-    {
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T19:30:00+00:00",
-      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”"
     },
     {
       "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
@@ -389,15 +470,6 @@
       "lang": "fr",
       "published": "2026-09-21T17:15:00+00:00",
       "summary": "DÉCRYPTAGE - Anthropic a choisi le cabinet de conseil comme évaluateur indépendant de la sécurité de ses modèles. Une amorce de contrôle organisée par l’entreprise, alors que le secteur reste largement dérégulé."
-    },
-    {
-      "title": "Stock boom is fueling a ‘retirement party,’ economists say — what it means for workers",
-      "link": "https://www.cnbc.com/2026/09/21/stock-gains-fuel-retirements-among-older-workers-economists.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T17:14:25+00:00",
-      "summary": "Stocks have surged and the resulting \"wealth effect\" has led older workers to retire at a faster clip."
     },
     {
       "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
@@ -670,15 +742,6 @@
       "summary": "TÉMOIGNAGES - Avec la guerre en Iran, la flambée des prix met à mal le rêve américain pour les Français qui ont choisi de s’installer outre-Atlantique."
     },
     {
-      "title": "German voters turn to left and far-right as 'disaster' for ruling CDU threatens pro-growth reforms",
-      "link": "https://www.cnbc.com/2026/09/21/german-election-result.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T13:22:48+00:00",
-      "summary": "Another local election drubbing for the ruling CDU has increased political instability and threatens growth prospects, economists said."
-    },
-    {
       "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
       "link": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
       "source": "The Verge",
@@ -688,15 +751,6 @@
       "summary": "Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recordin"
     },
     {
-      "title": "These are the first five Googlebook laptops",
-      "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-21T13:01:00+00:00",
-      "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today and arrive in stores on October 4th. Starting prices range from $899 to $1,299, "
-    },
-    {
       "title": "These Gen Z-approved investment funds are having a moment—what investors should know",
       "link": "https://www.cnbc.com/2026/09/21/themed-etfs-gen-z-investors.html",
       "source": "CNBC - Top News",
@@ -704,15 +758,6 @@
       "lang": "en",
       "published": "2026-09-21T13:00:01+00:00",
       "summary": "Themed ETFs for industries like AI and energy are coming back into favor and are especially popular with Gen Z investors. Here are a few tips to keep in mind."
-    },
-    {
-      "title": "The long dream of the Googlebook",
-      "link": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-21T13:00:00+00:00",
-      "summary": "In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had a big new idea about laptops. In the future, he said, the only thing you'd need on your computer was a web browser - that was where all your apps, [&#8230"
     },
     {
       "title": "Comment la canicule a bouleversé la production d’électricité française",
@@ -776,15 +821,6 @@
       "lang": "fr",
       "published": "2026-09-21T09:59:27+00:00",
       "summary": "Deux hooks bloquent les lectures de fichiers volumineux et les redirigent vers gemini-2.5-flash, bien moins cher. Explications et mise en place."
-    },
-    {
-      "title": "Volkswagen woes deepen as blue-chip index exit follows latest profit warning",
-      "link": "https://www.cnbc.com/2026/09/21/volkswagens-latest-profit-warning-compounds-exit-from-blue-chip-index.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T09:56:27+00:00",
-      "summary": "Deutsche Bank analysts said the cut to VW's operating profit forecast initially looks severe but keeps cash generation intact."
     },
     {
       "title": "Réduction de la dette : l’Italie peut-elle inspirer la France ?",
@@ -958,15 +994,6 @@
       "summary": "Le Premier ministre s'engage à préserver les ressources des collectivités locales malgré la rigueur budgétaire, mais la mesure soulève des interrogations sur sa clarté et sa répartition."
     },
     {
-      "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
-      "link": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-21T08:51:25+00:00",
-      "summary": "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms."
-    },
-    {
       "title": "Here's what the Saudi East-West pipeline shutdown means for Asia's biggest crude importers",
       "link": "https://www.cnbc.com/2026/09/21/saudi-pipeline-closure-asia-oil-import-korea.html",
       "source": "CNBC - Top News",
@@ -1048,15 +1075,6 @@
       "summary": "Many of The Boring Company's announced projects have not materialized."
     },
     {
-      "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-      "link": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-09-20T19:06:16+00:00",
-      "summary": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\""
-    },
-    {
       "title": "Is the AI industry really ready to slow down?",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "source": "TechCrunch",
@@ -1082,15 +1100,6 @@
       "lang": "en",
       "published": "2026-09-20T18:00:00+00:00",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
-    },
-    {
-      "title": "New California law will penalize influencers who don’t disclose political ads",
-      "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-09-20T16:30:00+00:00",
-      "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics."
     },
     {
       "title": "Washington craint une « escalade rapide » après une attaque houthie contre Riyad",
@@ -1226,15 +1235,6 @@
       "lang": "fr",
       "published": "2026-09-19T14:30:02+00:00",
       "summary": "Le gouvernement étudie la possibilité d'abaisser à 3.000 euros cette limite car elle permettrait de rapporter 1,4 milliard d'euros de recettes fiscales. Une aubaine pour le prochain budget."
-    },
-    {
-      "title": "Amazon renonce à la livraison gratuite de livres neufs dans les casiers automatiques en France",
-      "link": "https://www.latribune.fr/article/economie/distribution/2505672318933414/amazon-renonce-a-la-livraison-gratuite-de-livres-neufs-dans-les-casiers-automatiques-en-france",
-      "source": "La Tribune - Actualité",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-19T13:00:01+00:00",
-      "summary": "Après avoir perdu son recours auprès du Conseil d'Etat, le géant du e-commerce se voit contraint de cesser de livrer gratuitement des livres neufs dans ses « lockers  », ce qui lui permettait de contourner la loi Darcos. Mais il maintient l'absence de frais dans les points retrait en comptoir."
     },
     {
       "title": "Trophées de la Cybersécurité 2026 : les candidatures sont ouvertes",
