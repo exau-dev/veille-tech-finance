@@ -1,8 +1,134 @@
 {
-  "generated_at": "2026-10-01T22:11:30.829045+00:00",
+  "generated_at": "2026-10-02T03:24:38.911807+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
+      "link": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-02T03:11:34+00:00",
+      "summary": "The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients."
+    },
+    {
+      "title": "Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch",
+      "link": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-02T01:38:13+00:00",
+      "summary": "An Interpol executive warns AI is making existing cyber threats faster and harder to detect, while companies face new risks from the rise of agentic AI."
+    },
+    {
+      "title": "Automobile, pharmacie, aéronautique… Les 5 fleurons français sous la menace directe du « choc chinois 2.0 »",
+      "link": "https://www.latribune.fr/article/entreprises-finance/industrie/58982600849053/automobile-pharmacie-aeronautique-les-5-fleurons-francais-sous-la-menace-directe-du-choc-chinois-2-0",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-02T01:09:01+00:00",
+      "summary": "La Banque de France alerte sur le « choc chinois 2.0 ». Portée par des surcapacités massives et le verrouillage du marché américain, cette seconde vague d'exportations fait grimper la part de la Chine dans les importations françaises à 10,7 %."
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-02T01:00:00+00:00",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”"
+    },
+    {
+      "title": "Robotaxi operators will face fines for blocking first responders",
+      "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-02T00:57:57+00:00",
+      "summary": "A new California law places new rules on autonomous vehicles operators"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-02T00:30:00+00:00",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-02T00:15:00+00:00",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”"
+    },
+    {
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-02T00:14:00+00:00",
+      "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount."
+    },
+    {
+      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-02T00:13:00+00:00",
+      "summary": "The company has faced struggles in China and in its sneaker business."
+    },
+    {
+      "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+      "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-02T00:06:02+00:00",
+      "summary": "Google's tensor processing units were launched into orbit on Planet Labs satellites."
+    },
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-02T00:03:23+00:00",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
+    },
+    {
+      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+      "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-01T23:01:03+00:00",
+      "summary": "The U.S. announced plans for up to $200 billion in South Korean investment, though Seoul has yet to finalize the participation in the Alaska LNG project."
+    },
+    {
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-01T22:51:36+00:00",
+      "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside App"
+    },
+    {
+      "title": "Software roared back last quarter. Cramer says these stocks can keep climbing",
+      "link": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-01T22:18:01+00:00",
+      "summary": "Software stocks bounced back from their AI-driven sell-off, while chip stocks cooled after a massive first-half run."
+    },
     {
       "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
       "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
@@ -103,15 +229,6 @@
       "summary": "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him."
     },
     {
-      "title": "Nike’s troubles are mounting, and sales could fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T21:09:00+00:00",
-      "summary": "The company has faced struggles in China and in its sneaker business."
-    },
-    {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
       "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
       "source": "TechCrunch",
@@ -166,15 +283,6 @@
       "summary": "BP's largest oil discovery in 25 years. What it means for the stock."
     },
     {
-      "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-      "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T20:31:42+00:00",
-      "summary": "Google's tensor processing units were launched into orbit on Planet Labs satellites."
-    },
-    {
       "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
       "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
       "source": "MarketWatch - Top Stories",
@@ -191,15 +299,6 @@
       "lang": "en",
       "published": "2026-10-01T20:15:30+00:00",
       "summary": "The Big Apple joins a growing number of jurisdictions adopting 'click to cancel' rules as the future of a federal standard remains unsettled."
-    },
-    {
-      "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
-      "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T20:14:00+00:00",
-      "summary": "Here’s what parents seeking the $1,000 seed money for their child need to know."
     },
     {
       "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
@@ -301,15 +400,6 @@
       "summary": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cove"
     },
     {
-      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
-      "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T18:38:00+00:00",
-      "summary": "Financial stocks have struggled over the past several weeks, and it’s becoming clear the decline may not be over."
-    },
-    {
       "title": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
       "link": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
       "source": "CNBC - Top News",
@@ -391,15 +481,6 @@
       "summary": "DÉCRYPTAGE - Le taux d’emprunt à dix ans de la France a frôlé les 5 % ce jeudi, du jamais vu depuis 2002. Au même moment, l’État émettait 12 milliards de nouveaux titres, pour un coût bien plus élevé que l’an dernier."
     },
     {
-      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-      "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T18:10:00+00:00",
-      "summary": "Widening credit spreads send an important signal that investors should heed about which stocks to buy and which to avoid"
-    },
-    {
       "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
       "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
       "source": "TechCrunch",
@@ -434,15 +515,6 @@
       "lang": "fr",
       "published": "2026-10-01T17:30:00+00:00",
       "summary": "DÉCRYPTAGE - Estimant que «le travail paye trop peu en France», le secrétaire général du parti socialiste veut instaurer un seuil de répartition égale du bénéfice entre les salariés et les actionnaires."
-    },
-    {
-      "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
-      "link": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T17:16:00+00:00",
-      "summary": "Think twice before embracing any new fund with high performance-related fees in your 401(k)."
     },
     {
       "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
@@ -598,15 +670,6 @@
       "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI as"
     },
     {
-      "title": "Billionaire family offices bet on geothermal energy, brain implants in September",
-      "link": "https://www.cnbc.com/2026/10/01/billionaire-family-offices-back-geothermal-energy-in-september.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T15:57:41+00:00",
-      "summary": "Personal investment firms of John Arnold, Stanley Druckenmiller are investing in cutting-edge technology such as geothermal energy and brain implants."
-    },
-    {
       "title": "Facturation électronique : le calendrier était la partie facile",
       "link": "https://www.journaldunet.com/management/direction-generale/1555655-facturation-electronique-le-calendrier-etait-la-partie-facile/",
       "source": "Journal du Net",
@@ -641,15 +704,6 @@
       "lang": "en",
       "published": "2026-10-01T15:48:20+00:00",
       "summary": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests."
-    },
-    {
-      "title": "Social Security claiming ages may soon get new names. What retirees need to know",
-      "link": "https://www.cnbc.com/2026/10/01/claiming-age-clarity-act-social-security.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T15:19:27+00:00",
-      "summary": "President Donald Trump may sign a bill into law that would change the way Social Security retirement ages are described."
     },
     {
       "title": "Budget 2027 : le gouvernement mise plus sur des recettes nouvelles que sur des économies pour contenir le déficit",
@@ -706,15 +760,6 @@
       "summary": "Le Figaro fait le point sur les principales mesures du projet de loi de finances (PLF) pour l’an prochain, que les ministres Roland Lescure, David Amiel, Stéphanie Rist et Jean-Pierre Farandou ont dévoilé à Bercy ce jeudi 1er octobre."
     },
     {
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-01T14:36:50+00:00",
-      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by"
-    },
-    {
       "title": "Les ventes de voitures diesel se sont effondrées de 62% en septembre en France",
       "link": "https://www.journaldunet.com/economie/industrie/1555697-les-ventes-de-voitures-diesel-se-sont-effondrees-de-62-en-septembre-en-france-nouveau-record-pour-l-electrique/",
       "source": "Journal du Net",
@@ -769,15 +814,6 @@
       "summary": "Des montants importants et un nombre d'opérations en baisse : le financement de l'assurtech n'a jamais semblé aussi polarisé."
     },
     {
-      "title": "Racehorse market breaks records riding high on tax breaks, stock market gains",
-      "link": "https://www.cnbc.com/2026/10/01/racehorse-market-breaks-records-on-tax-breaks-stock-market-gains.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T14:00:48+00:00",
-      "summary": "Keeneland's 2026 September Yearling Sale, the world's largest thoroughbred auction, grossed a record $536.7 million."
-    },
-    {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
       "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
       "source": "TechCrunch",
@@ -794,24 +830,6 @@
       "lang": "en",
       "published": "2026-10-01T13:59:54+00:00",
       "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand."
-    },
-    {
-      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
-      "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T13:40:27+00:00",
-      "summary": "The U.S. announced plans for up to $200 billion in South Korean investment, though Seoul has yet to finalize the participation in the Alaska LNG project."
-    },
-    {
-      "title": "The U.S. just made it much easier for retail investors to access private markets",
-      "link": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-01T13:38:32+00:00",
-      "summary": "The Securities and Exchange Commission has approved new plans to open private markets up to retail investors."
     },
     {
       "title": "Salaire des fonctionnaires, retraites, santé… Ces 25 milliards d’euros d’économies « partiellement » détaillés dans le budget 2027",
@@ -868,15 +886,6 @@
       "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good."
     },
     {
-      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
-      "link": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-01T13:00:00+00:00",
-      "summary": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle."
-    },
-    {
       "title": "Fiscalité locale, taxe sur les autoroutes, retraites… Le budget 2027 prévoit 17 milliards d’euros de hausses d’impôts",
       "link": "https://www.lefigaro.fr/conjoncture/fiscalite-locale-taxe-sur-les-autoroutes-retraites-un-budget-2027-qui-prevoit-17-milliards-d-euros-de-hausses-d-impots-20261001",
       "source": "Le Figaro - Économie",
@@ -884,15 +893,6 @@
       "lang": "fr",
       "published": "2026-10-01T12:18:47+00:00",
       "summary": "DÉCRYPTAGE - Le gouvernement parvient à inscrire dans son texte une augmentation importante de ses recettes."
-    },
-    {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-01T12:00:00+00:00",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach."
     },
     {
       "title": "Retraités, patients, mutuelles et entreprises mobilisés pour réduire le déficit de la Sécu",
@@ -1037,6 +1037,15 @@
       "lang": "fr",
       "published": "2026-10-01T05:27:03+00:00",
       "summary": "Le gouvernement présente sa copie budgétaire en Conseil des ministres ce jeudi 1er octobre. L’exécutif vise 54 milliards d’euros d’économies pour ramener le déficit à 5 % en 2027."
+    },
+    {
+      "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
+      "link": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-01T00:23:44+00:00",
+      "summary": "Foreign insurers brace for another set of policy changes in India's insurance market."
     },
     {
       "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
@@ -1253,15 +1262,6 @@
       "lang": "fr",
       "published": "2026-09-28T15:15:29+00:00",
       "summary": "Supprimer l’abattement de 10 % appliqué aux pensions de retraite serait la mesure la plus intéressante financièrement face à une hausse de la CSG ou une désindexation des pensions, pointe l’Institut des politiques publiques dans une note dévoilée lundi 28 septembre."
-    },
-    {
-      "title": "La France au pied du mur de la dette. La chronique de Marc Fiorentino",
-      "link": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/93615750083007/la-france-au-pied-du-mur-de-la-dette-la-chronique-de-marc-fiorentino",
-      "source": "La Tribune - Actualité",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-09-28T15:00:05+00:00",
-      "summary": "L'immunité financière de la France est tombée : les taux d'emprunt s'envolent et le pays est face au mur de la dette. Mais les candidats engagés dans la course à l'Élysée ne s'emparent pas du sujet."
     }
   ]
 }
