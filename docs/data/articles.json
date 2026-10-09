@@ -1,16 +1,79 @@
 {
-  "generated_at": "2026-10-08T22:42:07.245808+00:00",
+  "generated_at": "2026-10-09T03:54:22.468547+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
     {
-      "title": "President Trump awards big tech donors with nation’s highest science prizes",
+      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+      "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-09T03:51:15+00:00",
+      "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility."
+    },
+    {
+      "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
+      "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-09T02:52:15+00:00",
+      "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island."
+    },
+    {
+      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-09T00:52:00+00:00",
+      "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks."
+    },
+    {
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-09T00:03:00+00:00",
+      "summary": "Seven tips for painlessly moving in retirement."
+    },
+    {
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-08T23:57:23+00:00",
+      "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital."
+    },
+    {
+      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-08T23:14:00+00:00",
+      "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load."
+    },
+    {
+      "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+      "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-08T22:55:46+00:00",
+      "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market."
+    },
+    {
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
       "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
       "source": "TechCrunch",
       "category": "tech",
       "lang": "en",
       "published": "2026-10-08T22:33:59+00:00",
-      "summary": "On Thursday, President Trump awarded Elon Musk, Jensen Huang, Sergey Brin, and AMD’s Lisa Su the National Medal of Science, the nation’s top science prize."
+      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration."
     },
     {
       "title": "US plans livestream of execution by firing squad",
@@ -20,15 +83,6 @@
       "lang": "en",
       "published": "2026-10-08T22:32:04+00:00",
       "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this "
-    },
-    {
-      "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-      "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-08T22:30:26+00:00",
-      "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market."
     },
     {
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
@@ -112,15 +166,6 @@
       "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”"
     },
     {
-      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-08T21:07:00+00:00",
-      "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load."
-    },
-    {
       "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
       "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
       "source": "The Verge",
@@ -157,15 +202,6 @@
       "summary": "Parental controls aren’t just for kids anymore"
     },
     {
-      "title": "A big AI super PAC tried to follow crypto’s playbook to influence the midterms. Critics say it’s not working out.",
-      "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-08T20:44:00+00:00",
-      "summary": "The political action committee says it’s “continuing to build a durable coalition that wants America to remain the global leader in AI development.”"
-    },
-    {
       "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
       "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
       "source": "The Verge",
@@ -173,15 +209,6 @@
       "lang": "en",
       "published": "2026-10-08T20:32:21+00:00",
       "summary": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products. Bloomberg say"
-    },
-    {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-08T20:32:00+00:00",
-      "summary": "Risk comes in many forms, even with “safe” investments."
     },
     {
       "title": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
@@ -689,7 +716,7 @@
     },
     {
       "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-      "link": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "link": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
       "source": "TechCrunch",
       "category": "tech",
       "lang": "en",
@@ -895,15 +922,6 @@
       "summary": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers."
     },
     {
-      "title": "Why REITs aren't getting killed by rising interest rates this time around",
-      "link": "https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-08T11:28:53+00:00",
-      "summary": "REITs have been seen as a low interest rate play. But some experts are making the case that real estate fundamentals today are outweighing even rising rates."
-    },
-    {
       "title": "Les dépenses liées aux affections de longue durée augmentent de 8,2 milliards d'euros en dix ans",
       "link": "https://www.journaldunet.com/business/action-publique/1556007-les-depenses-liees-aux-affections-longue-duree-augmentent-de-8-2-milliards-d-euros-en-dix-ans/",
       "source": "Journal du Net",
@@ -947,15 +965,6 @@
       "lang": "fr",
       "published": "2026-10-08T09:44:15+00:00",
       "summary": "Face à GPT-6 Luna et GLM-5.3, il brille sur le style français et la cyber, mais reste en retrait sur le code et l'analyse."
-    },
-    {
-      "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-      "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-08T08:43:44+00:00",
-      "summary": "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers."
     },
     {
       "title": "Contenus IA : Google accélère la chasse au \" slop \"",
@@ -1037,15 +1046,6 @@
       "lang": "fr",
       "published": "2026-10-08T04:00:05+00:00",
       "summary": "En approchant de la fin de votre carrière, votre patrimoine doit désormais vous permettre de compléter votre retraite. Il convient aussi de commencer à préparer votre transmission. Voici les bons arbitrages à envisager pour sécuriser votre avenir financier."
-    },
-    {
-      "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-      "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-07T23:10:54+00:00",
-      "summary": "U.S. Trade Representative Jamieson Greer reported $1.17 million to $3.75 million in assets and disclosed a prior $10,000 payment from Coupang."
     },
     {
       "title": "Baisse de 12 à 18 centimes sur le gazole, électricité, mobilisation lycéenne… Ce qu’il faut retenir de l’allocution de Sébastien Lecornu",
