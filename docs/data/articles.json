@@ -1,25 +1,189 @@
 {
-  "generated_at": "2026-10-14T21:09:11.776090+00:00",
-  "count": 140,
-  "failed_sources": [],
+  "generated_at": "2026-10-15T02:35:45.224082+00:00",
+  "count": 130,
+  "failed_sources": [
+    "MarketWatch - Top Stories"
+  ],
   "articles": [
+    {
+      "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+      "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-15T01:56:53+00:00",
+      "summary": "Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3.3 billion in 2024."
+    },
+    {
+      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-15T01:07:01+00:00",
+      "summary": "A sell-off in global technology hardware stocks deepened Thursday."
+    },
+    {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-15T01:01:32+00:00",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+    },
+    {
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-15T00:49:31+00:00",
+      "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse."
+    },
+    {
+      "title": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+      "link": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-15T00:30:13+00:00",
+      "summary": "Jio Platforms, the company at the center of Musk’s remarks, is launching an IPO later this month."
+    },
+    {
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-15T00:30:00+00:00",
+      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals."
+    },
+    {
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-15T00:00:00+00:00",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and"
+    },
+    {
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-14T23:00:00+00:00",
+      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology."
+    },
+    {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-14T22:53:31+00:00",
+      "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants m"
+    },
+    {
+      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+      "link": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-14T22:48:06+00:00",
+      "summary": "All six banks fell following their earnings reports, even as some delivered strong results, reflecting concerns about interest rates and the economic outlook."
+    },
+    {
+      "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+      "link": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-14T22:19:32+00:00",
+      "summary": "Despite an unpredictable market, CNBC's Jim Cramer says it's important to stay invested."
+    },
+    {
+      "title": "The best feature of Apple’s HomeView might be its simplicity",
+      "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-14T22:00:02+00:00",
+      "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple "
+    },
+    {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-14T22:00:00+00:00",
+      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI."
+    },
+    {
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-14T21:48:20+00:00",
+      "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom."
+    },
+    {
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-14T21:30:33+00:00",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology."
+    },
+    {
+      "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+      "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-14T21:19:09+00:00",
+      "summary": "As a key corner of the artificial intelligence trade takes a beating on Wednesday, traders are betting it could get even worse."
+    },
+    {
+      "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+      "link": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-14T21:18:46+00:00",
+      "summary": "U.S. District Judge Timothy Kelly had ruled that the three outlets targeted by President Donald Trump can keep their access to the White House complex."
+    },
     {
       "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
       "link": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-14T21:08:23+00:00",
+      "published": "2026-10-14T21:18:13+00:00",
       "summary": "\"Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,\" his criminal defense lawyer said Wednesday."
     },
     {
-      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-14T21:11:28+00:00",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montan"
+    },
+    {
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+      "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-14T21:03:00+00:00",
-      "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report."
+      "published": "2026-10-14T21:09:20+00:00",
+      "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children."
     },
     {
       "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
@@ -28,16 +192,7 @@
       "category": "tech",
       "lang": "en",
       "published": "2026-10-14T21:00:00+00:00",
-      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and  Peter Diamandis has launched a new fund to back startups who use it."
-    },
-    {
-      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-      "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T20:57:00+00:00",
-      "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%."
+      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it."
     },
     {
       "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
@@ -58,24 +213,6 @@
       "summary": "ENQUÊTE - Si l’Hexagone n’accuse pas encore de retard criant dans ses usines, les chefs d’entreprise peinent à embrasser les progrès technologiques actuels. Il s’agit pourtant d’une question de survie, à l’heure où la Chine multiplie ses efforts dans le domaine."
     },
     {
-      "title": "Meet the baby chasers — they’re transforming the housing market and solving the childcare crisis",
-      "link": "https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T20:39:00+00:00",
-      "summary": "Baby boomers have been the biggest force driving home sales over the last few years. Many of them are moving to be close to family, and in particular, their grandchildren."
-    },
-    {
-      "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
-      "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T20:36:00+00:00",
-      "summary": "CoreWeave’s bonds issued six months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%"
-    },
-    {
       "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
       "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
       "source": "TechCrunch",
@@ -92,24 +229,6 @@
       "lang": "en",
       "published": "2026-10-14T20:24:13+00:00",
       "summary": "Anduril has been a major winner of the growing U.S. defense tech boom and President Donald Trump's plans to reindustrialize the U.S. military"
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T20:22:09+00:00",
-      "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter."
-    },
-    {
-      "title": "Why Dell’s stock was one of the S&P 500’s biggest laggards on Wednesday",
-      "link": "https://www.marketwatch.com/story/why-dells-stock-was-one-of-the-s-p-500s-biggest-laggards-on-wednesday-70ce279e?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T20:21:00+00:00",
-      "summary": "An analyst sees limited room for Dell and HPE shares to continue climbing, as dynamics could shift within the market for memory components."
     },
     {
       "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
@@ -157,15 +276,6 @@
       "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's Nati"
     },
     {
-      "title": "10-year Treasury yield dips as traders look ahead to Thursday economic reports",
-      "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T20:03:22+00:00",
-      "summary": "The 10-year Treasury note yield fell on Wednesday after climbing earlier in the day as traders awaited still more economic data Thursday."
-    },
-    {
       "title": "Bending Spoons skyrockets 41% as Berkshire Hathaway makes $330 million investment",
       "link": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
       "source": "CNBC - Top News",
@@ -173,15 +283,6 @@
       "lang": "en",
       "published": "2026-10-14T20:01:26+00:00",
       "summary": "Berkshire's latest investment follows the $600 million it invested in the company's IPO this July."
-    },
-    {
-      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T20:01:00+00:00",
-      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”"
     },
     {
       "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
@@ -202,15 +303,6 @@
       "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant."
     },
     {
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T19:30:00+00:00",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”"
-    },
-    {
       "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
       "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
       "source": "CNBC - Top News",
@@ -218,15 +310,6 @@
       "lang": "en",
       "published": "2026-10-14T19:22:00+00:00",
       "summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports."
-    },
-    {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T19:15:00+00:00",
-      "summary": "”I earn $110,000 a year.”"
     },
     {
       "title": "«Les jeunes passent toujours en dernier» : devant l’Assemblée nationale, le ministre David Amiel défend les économies sur les retraités",
@@ -247,33 +330,6 @@
       "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish "
     },
     {
-      "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
-      "link": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T19:04:00+00:00",
-      "summary": "Market participants and economists are split on the question of whether or not the Federal Reserve will raise interest rates by another quarter-point in two weeks."
-    },
-    {
-      "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
-      "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T19:03:44+00:00",
-      "summary": "As a key corner of the artificial intelligence trade takes a beating on Wednesday, traders are betting it could get even worse."
-    },
-    {
-      "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-      "link": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T19:01:39+00:00",
-      "summary": "U.S. District Judge Timothy Kelly had ruled that the three outlets targeted by President Donald Trump can keep their access to the White House complex."
-    },
-    {
       "title": "Hiyd is a health tracker that attaches to the watch you already wear",
       "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
       "source": "TechCrunch",
@@ -281,15 +337,6 @@
       "lang": "en",
       "published": "2026-10-14T19:00:00+00:00",
       "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives."
-    },
-    {
-      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T18:53:00+00:00",
-      "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month."
     },
     {
       "title": "Treasury says largest U.S. banks let politics influence who received banking services",
@@ -454,22 +501,13 @@
       "summary": ""
     },
     {
-      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
-      "link": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
-      "source": "The Verge",
-      "category": "tech",
+      "title": "How high inflation became a 'fact of life' in the U.S.",
+      "link": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
       "lang": "en",
-      "published": "2026-10-14T17:19:11+00:00",
-      "summary": "There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And whi"
-    },
-    {
-      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
-      "link": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T17:13:27+00:00",
-      "summary": "Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen d"
+      "published": "2026-10-14T17:20:23+00:00",
+      "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices."
     },
     {
       "title": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
@@ -508,15 +546,6 @@
       "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks."
     },
     {
-      "title": "My AI doppelganger tells me what to eat",
-      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T17:00:00+00:00",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the "
-    },
-    {
       "title": "Trump's diesel dilemma — by the numbers",
       "link": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
       "source": "CNBC - Top News",
@@ -542,15 +571,6 @@
       "lang": "fr",
       "published": "2026-10-14T16:37:32+00:00",
       "summary": "La revalorisation des petites retraites était l’une des mesures destinées à adoucir cette réforme très impopulaire, qui par ailleurs repoussait à 64 ans l’âge légal de départ."
-    },
-    {
-      "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
-      "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T16:34:24+00:00",
-      "summary": "A ballistic missile has struck energy infrastructure supposedly covered by the \"energy ceasefire\" announced by Trump on Sunday, Zelenskyy said."
     },
     {
       "title": "«L’ampleur du gaspillage des fonds publics est saisissante» : l’alerte du FMI sur les dettes publiques de la France et des États-Unis",
@@ -598,15 +618,6 @@
       "summary": "DÉCRYPTAGE - Alors que les prix des carburants préoccupent les Vingt-Sept, la présidente de la Commission, Ursula von der Leyen, a déjà proposé certains ajustements."
     },
     {
-      "title": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
-      "link": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T16:14:08+00:00",
-      "summary": "The religious school in Texas is among college endowment funds rivaling market performance of Ivy investing giants like Yale and just hit the $1 billion mark."
-    },
-    {
       "title": "Prismm helps banks keep inherited money in-house",
       "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
       "source": "TechCrunch",
@@ -643,15 +654,6 @@
       "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
     },
     {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T15:08:00+00:00",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell."
-    },
-    {
       "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
       "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
       "source": "CNBC - Top News",
@@ -659,15 +661,6 @@
       "lang": "en",
       "published": "2026-10-14T15:03:59+00:00",
       "summary": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC."
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T15:00:00+00:00",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
     },
     {
       "title": "Revenus moyens, patrimoine, écarts entre les hommes et les femmes.. Radiographie des retraités en France",
@@ -686,15 +679,6 @@
       "lang": "en",
       "published": "2026-10-14T14:56:25+00:00",
       "summary": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war."
-    },
-    {
-      "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
-      "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T14:55:47+00:00",
-      "summary": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments."
     },
     {
       "title": "Emmanuel Macron appelle le gouvernement à des mesures sur le bâti scolaire face aux mobilisations",
@@ -733,15 +717,6 @@
       "summary": "La justice valide la reprise de Duralex par Cédric Meston, assurant la sauvegarde de 155 emplois sur le site historique de La Chapelle-Saint-Mesmin."
     },
     {
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T14:30:00+00:00",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass."
-    },
-    {
       "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
       "link": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
       "source": "CNBC - Top News",
@@ -769,15 +744,6 @@
       "summary": "Contrairement aux jobs d'experts du cybercrime, pour lesquels les candidats sont passés au crible, les petites mains sont recrutées les yeux fermés."
     },
     {
-      "title": "NTangible bets it can predict how athletes will perform under pressure",
-      "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T14:00:00+00:00",
-      "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor."
-    },
-    {
       "title": "« Réussir à faire tourner l’usine avec moins de monde » : Cédric Meston, repreneur de Duralex, révèle son plan pour sauver durablement l’entreprise",
       "link": "https://www.lefigaro.fr/societes/le-plan-du-repreneur-de-duralex-pour-enfin-sauver-durablement-le-fabricant-des-verres-incassables-20261014",
       "source": "Le Figaro - Économie",
@@ -785,15 +751,6 @@
       "lang": "fr",
       "published": "2026-10-14T13:51:29+00:00",
       "summary": "DÉCRYPTAGE - Le projet du cofondateur de HappyVore a été choisi par le tribunal de commerce d’Orléans pour reprendre l’entreprise de verres incassables. Il va reprendre 155 des 243 salariés du fabricant."
-    },
-    {
-      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-      "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T13:25:24+00:00",
-      "summary": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices."
     },
     {
       "title": "ChatGPT Ads : des bilans biaisés et une rentabilité inexistante, mais des impacts positifs",
@@ -841,15 +798,6 @@
       "summary": "Tout le monde regarde le cours de l'or. Presque personne ne regarde la prime des pièces. Elle dit pourtant ce que le cours ne dit pas : si les Français achètent ou s'ils vendent."
     },
     {
-      "title": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-      "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T12:10:03+00:00",
-      "summary": "Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year."
-    },
-    {
       "title": "Comment ouvrir votre site aux agents IA avec WebMCP",
       "link": "https://www.journaldunet.com/intelligence-artificielle/1556619-comment-ouvrir-votre-site-aux-agents-ia-avec-webmcp/",
       "source": "Journal du Net",
@@ -857,24 +805,6 @@
       "lang": "fr",
       "published": "2026-10-14T11:50:08+00:00",
       "summary": "Le protocole permet aux sites d'exposer leurs actions directement aux agents d'IA, sans passer par le computer use. Explications et tutoriel."
-    },
-    {
-      "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
-      "link": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-14T11:00:01+00:00",
-      "summary": "With the holidays just a couple months away, tech companies are betting this is finally the year that AI gadgets make the shopping list."
-    },
-    {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T11:00:00+00:00",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
     },
     {
       "title": "Le gouvernement franchit l'obstacle de la motion socialiste sur le budget 2027",
@@ -1082,24 +1012,6 @@
       "lang": "fr",
       "published": "2026-10-14T05:00:06+00:00",
       "summary": "Prisma Media a isolé le trafic issu du search et corrigé les effets de saisonnalité pour vérifier les baisses, qui vont s'amplifier si Google déploie ses résumés d'IA sur Discover en France."
-    },
-    {
-      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
-      "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-14T01:30:42+00:00",
-      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang."
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-13T23:13:31+00:00",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
     },
     {
       "title": "Les riches paient-ils leur juste part d'impôts ? Non, selon Oxfam, qui menace d’attaquer l’État",
