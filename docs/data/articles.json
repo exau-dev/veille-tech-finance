@@ -1,8 +1,170 @@
 {
-  "generated_at": "2026-10-16T20:20:28.648628+00:00",
+  "generated_at": "2026-10-17T02:23:39.837053+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "All the news about the iPhone Duo",
+      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-16T23:36:26+00:00",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a "
+    },
+    {
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-16T22:51:22+00:00",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, incl"
+    },
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T22:33:05+00:00",
+      "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
+    },
+    {
+      "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T22:31:26+00:00",
+      "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue."
+    },
+    {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T21:59:00+00:00",
+      "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market."
+    },
+    {
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T21:43:00+00:00",
+      "summary": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”"
+    },
+    {
+      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T21:35:00+00:00",
+      "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock."
+    },
+    {
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T21:30:00+00:00",
+      "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors."
+    },
+    {
+      "title": "Katie Zacharia out as Trump's White House press secretary",
+      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T21:26:15+00:00",
+      "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam."
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-16T21:22:28+00:00",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T21:21:00+00:00",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors."
+    },
+    {
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T21:15:00+00:00",
+      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”"
+    },
+    {
+      "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T20:58:00+00:00",
+      "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet."
+    },
+    {
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-16T20:50:27+00:00",
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a [&#"
+    },
+    {
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-16T20:49:04+00:00",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehic"
+    },
+    {
+      "title": "«N’hésitez pas à tirer dans la tête» : sur Radio Nova, un humoriste appelle à «attraper» les grands patrons chez eux et divulgue les adresses de Bernard Arnault et Vincent Bolloré",
+      "link": "https://www.lefigaro.fr/medias/n-hesitez-pas-a-tirer-dans-la-tete-sur-radio-nova-un-humoriste-appelle-a-attraper-les-grands-patrons-chez-eux-et-divulgue-les-adresses-de-bernard-arnault-et-vincent-bollore-20261016",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-16T20:37:47+00:00",
+      "summary": "Menée par l’humoriste Pierre Metzger, la chronique incite à «taper» le directeur général de LVMH, et à mettre «un petit nœud de cravate coulissant autour du cou» de Vincent Bolloré."
+    },
+    {
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "link": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T20:33:55+00:00",
+      "summary": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors."
+    },
+    {
+      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-16T20:28:10+00:00",
+      "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice."
+    },
     {
       "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
       "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
@@ -31,15 +193,6 @@
       "summary": "New research finds debt payments rose far faster than estimated real household income, absorbing about half of a one-earner household's gains."
     },
     {
-      "title": "Katie Zacharia out as Trump's White House press secretary",
-      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T19:47:26+00:00",
-      "summary": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam."
-    },
-    {
       "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
       "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
       "source": "MarketWatch - Top Stories",
@@ -58,31 +211,13 @@
       "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living"
     },
     {
-      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T19:45:00+00:00",
-      "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month."
-    },
-    {
-      "title": "The COLA wars are coming for Social Security",
-      "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T19:45:00+00:00",
-      "summary": "The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered"
-    },
-    {
       "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
       "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
       "source": "TechCrunch",
       "category": "tech",
       "lang": "en",
       "published": "2026-10-16T19:40:00+00:00",
-      "summary": "Maybe it was the grey color, the slightly bulbous roofline, or the vaguely SUV-like proportions of the electric Porsche Macan, but as I shuttled kids and groceries around city and suburban streets, I never once noticed a longing stare from other drivers. Unlike with other cars I’ve tested, no enthus"
+      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery."
     },
     {
       "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
@@ -94,15 +229,6 @@
       "summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution."
     },
     {
-      "title": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
-      "link": "https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T19:35:00+00:00",
-      "summary": "Microsoft is betting that its custom chips can lower costs, but the AI equation is more complicated than that."
-    },
-    {
       "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
       "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
       "source": "CNBC - Top News",
@@ -110,15 +236,6 @@
       "lang": "en",
       "published": "2026-10-16T19:30:51+00:00",
       "summary": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday."
-    },
-    {
-      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-      "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T19:28:46+00:00",
-      "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice."
     },
     {
       "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
@@ -139,60 +256,6 @@
       "summary": "Younger Americans face higher inflation and housing costs than baby boomers, widening the affordability divide ahead of the 2026 midterm elections."
     },
     {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T19:00:00+00:00",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”"
-    },
-    {
-      "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T18:55:17+00:00",
-      "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue."
-    },
-    {
-      "title": "AI investors have woken up to the bond market’s warning signs",
-      "link": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T18:52:00+00:00",
-      "summary": "Also in Weekend Reads: Robotic housekeeping, how to save on a wedding, and advice from The Moneyist."
-    },
-    {
-      "title": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
-      "link": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T18:46:19+00:00",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
-    },
-    {
-      "title": "«N’hésitez pas à tirer dans la tête» : sur Radio Nova, un humoriste appelle à «attraper» les grands patrons chez eux et divulgue les adresses de Bernard Arnault et Vincent Bolloré",
-      "link": "https://www.lefigaro.fr/medias/n-hesitez-pas-a-tirer-dans-la-tete-sur-radio-nova-un-humoriste-appelle-a-attraper-les-grands-patrons-chez-eux-et-divulgue-les-adresses-de-bernard-arnault-et-vincent-bollore-20261016",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-16T18:43:29+00:00",
-      "summary": "Menée par l’humoriste Pierre Metzger, la chronique incite à «taper» le directeur général de LVMH, et à mettre «un petit nœud de cravate coulissant autour du cou» de Vincent Bolloré."
-    },
-    {
-      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T18:37:00+00:00",
-      "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock."
-    },
-    {
       "title": "Why Apple is finally making its own smart home devices",
       "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
       "source": "The Verge",
@@ -200,15 +263,6 @@
       "lang": "en",
       "published": "2026-10-16T18:30:27+00:00",
       "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider E"
-    },
-    {
-      "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T18:30:00+00:00",
-      "summary": "“I know you’re not supposed to put money you can’t afford to lose into speculative stuff.”"
     },
     {
       "title": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
@@ -245,15 +299,6 @@
       "lang": "fr",
       "published": "2026-10-16T18:05:00+00:00",
       "summary": "DÉCRYPTAGE - Alors que la CGT appelle ses militants à rejoindre les cortèges, la CFDT et Force ouvrière refusent de s’allier aux mobilisations de ce samedi."
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-16T18:04:20+00:00",
-      "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
     },
     {
       "title": "Les constructeurs, grands gagnants de l’accord franco-allemand sur l’automobile européenne",
@@ -598,15 +643,6 @@
       "summary": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade."
     },
     {
-      "title": "The incredible flying Tesla Roadster is just for show",
-      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-16T14:15:29+00:00",
-      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't "
-    },
-    {
       "title": "Paris et Berlin s'accordent sur une industrie automobile \"Made in Europe\"",
       "link": "https://www.journaldunet.com/economie/industrie/1556755-paris-et-berlin-s-accordent-sur-une-baisse-de-90-des-emissions-de-co2-en-2035/",
       "source": "Journal du Net",
@@ -614,15 +650,6 @@
       "lang": "fr",
       "published": "2026-10-16T14:10:39+00:00",
       "summary": "Paris et Berlin s'accordent sur une moindre réduction des émissions de CO2 d'ici 2035 et un \"Made in Europe\" renforcé."
-    },
-    {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-16T14:02:40+00:00",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"deve"
     },
     {
       "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
@@ -652,15 +679,6 @@
       "summary": "The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower."
     },
     {
-      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-      "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-16T13:33:21+00:00",
-      "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit cards to your phone, "
-    },
-    {
       "title": "Attaquer son employeur aux prud'hommes devient plus simple (mais pas gratuit)",
       "link": "https://www.journaldunet.com/management/emploi-cadres/1556737-attaquer-son-employeur-aux-prud-hommes-devient-plus-simple-mais-pas-gratuit/",
       "source": "Journal du Net",
@@ -668,15 +686,6 @@
       "lang": "fr",
       "published": "2026-10-16T13:27:23+00:00",
       "summary": "Depuis le 1er octobre 2026, saisir les prud'hommes ne demande plus de joindre ses pièces : un bordereau et le dernier bulletin de salaire suffisent. Mais un timbre de 50 euros est exigé depuis mars."
-    },
-    {
-      "title": "iPhone Duo orders are already delayed into 2027",
-      "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-16T13:10:11+00:00",
-      "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on Octobe"
     },
     {
       "title": "Des revenus et des compétences : les vraies raisons de la stratégie chinoise de Mistral",
@@ -938,15 +947,6 @@
       "lang": "en",
       "published": "2026-10-15T19:29:05+00:00",
       "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization."
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-15T19:14:26+00:00",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
     },
     {
       "title": "Les députés adoptent plusieurs amendements majeurs sur la fiscalité dans le budget 2027",
