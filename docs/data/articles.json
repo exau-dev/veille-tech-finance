@@ -1,25 +1,412 @@
 {
-  "generated_at": "2026-10-21T02:44:19.417340+00:00",
+  "generated_at": "2026-10-21T10:55:16.390902+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+      "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T10:52:39+00:00",
+      "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger."
+    },
+    {
+      "title": "Violences du 17 octobre : derrière les pillages et les dégradations, ces coûts cachés qui menacent de peser durablement sur l’économie française",
+      "link": "https://www.lefigaro.fr/conjoncture/violences-du-17-octobre-derriere-les-pillages-et-les-degradations-ces-couts-caches-qui-menacent-de-peser-durablement-sur-l-economie-francaise-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T10:46:24+00:00",
+      "summary": "ANALYSE - Vitrines brisées, magasins pillés : la casse du 17 octobre se chiffre en centaines de millions d’euros. Mais l’essentiel de l’impact sur l’économie tricolore est ailleurs."
+    },
+    {
+      "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+      "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T10:40:01+00:00",
+      "summary": "France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more."
+    },
+    {
+      "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+      "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T10:34:20+00:00",
+      "summary": "Trump says data centers should consider community \"dividends\" as AI financing worries grow."
+    },
+    {
+      "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
+      "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T10:32:40+00:00",
+      "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees."
+    },
+    {
+      "title": "Le patron de Ryanair prévoit «la plus grosse augmentation de prix de l’histoire» pour les billets d’avion en Europe en 2027",
+      "link": "https://www.lefigaro.fr/conso/le-patron-de-ryanair-prevoit-la-plus-grosse-augmentation-de-prix-de-l-histoire-pour-les-billets-d-avion-en-europe-en-2027-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T10:17:29+00:00",
+      "summary": "Ciblant notamment les prix du pétrole et les taxes, Michael O’Leary estime qu’il faut s’attendre à des hausses de prix allant jusqu’à 20% chez toutes les compagnies."
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T10:15:00+00:00",
+      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”"
+    },
+    {
+      "title": "In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO",
+      "link": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T10:12:00+00:00",
+      "summary": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money, real customers paying for something useful."
+    },
+    {
+      "title": "House committee says Webull messages point to China access to U.S. customer data",
+      "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T10:00:01+00:00",
+      "summary": "The House Select Committee on China earlier this month said online investing platform Webull is quietly \"tied in structural ways\" to China's government."
+    },
+    {
+      "title": "Notes de frais : les commerçants face au défi de la mise en œuvre de la réforme de la facturation électronique",
+      "link": "https://www.lefigaro.fr/entrepreneur/notes-de-frais-les-commercants-face-au-defi-de-la-mise-en-oeuvre-de-la-reforme-de-la-facturation-electronique-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T10:00:00+00:00",
+      "summary": "Émission des factures, gestion des notes de frais des clients et transmission des données de caisse vont progressivement s’intégrer dans le quotidien de ces chefs d’entreprise. Si le cadre réglementaire se précise, les solutions techniques et les pratiques restent encore en phase d’adaptation."
+    },
+    {
+      "title": "Le taux d’emprunt de la France à dix ans franchit la barre symbolique des 5%, une première depuis 2002",
+      "link": "https://www.lefigaro.fr/conjoncture/le-taux-d-emprunt-de-la-france-franchit-la-barre-symbolique-des-5-une-premiere-depuis-2022-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T09:56:08+00:00",
+      "summary": "Le rendement de l’OAT à dix ans a atteint 5,005 % ce mercredi 21 octobre en fin de matinée. Le signal est lourd, trois jours après les violences qui ont émaillé le territoire, et en plein débat sur le budget 2027."
+    },
+    {
+      "title": "Spotify renforce son système de vérification pour limiter les partages de l’offre Famille et Duo",
+      "link": "https://www.lefigaro.fr/societes/spotify-renforce-son-systeme-de-verification-pour-limiter-les-partages-de-l-offre-famille-et-duo-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T09:42:59+00:00",
+      "summary": "La plateforme de streaming musicale Spotify impose désormais une vérification des abonnements Famille et Duo."
+    },
+    {
+      "title": "Cloud : les transformations qui façonneront les infrastructures d'ici 2030",
+      "link": "https://www.journaldunet.com/cloud/1555873-cloud-les-transformations-qui-faconneront-les-infrastructures-d-ici-2030/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T09:41:22+00:00",
+      "summary": "À l'horizon 2030, la performance du Cloud ne se mesurera plus seulement en puissance. IA, résilience, cybersécurité, hybridation et énergie vont imposer de repenser en profondeur les infrastructures."
+    },
+    {
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T09:15:00+00:00",
+      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
+    },
+    {
+      "title": "L'Assemblée nationale reporte le vote fiscal du projet de loi de finances 2027 au 3 novembre",
+      "link": "https://www.journaldunet.com/business/action-publique/1556923-l-assemblee-nationale-reporte-le-vote-fiscal-du-projet-de-loi-de-finances-2027-au-3-novembre/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T09:06:11+00:00",
+      "summary": "L'examen du projet de loi de finances 2027 à l'Assemblée nationale s'enlise, repoussant le vote fiscal au 3 novembre, sans alarmer le gouvernement pour l'instant."
+    },
+    {
+      "title": "George Foreman’s lavish Texas estate with 50-car garage is listed for $6 million",
+      "link": "https://www.marketwatch.com/story/george-foremans-lavish-texas-estate-with-50-car-garage-is-listed-for-6-million-d464b764?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T09:04:00+00:00",
+      "summary": "The sprawling Texas estate where boxing legend George Foreman spent the final decades of his life has hit the market for $6 million—offering a rare glimpse inside the private world of the heavyweight champion."
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”"
+    },
+    {
+      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T08:55:00+00:00",
+      "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts."
+    },
+    {
+      "title": "Jean-Luc Mélenchon promet de perturber la réunion organisée par Sébastien Lecornu",
+      "link": "https://www.journaldunet.com/business/action-publique/1556917-jean-luc-melenchon-promet-de-perturber-la-reunion-organisee-par-sebastien-lecornu/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T08:50:18+00:00",
+      "summary": "Le leader insoumis promet de \"on va y aller, on va te pourrir la réunion\" convoquée par le Premier ministre Sébastien Lecornu après les violences du week-end."
+    },
+    {
+      "title": "AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin",
+      "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T08:50:00+00:00",
+      "summary": "Investors are for sure facing “bubbles,” but Ken Griffin isn’t telling investors to dump those stocks/"
+    },
+    {
+      "title": "Carrefour chute de plus de 12% en Bourse après avoir baissé ses objectifs financiers 2026",
+      "link": "https://www.lefigaro.fr/societes/carrefour-chute-de-plus-de-12-en-bourse-apres-avoir-baisse-ses-objectifs-financiers-2026-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T08:39:56+00:00",
+      "summary": "Le groupe Carrefour estime que la situation pèsera sur son résultat opérationnel courant à hauteur de 80 à 200 millions d’euros même si «l’ampleur de l’impact est extrêmement difficile à évaluer à ce stade»."
+    },
+    {
+      "title": "Le Royaume-Uni autorise le forage controversé d’un gisement gazier en mer du Nord",
+      "link": "https://www.lefigaro.fr/conjoncture/le-royaume-uni-autorise-le-forage-controverse-d-un-gisement-gazier-en-mer-du-nord-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T08:39:15+00:00",
+      "summary": "Après des mois de spéculation, le gouvernement britannique approuve le projet gazier controversé Jackdaw en mer du Nord qui «protégera des centaines d’emplois», selon le premier ministre Andy Burnham."
+    },
+    {
+      "title": "L'Assemblée nationale valide la création d'une commission d'enquête sur les violences du 17 octobre",
+      "link": "https://www.journaldunet.com/business/action-publique/1556921-les-deputes-valident-la-creation-d-une-commission-d-enquete-sur-les-violences-du-17-octobre/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T08:39:12+00:00",
+      "summary": "Sous la pression des députés après les débordements du 17 octobre, l'exécutif fait face à de vives critiques sur sa gestion du maintien de l'ordre."
+    },
+    {
+      "title": "French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit business",
+      "link": "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T08:12:51+00:00",
+      "summary": "Carrefour cut its full-year 2026 financial forecasts, citing worsening social unrest and security conditions in France, weighing on consumer spending."
+    },
+    {
+      "title": "L'IA ne crée pas une fracture générationnelle, elle révèle une fracture de curiosité",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1556821-l-ia-ne-cree-pas-une-fracture-generationnelle-elle-revele-une-fracture-de-curiosite/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T08:08:16+00:00",
+      "summary": "L'intelligence artificielle ne crée pas une fracture générationnelle mais de curiosité, creusant un fossé rapide entre ceux qui osent l'expérimenter au quotidien et ceux qui attendent passivement."
+    },
+    {
+      "title": "IA et Assurance : l'Europe doit reprendre la main avant qu'il ne soit trop tard",
+      "link": "https://www.journaldunet.com/start-up/1556865-ia-et-assurance-l-europe-doit-reprendre-la-main-avant-qu-il-ne-soit-trop-tard/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T08:08:11+00:00",
+      "summary": "L'Europe est l'un des grands territoires de l'assurance."
+    },
+    {
+      "title": "Jusqu'où peut-on déléguer notre pouvoir aux agents IA ?",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1556839-jusqu-ou-peut-on-deleguer-notre-pouvoir-aux-agents-ia/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T08:04:56+00:00",
+      "summary": "Les agents IA exigent une gouvernance stricte : identité propre, privilèges limités, traçabilité des actions et contrôle humain pour concilier autonomie, sécurité et confiance"
+    },
+    {
+      "title": "IA : ce n'est pas le \"merci\" qui coûte, c'est la conversation qui s'allonge",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1556835-ia-ce-n-est-pas-le-merci-qui-coute-c-est-la-conversation-qui-s-allonge/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T08:04:47+00:00",
+      "summary": "Dire \" merci \" à une IA coûte peu. Ce qui coûte, c'est le fil qui s'allonge et se renvoie en entier à chaque message. Solution : une conversation mère qui pilote, des filles à une tâche chacune."
+    },
+    {
+      "title": "La France doit-elle vraiment tout miser sur Mistral IA ?",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1556815-la-france-doit-elle-vraiment-tout-miser-sur-mistral-ia/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T08:03:20+00:00",
+      "summary": "Mistral devient une entreprise immense, mais s'écarte-t-elle, ce faisant, de la mission qu'on lui avait confiée au départ... ?"
+    },
+    {
+      "title": "Déraillement d’un TER en Normandie : où en est l’enquête, un mois après l’accident ?",
+      "link": "https://www.lefigaro.fr/conjoncture/deraillement-d-un-ter-en-normandie-ou-en-est-l-enquete-un-mois-apres-l-accident-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T08:00:00+00:00",
+      "summary": "Le 11 septembre dernier, un train assurant la liaison Rouen-Caen déraille, faisant 44 blessés, dont une jeune femme grièvement. Un mois plus tard, il est encore bien difficile d’en comprendre les circonstances."
+    },
+    {
+      "title": "Oil prices climb as traders assess Middle East developments",
+      "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T07:54:59+00:00",
+      "summary": "Iran's Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz."
+    },
+    {
+      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T07:50:10+00:00",
+      "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels."
+    },
+    {
+      "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+      "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T07:49:48+00:00",
+      "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models."
+    },
+    {
+      "title": "Une consultation nationale montre que 72% des Français attendent une amélioration des services publics",
+      "link": "https://www.journaldunet.com/business/action-publique/1556915-une-consultation-nationale-montre-que-72-des-francais-attendent-une-amelioration-des-services-publics/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T07:43:24+00:00",
+      "summary": "A l'approche de la présidentielle 2027, une large majorité de Français place l'amélioration des services publics au cœur de ses attentes, selon une consultation nationale."
+    },
+    {
+      "title": "GIFI annonce qu'il va solliciter son placement en redressement judiciaire",
+      "link": "https://www.journaldunet.com/business/1556909-gifi-annonce-qu-il-va-solliciter-son-placement-en-redressement-judiciaire/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T07:33:07+00:00",
+      "summary": "Le groupe, qui emploie 6 000 salariés et exploite plus de 500 magasins, annonce l'ouverture d'une procédure de redressement judiciaire face à de graves difficultés financières."
+    },
+    {
+      "title": "Donald Trump instrumentalise les violences du 17 octobre en France pour sa rhétorique anti-immigration",
+      "link": "https://www.journaldunet.com/business/action-publique/1556911-donald-trump-instrumentalise-les-violences-du-17-octobre-en-france-pour-sa-rhetorique-anti-immigration/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T07:27:02+00:00",
+      "summary": "Donald Trump instrumentalise les violences du 17 octobre en France pour appuyer sa rhétorique anti-immigration, sans soutenir officiellement Marine Le Pen pour 2027."
+    },
+    {
+      "title": "AI's spending boom faces a 'gut check': Who can actually make money?",
+      "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T07:20:37+00:00",
+      "summary": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits."
+    },
+    {
+      "title": "Les RER B et D interrompus ce mercredi matin dans Paris après un «incident affectant la voie»",
+      "link": "https://www.lefigaro.fr/conjoncture/les-rer-b-et-d-interrompus-ce-mercredi-matin-dans-paris-apres-un-incident-affectant-la-voie-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T06:41:00+00:00",
+      "summary": "Les deux lignes majeures, qui transportent 1,6 million de passagers par jour, ont été touchées par un incident ce mercredi matin. Le trafic a repris vers 8 heures mais reste perturbé."
+    },
+    {
+      "title": "Système d'information, qui traite vos alertes à 3 heures du matin ?",
+      "link": "https://www.journaldunet.com/cybersecurite/1556353-systeme-d-information-qui-traite-vos-alertes-a-3-heures-du-matin/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T06:00:02+00:00",
+      "summary": "Le dispositif de sécurité de la plupart des ETI a été construit pour les heures ouvrées. Mais la menace n'a pas d'horaires. Aujourd'hui, il existe des solutions pour ne pas attendre que le mal soit fait."
+    },
+    {
+      "title": "Elon Musk confirme des discussions sur un rapprochement entre SpaceX et Tesla",
+      "link": "https://www.journaldunet.com/business/1556919-elon-musk-confirme-des-discussions-sur-un-rapprochement-entre-spacex-et-tesla/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T05:34:35+00:00",
+      "summary": "Le patron des deux sociétés juge un rapprochement \"une bonne idée\" et confirme l'existence de discussions, tout en soulignant qu'aucune décision n'est prise."
+    },
+    {
+      "title": "Encadrement des loyers : le Sénat se penche ce mercredi sur l’avenir de la mesure décriée de protection des locataires",
+      "link": "https://www.lefigaro.fr/conjoncture/encadrement-des-loyers-le-senat-se-penche-ce-mercredi-sur-l-avenir-de-la-mesure-decriee-de-protection-des-locataires-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T05:33:44+00:00",
+      "summary": "Si l’Assemblée nationale a adopté la pérennisation du dispositif, les sénateurs avaient, en commission, préféré une reconduction de l’expérimentation pour deux ans. Le texte arrive dans l’hémicycle ce mercredi."
+    },
+    {
+      "title": "L’actuel projet de budget de la Sécu empêcherait des augmentations de salaires, prévient le Medef",
+      "link": "https://www.lefigaro.fr/societes/l-actuel-projet-de-budget-de-la-secu-empecherait-des-augmentations-de-salaires-previent-le-medef-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T05:08:02+00:00",
+      "summary": "Avec «11 milliards d’euros de surcoût du travail», l’organisation patronale estime qu’en l’état actuel, le texte réduit la marge de manœuvre des entreprises."
+    },
+    {
+      "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+      "link": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T04:47:43+00:00",
+      "summary": "Rubio said the \"extraordinary\" refining capacity of Reliance could help India diversify its energy supplies, hinting at greater offtake of Venezuelan crude."
+    },
+    {
+      "title": "« Pour se concentrer ce n'est pas l'idéal, mais c'est toujours mieux que d’apprendre en ligne » : en Ukraine, le quotidien des enfants dans les écoles-bunkers",
+      "link": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/97679438514329/pour-se-concentrer-ce-nest-pas-lideal-mais-cest-toujours-mieux-que-d-apprendre-en-ligne-en-ukraine-le-quotidien-des-enfants-dans-les-ecoles-bunkers",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-21T04:00:01+00:00",
+      "summary": "REPORTAGE — Située à 20 kilomètres du front et 30 kilomètres de la frontière russe, l'école primaire n°30 de Soumy s'est enterrée à 10 mètres sous terre."
+    },
     {
       "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
       "link": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-21T01:44:42+00:00",
+      "published": "2026-10-21T02:55:38+00:00",
       "summary": "The company cited power supply delays at its Melbourne facility amid local community and stakeholder opposition for lowering earnings forecast."
-    },
-    {
-      "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
-      "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T01:02:36+00:00",
-      "summary": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits."
     },
     {
       "title": "Japan exports post huge miss in September as growth slows to 16.7%",
@@ -58,13 +445,13 @@
       "summary": "Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says."
     },
     {
-      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
+      "title": "This Janus Henderson fund manager owns CoreWeave debt — here's why he's sticking with it",
+      "link": "https://www.cnbc.com/2026/10/20/coreweave-debt-janus-henderson-lloyd.html",
+      "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-21T00:12:00+00:00",
-      "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”"
+      "published": "2026-10-21T00:12:44+00:00",
+      "summary": "Janus Henderson portfolio manager John Lloyd, whose fund owns CoreWeave bonds, sees a buying opportunity for this 'best in class' data center play."
     },
     {
       "title": "YouTube might be testing hiding the dislike button",
@@ -85,15 +472,6 @@
       "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings."
     },
     {
-      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T23:10:00+00:00",
-      "summary": "SpaceX just gave Wall Street a big reason to believe in the AI boom as demand for its computing power is off the charts."
-    },
-    {
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
       "source": "The Verge",
@@ -109,7 +487,7 @@
       "category": "tech",
       "lang": "en",
       "published": "2026-10-20T23:01:23+00:00",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     },
     {
       "title": "SpaceX and Tesla boards form special committees to review merger",
@@ -121,24 +499,6 @@
       "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors."
     },
     {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T22:45:00+00:00",
-      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”"
-    },
-    {
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T22:30:00+00:00",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”"
-    },
-    {
       "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
       "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
       "source": "CNBC - Top News",
@@ -148,22 +508,13 @@
       "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes"
     },
     {
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T22:27:00+00:00",
-      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”"
-    },
-    {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "source": "TechCrunch",
       "category": "tech",
       "lang": "en",
       "published": "2026-10-20T22:24:02+00:00",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
       "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
@@ -193,22 +544,13 @@
       "summary": "The 737 Max 10, the largest model in the family, was set to start flying in 2020, but increased scrutiny and other safety issues delayed its certification."
     },
     {
-      "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-      "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
+      "title": "As homeownership gets harder, more buyers are getting down payment help. What parents should know",
+      "link": "https://www.cnbc.com/2026/10/20/giving-money-kids-buying-home.html",
+      "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-20T21:47:00+00:00",
-      "summary": "Some analysts question whether people will actually take advantage of Walmart’s new bundle, and how easy it is to make sense of the benefits."
-    },
-    {
-      "title": "Chez Stellantis, l’inquiétude gagne les ouvriers des sites de Mulhouse et Poissy qui tournent au ralenti",
-      "link": "https://www.lefigaro.fr/societes/chez-stellantis-l-inquietude-gagne-les-ouvriers-des-sites-de-mulhouse-et-poissy-qui-tournent-au-ralenti-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T21:40:11+00:00",
-      "summary": "DÉCRYPTAGE - Alors qu’ils sont au chômage partiel ce mois-ci, les salariés de ces deux établissements craignent de perdre leur place une fois cette plage temporaire terminée, avec une activité qui restera orientée à la baisse."
+      "published": "2026-10-20T21:35:48+00:00",
+      "summary": "As home prices rise, parents want to give money to their kids. Here's how to save on taxes when doing it, financial experts say."
     },
     {
       "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
@@ -229,15 +571,6 @@
       "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
     },
     {
-      "title": "Obsessed with CoreWeave and the AI trade? You're missing out on some great stocks",
-      "link": "https://www.cnbc.com/investingclub/2026/10/20/obsessed-with-the-ai-trade-youre-missing-out-on-some-great-stocks.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T21:17:47+00:00",
-      "summary": "Today's earnings show there's a cohort of the market that can thrive outside of the data center buildout."
-    },
-    {
       "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
       "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
       "source": "The Verge",
@@ -245,15 +578,6 @@
       "lang": "en",
       "published": "2026-10-20T21:02:53+00:00",
       "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recov"
-    },
-    {
-      "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-      "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T20:57:00+00:00",
-      "summary": "Research can prove a lot of facts, but that doesn’t mean it changes how people act."
     },
     {
       "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
@@ -265,13 +589,22 @@
       "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology"
     },
     {
+      "title": "Licenciements, publicité en retrait, croissance ralentie : Netflix ne parvient pas à rassurer Wall Street au troisième trimestre",
+      "link": "https://www.lefigaro.fr/societes/licenciements-publicite-en-retrait-croissance-ralentie-netflix-ne-parvient-pas-a-rassurer-wall-street-au-troisieme-trimestre-20261020",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-20T20:41:06+00:00",
+      "summary": "Le titre, déjà en baisse d’environ 25% depuis janvier, avait reculé après chacune des cinq précédentes publications de résultats, sur fond d’un ralentissement continu de sa croissance."
+    },
+    {
       "title": "SpaceX’s AI business is beating expectations",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch",
       "category": "tech",
       "lang": "en",
       "published": "2026-10-20T20:40:41+00:00",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
     },
     {
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -328,6 +661,15 @@
       "summary": "United Airlines cut its profit outlook for the year as fuel prices continued to climb."
     },
     {
+      "title": "En grande difficulté, Gifi va demander son placement en redressement judiciaire",
+      "link": "https://www.lefigaro.fr/societes/en-grande-difficulte-gifi-va-demander-son-placement-en-redressement-judiciaire-20261020",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-20T20:16:44+00:00",
+      "summary": "Le nouveau président du directoire de Gifi, Patrick Puy, a toutefois assuré que la procédure n’entraînerait «par elle-même, aucune conséquence immédiate sur l’emploi» et «qu’aucun nouveau PSE n’est engagé à ce stade»."
+    },
+    {
       "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
       "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
       "source": "CNBC - Top News",
@@ -346,25 +688,7 @@
       "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving."
     },
     {
-      "title": "« Il veut rivaliser avec le New York Times » : comment Axel Springer souhaite étendre l’influence de The Telegraph aux États-Unis",
-      "link": "https://www.lefigaro.fr/medias/il-veut-rivaliser-avec-le-new-york-times-comment-axel-springer-souhaite-etendre-l-influence-de-the-telegraph-aux-etats-unis-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T19:58:14+00:00",
-      "summary": "DÉCRYPTAGE - Le gouvernement britannique a levé le tout dernier obstacle à la reprise du titre conservateur par le groupe allemand. À Londres, les journalistes s’inquiètent d’éventuelles suppressions de postes."
-    },
-    {
-      "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
-      "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T19:40:51+00:00",
-      "summary": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks."
-    },
-    {
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
       "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
       "source": "TechCrunch",
       "category": "tech",
@@ -418,6 +742,15 @@
       "summary": "Democrats are hopeful that they will regain majority control of the House of Representatives and the Senate in November's elections."
     },
     {
+      "title": "En difficulté financière, la BBC va supprimer une centaine de postes et cesser la diffusion de deux chaînes",
+      "link": "https://www.lefigaro.fr/medias/en-difficulte-financiere-la-bbc-va-supprimer-une-centaine-de-postes-et-cesser-la-diffusion-de-deux-chaines-20261020",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-20T18:12:57+00:00",
+      "summary": "En avril, le groupe britannique avait promis d’économiser 500 millions de livres (595 millions d’euros) sur ses coûts annuels d’ici 2028, en supprimant jusqu’à 2.000 emplois, soit environ 10% de ses effectifs."
+    },
+    {
       "title": "Traders are betting Netflix's stock drama may be coming to an end",
       "link": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
       "source": "CNBC - Top News",
@@ -442,7 +775,7 @@
       "category": "tech",
       "lang": "en",
       "published": "2026-10-20T17:55:12+00:00",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
+      "summary": "Eric Schmidt’s fortune is about to get even bigger."
     },
     {
       "title": "Serge Papin au Figaro : « Les commerçants veulent être certains de pouvoir ouvrir en toute sécurité »",
@@ -454,15 +787,6 @@
       "summary": "ENTRETIEN EXCLUSIF - Le ministre des PME, du Commerce et de l’Artisanat entend rassurer les 3 000 commerçants victimes de pillages et de dégradations en marge de la mobilisation contre la vie chère. Il promet un dispositif de sécurité renforcé et des sanctions judiciaires contre les casseurs."
     },
     {
-      "title": "«Il y a un risque de décapitation de la hiérarchie» : une mesure du budget de la Sécurité sociale fait craindre des démissions en cascade dans l’armée",
-      "link": "https://www.lefigaro.fr/conjoncture/il-y-a-un-risque-de-decapitation-de-la-hierarchie-une-mesure-du-budget-de-la-securite-sociale-fait-craindre-des-demissions-en-cascade-dans-l-armee-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T17:18:25+00:00",
-      "summary": "DÉCRYPTAGE - Plusieurs haut gradés envisagent d’ores et déjà de démissionner, alors qu’une disposition du budget de la sécurité sociale pourrait réduire significativement les pensions de retraite de nombreux officiers et sous-officiers."
-    },
-    {
       "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
       "source": "TechCrunch",
@@ -470,24 +794,6 @@
       "lang": "en",
       "published": "2026-10-20T17:12:48+00:00",
       "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals."
-    },
-    {
-      "title": "Budget 2027 : pourquoi l’examen prend déjà du retard à l’Assemblée nationale",
-      "link": "https://www.lefigaro.fr/conjoncture/budget-2027-pourquoi-l-examen-prend-deja-du-retard-a-l-assemblee-nationale-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T17:05:00+00:00",
-      "summary": "DÉCRYPTAGE - Le vote sur la partie fiscalité du texte a été décalé. Alors qu’il devait avoir lieu ce mardi, il est désormais renvoyé au 3 novembre. Mais pour l’heure, le gouvernement n’est pas inquiet."
-    },
-    {
-      "title": "Après les émeutes, l’écart de taux entre la France et l’Allemagne au plus haut depuis 2012",
-      "link": "https://www.lefigaro.fr/economie/apres-les-emeutes-l-ecart-de-taux-entre-la-france-et-l-allemagne-au-plus-haut-depuis-2012-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T16:45:00+00:00",
-      "summary": "DÉCRYPTAGE - Les taux auxquels emprunte l’État français augmentent sur les marchés."
     },
     {
       "title": "«Casseurs, pilleurs, voleurs : les prestations sociales, c’est terminé!» : l’État peut-il vraiment récupérer les allocations des émeutiers ?",
@@ -499,15 +805,6 @@
       "summary": "DÉCRYPTAGE - À la suite des dégradations du week-end des 17 et 18 octobre, l’État veut se montrer inflexible envers les individus responsables. Parmi les pistes privilégiées, les attaquer au portefeuille."
     },
     {
-      "title": "Manifestations : le principal syndicat des livreurs indépendants demande la suspension des commandes dans les zones à risque",
-      "link": "https://www.lefigaro.fr/social/manifestations-le-principal-syndicat-des-livreurs-independants-demande-la-suspension-des-commandes-dans-les-zones-a-risque-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T16:25:44+00:00",
-      "summary": "«Nous avons eu énormément de remontées de livreurs et chauffeurs VTC qui se sont retrouvés samedi au milieu du chaos sans pouvoir se mettre en sécurité», a déclaré Fabian Tosolini, délégué national du syndicat Union-Indépendants."
-    },
-    {
       "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
       "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
       "source": "TechCrunch",
@@ -515,51 +812,6 @@
       "lang": "en",
       "published": "2026-10-20T16:20:06+00:00",
       "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
-    },
-    {
-      "title": "« Trou de la Sécu » : la Cour des comptes encourage les efforts du gouvernement… sans trop y croire",
-      "link": "https://www.lefigaro.fr/conjoncture/trou-de-la-secu-la-cour-des-comptes-encourage-les-efforts-du-gouvernement-sans-trop-y-croire-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T16:20:00+00:00",
-      "summary": "DÉCRYPTAGE - Les magistrats estiment que le budget de la Sécurité sociale a « un objectif de redressement vigoureux », mais que les aléas politiques et les hypothèses optimistes du gouvernement pourraient le rendre inatteignable."
-    },
-    {
-      "title": "Interdiction des réseaux sociaux aux mineurs : pourquoi l’Australie s’apprête à poursuivre Facebook, Instagram et TikTok",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/interdiction-des-reseaux-sociaux-aux-mineurs-pourquoi-l-australie-s-apprete-a-poursuivre-facebook-instagram-et-tiktok-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T16:15:00+00:00",
-      "summary": "DÉCRYPTAGE - Près d’un an après avoir promulgué l’interdiction des plateformes pour les adolescents, le gouvernement australien accuse les géants du numérique suite à une enquête menée par son régulateur eSafety."
-    },
-    {
-      "title": "En Corse, l’alignement des prix du tabac sur ceux du continent fait baisser les ventes et souffrir les buralistes",
-      "link": "https://www.lefigaro.fr/conjoncture/en-corse-l-alignement-des-prix-du-tabac-sur-ceux-du-continent-fait-baisser-les-ventes-et-souffrir-les-buralistes-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T16:14:39+00:00",
-      "summary": "Depuis le 1er janvier dernier et la fin d’une niche fiscale qui existait depuis 1811, le paquet de cigarettes coûte le même prix sur l’Île de Beauté que dans le reste de l’Hexagone. Les buralistes locaux s’inquiètent de la montée d’un marché parallèle."
-    },
-    {
-      "title": "Nouveau couvre-feu à Paris : quelles stations de métro et de RER seront fermées ce mardi soir ?",
-      "link": "https://www.lefigaro.fr/conjoncture/nouveau-couvre-feu-a-paris-quelles-stations-de-metro-et-de-rer-seront-fermees-ce-mardi-soir-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T16:13:56+00:00",
-      "summary": "Dommage collatéral de la mise en place de couvre-feux dans plusieurs quartiers de la capitale, dans la nuit de mardi à mercredi, certains points d’accès aux transports seront inaccessibles."
-    },
-    {
-      "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-      "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T16:11:02+00:00",
-      "summary": "Novo released new evidence that its experimental CagriSema injection can improve upon the weight loss with its blockbuster GLP-1 obesity injection, Wegovy."
     },
     {
       "title": "Streaming guide JustWatch becomes a streamer itself",
@@ -589,33 +841,6 @@
       "summary": "L’examen du projet de loi de financement de la Sécurité sociale débute ce mardi 20 octobre à l’Assemblée nationale. Le texte anticipe un déficit à 12,7 milliards d’euros en 2027. Une cible qui vise à corriger la trajectoire financière de la Sécu, mais que l’Assemblée nationale ne semble pas disposer"
     },
     {
-      "title": "Data center stocks remain under pressure after Korea IPO plunges 30%",
-      "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T15:45:47+00:00",
-      "summary": "Neocloud stocks are still feeling the squeeze after last week's sell-off"
-    },
-    {
-      "title": "Blocus américain, sanctions, embargo émirati… Comment survit l’économie iranienne ?",
-      "link": "https://www.lefigaro.fr/conjoncture/blocus-americain-sanctions-embargo-emirati-comment-survit-l-economie-iranienne-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T15:24:47+00:00",
-      "summary": "DÉCRYPTAGE - Les restrictions contre les circuits commerciaux de Téhéran jouent leurs rôles et rendent plus coûteux pour le régime les stratégies de contournement. Sans toutefois l’isoler totalement."
-    },
-    {
-      "title": "To get a reply when reaching out to people, make 1 simple change, says LinkedIn career expert",
-      "link": "https://www.cnbc.com/make-it/2026/10/20/networking-specific-ask-linkedin-career-expert.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T15:09:33+00:00",
-      "summary": "LinkedIn career expert Catherine Fisher says making this change when reaching out to people could boost the chances of hearing a yes."
-    },
-    {
       "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
       "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
       "source": "TechCrunch",
@@ -625,15 +850,6 @@
       "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children."
     },
     {
-      "title": "France to deploy military as it braces for fresh unrest this weekend",
-      "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T15:01:38+00:00",
-      "summary": "France will deploy Sentinelle troops for Saturday's protests, Interior Minister Laurent Nuñez said."
-    },
-    {
       "title": "ElevenLabs lance Eleven Realtime, des modèles speech-to-speech plus rapides et plus précis",
       "link": "https://www.journaldunet.com/intelligence-artificielle/1556891-eleven-realtime-v1-max-98-8-de-precision-en-470-ms-le-pari-speech-to-speech-d-elevenlabs/",
       "source": "Journal du Net",
@@ -641,24 +857,6 @@
       "lang": "fr",
       "published": "2026-10-20T15:00:02+00:00",
       "summary": "La start-up dévoile deux modèles, Mini et Max, conçus comme des agents vocaux complets. Ils sont disponibles dès aujourd'hui et compatibles avec l'API Realtime d'OpenAI."
-    },
-    {
-      "title": "Puces électroniques, numéros de série… Après les pillages, comment les enseignes tentent de retrouver la trace des produits volés ?",
-      "link": "https://www.lefigaro.fr/conso/puces-electroniques-numeros-de-serie-apres-les-pillages-comment-les-enseignes-tentent-de-retrouver-la-trace-des-produits-voles-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T14:53:18+00:00",
-      "summary": "Une bonne partie des produits électroniques ou de luxe pillés le 17 octobre porte un numéro ou une puce qui permet de les identifier. Les enseignes peuvent s’en servir pour identifier les articles volés et les acheteurs trop friands de bon plan pourraient le regretter."
-    },
-    {
-      "title": "Tram, bus, train : Keolis, filiale de la SNCF, va chercher la croissance à l’international",
-      "link": "https://www.lefigaro.fr/economie/tram-bus-train-keolis-filiale-de-la-sncf-va-chercher-la-croissance-a-l-international-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T14:48:13+00:00",
-      "summary": "DÉCRYPTAGE - Arrivé en mars à la tête de la filiale de la SNCF, Frédéric Van Heems veut redresser la rentabilité de l’entreprise, en étant plus sélectif lors des appels d’offres."
     },
     {
       "title": "September data shows housing market in a deep freeze",
@@ -751,24 +949,6 @@
       "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
     },
     {
-      "title": "Plus de 200 agences bancaires touchées lors des violences du 17 octobre, selon la FBF",
-      "link": "https://www.lefigaro.fr/conjoncture/plus-de-200-agences-bancaires-touchees-lors-des-violences-du-17-octobre-selon-la-fbf-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T13:05:41+00:00",
-      "summary": "Les banques françaises «déplorent les dégradations de leurs outils de travail dans plusieurs territoires», a rapporté la fédération professionnelle dans un communiqué."
-    },
-    {
-      "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-      "link": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T13:03:31+00:00",
-      "summary": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion."
-    },
-    {
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
       "source": "TechCrunch",
@@ -776,15 +956,6 @@
       "lang": "en",
       "published": "2026-10-20T13:00:00+00:00",
       "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry."
-    },
-    {
-      "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-      "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T12:58:24+00:00",
-      "summary": "The U.K.'s Royal Air Force will deploy jets to assist with defensive operations, but will not engage in offensive strikes."
     },
     {
       "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
@@ -803,24 +974,6 @@
       "lang": "fr",
       "published": "2026-10-20T12:50:37+00:00",
       "summary": "Équipement des postes de travail, fournitures et consommables, Mondoffice couvre les besoins liés à l'aménagement et au bon fonctionnement des locaux professionnels."
-    },
-    {
-      "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-      "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T12:45:30+00:00",
-      "summary": "Best Buy is launching a new gaming experience for customers as it leans into the business ahead of this fall's big launches."
-    },
-    {
-      "title": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
-      "link": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T12:29:26+00:00",
-      "summary": "Apple is adding a U.S. titanium supplier for its new iPhone Duo and expanding domestic production of camera components for the iPhone 18 Pro."
     },
     {
       "title": "Pour les fêtes de fin d'année, les annonceurs risquent de marquer le pas",
@@ -848,15 +1001,6 @@
       "lang": "fr",
       "published": "2026-10-20T11:31:56+00:00",
       "summary": "Le directeur général de l'Anssi, Vincent Strubel, précise au JDN comment l'Anssi se transforme pour mieux protéger l'Etat face aux fuites de données."
-    },
-    {
-      "title": "Commerces saccagés : le gouvernement annonce des prêts à taux zéro jusqu’à 50.000 euros dès vendredi",
-      "link": "https://www.lefigaro.fr/social/commerces-saccages-le-gouvernement-annonce-des-prets-a-taux-zero-jusqu-a-50-000-euros-des-vendredi-20261020",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-20T11:31:23+00:00",
-      "summary": "À l’issue d’une réunion exceptionnelle avec les représentants des entreprises, ce mardi à Bercy, plusieurs ministres ont dévoilé de nouvelles mesures pour soutenir les commerçants victimes des pillages du 17 octobre."
     },
     {
       "title": "Les commerçants pillés évaluent leurs pertes et attendent l'indemnisation",
@@ -931,51 +1075,6 @@
       "summary": "Blocage politique sur le budget de l'Etat et incertitudes sur l'adoption du budget de la Sécurité sociale, dans un contexte social tendu à l'approche de la présidentielle."
     },
     {
-      "title": "La justice électorale brésilienne donne 24 heures à Meta pour prouver l'équité de ses réseaux",
-      "link": "https://www.journaldunet.com/business/1556845-la-justice-electorale-bresilienne-donne-24-heures-a-meta-pour-prouver-l-equite-de-ses-reseaux/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-20T08:50:34+00:00",
-      "summary": "L'autorité électorale exige des preuves d'équité sur Facebook, Instagram et WhatsApp, sous peine d'une lourde amende, à quelques jours du second tour présidentiel."
-    },
-    {
-      "title": "Les électeurs texans commencent à voter en avance pour des scrutins décisifs",
-      "link": "https://www.journaldunet.com/business/action-publique/1556843-les-electeurs-texans-commencent-a-voter-en-avance-pour-des-scrutins-decisifs/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-20T08:44:46+00:00",
-      "summary": "Les électeurs texans ont commencé à voter en avance pour des scrutins cruciaux, où démocrates et républicains s'affrontent dans un contexte de forte polarisation."
-    },
-    {
-      "title": "La DGAFP présente trois scénarios de réforme pour la fonction publique à l'horizon 2050",
-      "link": "https://www.journaldunet.com/business/action-publique/1556841-la-dgafp-presente-trois-scenarios-de-reforme-pour-la-fonction-publique-a-l-horizon-2050/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-20T08:37:42+00:00",
-      "summary": "Face au vieillissement des effectifs et à la baisse d'attractivité, la DGAFP présente trois pistes de réforme pour la fonction publique française à l'horizon 2050."
-    },
-    {
-      "title": "Le drive-to-store gagne du terrain dans le mix média avec des investissements en hausse de 21%",
-      "link": "https://www.journaldunet.com/adtech/1556793-le-drive-to-store-gagne-du-terrain-dans-le-mix-media-avec-des-investissements-en-hausse-de-21/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-20T08:00:17+00:00",
-      "summary": "Alors que les crises et les incertitudes se cumulent, les annonceurs misent sur ce levier pour générer des ventes, et notamment en digital (+33,4%)"
-    },
-    {
-      "title": "What’s making Europe so angry? The frustration behind the protests",
-      "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-20T07:19:16+00:00",
-      "summary": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis."
-    },
-    {
       "title": "Batteries, uranium faiblement enrichi, matériaux quantiques : le plus grand centre de recherche neutronique d’Europe se fixe de nouvelles priorités",
       "link": "https://www.latribune.fr/article/economie/74491806720362/a-grenoble-le-plus-grand-centre-de-recherche-neutronique-deurope-se-fixe-de-nouvelles-priorites",
       "source": "La Tribune - Actualité",
@@ -994,13 +1093,13 @@
       "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
     },
     {
-      "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-      "link": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
-      "source": "CNBC - Top News",
+      "title": "«Il n’a pas su se réinventer» : au bord de la faillite, Gifi est menacé d’être vendu à la découpe",
+      "link": "https://www.lefigaro.fr/societes/il-n-a-pas-su-se-reinventer-au-bord-de-la-faillite-gifi-est-menace-d-etre-vendu-a-la-decoupe-20261019",
+      "source": "Le Figaro - Économie",
       "category": "finance",
-      "lang": "en",
-      "published": "2026-10-19T23:00:02+00:00",
-      "summary": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue."
+      "lang": "fr",
+      "published": "2026-10-19T17:15:00+00:00",
+      "summary": "DÉCRYPTAGE - L’enseigne discount va déposer le bilan. Un administrateur judiciaire va chercher des repreneurs pour tout ou partie de ses 513 magasins en France."
     },
     {
       "title": "En Israël, la sécurité au cœur des élections législatives",
@@ -1012,24 +1111,6 @@
       "summary": "À dix jours des législatives, la campagne tourne autour des guerres perpétuelles de Benyamin Netanyahou et de la protection du pays. L’issue du scrutin s’annonce très incertaine."
     },
     {
-      "title": "VPN, antivirus, données personnelles : Surfshark One promet beaucoup pour 2,49 €/mois, mais que vaut son offre ?",
-      "link": "https://www.journaldunet.com/cybersecurite/vpn/1556797-vpn-antivirus-donnees-personnelles-surfshark-one-promet-beaucoup-pour-2-49-eur-mois-mais-que-vaut-son-offre/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T15:30:06+00:00",
-      "summary": "Avec Surfshark One, VPN, antivirus et alertes de fuite de données sont réunis dans un même abonnement. Une offre complète affichée à partir de 2,49 €/mois, avec 87 % de réduction et jusqu'à trois mois offerts."
-    },
-    {
-      "title": "Il ne suffit plus d'électrifier la France, il faut rendre son réseau intelligent",
-      "link": "https://www.journaldunet.com/iot/1556597-il-ne-suffit-plus-d-electrifier-la-france-il-faut-rendre-son-reseau-intelligent/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T15:14:25+00:00",
-      "summary": "Face à l'électrification croissante, les jumeaux numériques électriques sont essentiels pour rendre le réseau français plus intelligent et coordonner l'ensemble de ses acteurs."
-    },
-    {
       "title": "Comment les entreprises préparent l’après-émeutes",
       "link": "https://www.latribune.fr/article/economie/52118428576828/comment-les-entreprises-preparent-l-apres-emeutes",
       "source": "La Tribune - Actualité",
@@ -1037,24 +1118,6 @@
       "lang": "fr",
       "published": "2026-10-19T15:12:21+00:00",
       "summary": "Fonds de soutien, cellules de crise, mesure de chômage partiel total… l’après-émeutes, entre aide publique et recours aux assurances, s’organise alors que le ministre du commerce évoque 3 000 commerces endommagés ou pillés depuis le 17 octobre."
-    },
-    {
-      "title": "Le rêve télécom de SpaceX prend forme",
-      "link": "https://www.journaldunet.com/business/1556799-le-reve-telecom-de-spacex-prend-forme/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T14:47:09+00:00",
-      "summary": "La société d'Elon Musk vient de franchir plusieurs étapes clefs pour lui permettre d'étendre son service Starlink à la téléphonie mobile, constituant une menace sérieuse pour les opérateurs."
-    },
-    {
-      "title": "Violences du 17 octobre : les cybercriminels participent en piratant deux armureries",
-      "link": "https://www.journaldunet.com/cybersecurite/1556813-emeutes-du-17-octobre-les-cybercriminels-participent-a-la-terreur-et-ciblent-des-armureries/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T14:23:26+00:00",
-      "summary": "Des cybercriminels ont contribué à semer le chaos ces derniers jours en publiant délibérément de nombreuses fuites de données la veille et le jour même."
     },
     {
       "title": "La démesure américaine. La chronique de Marc Fiorentino",
@@ -1066,15 +1129,6 @@
       "summary": "Il y a aujourd’hui 12 entreprises américaines qui capitalisent plus de 1 000 milliards en Bourse, dont quatre au-dessus de 4 000 milliards."
     },
     {
-      "title": "Shadow AI : les salariés ont-ils compris avant leurs dirigeants où se trouvent les vrais gains de productivité ?",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1556805-shadow-ai-les-salaries-ont-ils-compris-avant-leurs-dirigeants-ou-se-trouvent-les-vrais-gains-de-productivite/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T13:52:34+00:00",
-      "summary": "Les salariés utilisent parfois l'IA sans autorisation pour contourner des outils inadaptés. Et si ces usages révélaient surtout ce qui complique inutilement leur travail?"
-    },
-    {
       "title": "Budget 2027 : les retraités pourraient assumer près de 60 % de l’effort financier pesant sur les ménages",
       "link": "https://www.latribune.fr/article/economie/5932756072637/budget-2027-les-retraites-pourraient-assumer-pres-de-60-de-l-effort-financier-pesant-sur-les-menages",
       "source": "La Tribune - Actualité",
@@ -1084,42 +1138,6 @@
       "summary": "Les coupes budgétaires présentées par le gouvernement le 1er octobre mettraient particulièrement à contribution les retraités, si elles venaient à être appliquées in extenso, selon l’Institut français d’économie."
     },
     {
-      "title": "Emmanuel Macron maintient Laurent Nuñez à l'Intérieur en refusant sa démission",
-      "link": "https://www.journaldunet.com/business/action-publique/1556791-emmanuel-macron-maintient-laurent-nunez-a-l-interieur-malgre-les-critiques/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T10:42:03+00:00",
-      "summary": "Le président maintient le ministre de l'Intérieur en poste malgré les critiques, invoquant \"la nécessité d'un commandement continu des forces de l'ordre dans le contexte actuel\"."
-    },
-    {
-      "title": "Gaston Lagaffe revient avec un 23e album inédit signé Delaf et Trondheim",
-      "link": "https://www.journaldunet.com/business/1556789-gaston-lagaffe-revient-avec-un-23e-album-inedit-signe-delaf-et-trondheim/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T10:27:41+00:00",
-      "summary": "Le célèbre antihéros de la bande dessinée fait son grand retour avec un 23e album inédit, confirmant sa popularité inaltérable."
-    },
-    {
-      "title": "La présidente de la Cour des comptes met en garde contre la dérive de la dette publique",
-      "link": "https://www.journaldunet.com/business/action-publique/1556787-amelie-de-montchalin-met-en-garde-contre-la-derive-de-la-dette-publique/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T10:15:54+00:00",
-      "summary": "La présidente de la Cour des comptes met en garde contre la dérive de la dette publique et appelle à ramener le déficit sous 5% du PIB d'ici 2027."
-    },
-    {
-      "title": "Anthropic vs OpenAI : l'IA la plus chère n'est pas celle que l'on croit",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1556801-anthropic-vs-openai-l-ia-la-plus-chere-n-est-pas-celle-que-l-on-croit/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T10:13:23+00:00",
-      "summary": "Nous avons mesuré ce que coûtent vraiment les IA d'OpenAI et d'Anthropic sur des tâches d'entreprise. Le tarif annoncé par les éditeurs se révèle un mauvais indicateur de la facture finale."
-    },
-    {
       "title": "Territoires Awards : BFM La Tribune récompense l’excellence entreprenariale",
       "link": "https://www.latribune.fr/article/economie/32998638926175/territoires-awards-bfm-la-tribune-recompense-l-excellence-entreprenariale",
       "source": "La Tribune - Actualité",
@@ -1127,15 +1145,6 @@
       "lang": "fr",
       "published": "2026-10-19T10:04:29+00:00",
       "summary": "Cette première édition, dont le thème est « Racines françaises, ambition mondiale », porte son regard vers les PME, ETI, grands groupes et les dirigeants qui font l’économie du Sud. Organisée à Marseille ce 20 octobre, cet événement récompensera notamment l’engagement territorial, la croissance, le "
-    },
-    {
-      "title": "\"Il est surprenant qu'un acteur comme OpenAI soit exposé à un bug aussi basique que la suppression de l'UTM\"",
-      "link": "https://www.journaldunet.com/adtech/1556795-c-est-surprenant-qu-un-acteur-comme-open-ai-soit-exposes-a-un-bug-aussi-basique-que-la-suppression-de-l-utm/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-19T10:00:21+00:00",
-      "summary": "Pendant une semaine ChatGPT a cessé d'apposer l'UTM sur les liens de redirection. L'impact pour les sites des entreprises du CAC 40 a été modéré selon Julien Ribourt, senior partner data, AI & agentic chez Converteo."
     },
     {
       "title": "Le crédit immobilier à taux fixe va-t-il bientôt disparaître ?",
@@ -1235,15 +1244,6 @@
       "lang": "fr",
       "published": "2026-10-18T07:00:01+00:00",
       "summary": "La tournée du président de la République du 19 au 21 octobre dans quatre pays du Golfe vise à répondre à la crise énergétique et à renforcer les alliances. L’enjeu est considérable tant la guerre catastrophique menée par Donald Trump et Israël contre l’Iran a endommagé les liens entre les monarchies"
-    },
-    {
-      "title": "OPINION. « Paris et Rome, laboratoire de l'Europe des villes », par Sandro Gozi, député européen (Renew Europe) et conseiller de Paris",
-      "link": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/3923465703082/opinion-paris-et-rome-laboratoire-de-leurope-des-villes-par-sandro-gozi-depute-europeen-renew-europe-et-conseiller-de-paris",
-      "source": "La Tribune - Actualité",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-17T19:00:01+00:00",
-      "summary": "Sandro Gozi, député européen et conseiller de Paris, plaide pour renforcer la coopération entre les capitales française et italienne afin de faire de leur jumelage un moteur concret de la construction européenne."
     },
     {
       "title": "Conjuguer performance et impact, une nouvelle vision de l’investissement",
