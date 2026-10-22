@@ -1,16 +1,286 @@
 {
-  "generated_at": "2026-10-21T21:04:42.361473+00:00",
+  "generated_at": "2026-10-22T02:42:30.746330+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
+      "link": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T02:20:50+00:00",
+      "summary": "Sovereign wealth funds are pouring billions of dollars back into China after a sharp investment slump."
+    },
+    {
+      "title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
+      "link": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T02:18:29+00:00",
+      "summary": "Economists polled by Reuters had forecast the Bank of Korea to hold rates."
+    },
+    {
+      "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
+      "link": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T02:01:48+00:00",
+      "summary": "Southeast Asia's rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain & Company, told CNBC."
+    },
+    {
+      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T01:50:00+00:00",
+      "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts"
+    },
+    {
+      "title": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+      "link": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T01:21:10+00:00",
+      "summary": "Musk in September donated $158 million to a Republican Super PAC, which sent that cash to a PAC backing GOP Senate nominee Ken Paxton, Talarico's opponent."
+    },
+    {
+      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T01:05:15+00:00",
+      "summary": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats."
+    },
+    {
+      "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+      "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T00:53:01+00:00",
+      "summary": "Investors liked what they saw."
+    },
+    {
+      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+      "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T00:48:00+00:00",
+      "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock."
+    },
+    {
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-22T00:17:54+00:00",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&#8217"
+    },
+    {
+      "title": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+      "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-22T00:07:48+00:00",
+      "summary": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data."
+    },
+    {
+      "title": "YouTube says it isn’t testing hiding the dislike button",
+      "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T23:46:45+00:00",
+      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTub"
+    },
+    {
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T23:36:31+00:00",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonom"
+    },
+    {
+      "title": "Tesla beats on earnings and sales even as auto revenue declines",
+      "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T23:32:04+00:00",
+      "summary": "Tesla reported better-than-expected third-quarter results."
+    },
+    {
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T23:29:00+00:00",
+      "summary": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday."
+    },
+    {
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T23:07:00+00:00",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant"
+    },
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T22:51:22+00:00",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+    },
+    {
+      "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T22:50:35+00:00",
+      "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening."
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T22:45:34+00:00",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
+    },
+    {
+      "title": "Data centers could erase decades of air quality gains",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T22:33:44+00:00",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utiliti"
+    },
+    {
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T22:16:05+00:00",
+      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores."
+    },
+    {
+      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+      "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T22:03:37+00:00",
+      "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence."
+    },
+    {
+      "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+      "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T21:48:02+00:00",
+      "summary": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\""
+    },
+    {
+      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T21:44:00+00:00",
+      "summary": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea."
+    },
     {
       "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
       "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-21T21:02:24+00:00",
+      "published": "2026-10-21T21:41:23+00:00",
       "summary": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says."
+    },
+    {
+      "title": "Mobilisations : quand des militants musulmans appellent à «arracher» les pancartes «Bismillah c’est les ténèbres» des manifestants",
+      "link": "https://www.lefigaro.fr/actualite-france/mobilisations-quand-des-militants-musulmans-appellent-a-arracher-les-pancartes-bismillah-c-est-les-tenebres-des-manifestants-20261021",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-21T21:39:01+00:00",
+      "summary": "RÉCIT - Des militants musulmans dénoncent l’utilisation du mot «bismillah» en manifestation. Au moins l’un d’entre eux est passé à l’acte. Un signe marquant de l’«extrémisme», selon une islamologue."
+    },
+    {
+      "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+      "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T21:31:00+00:00",
+      "summary": "The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections."
+    },
+    {
+      "title": "Meta to create a new class of shares to fund AI push",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T21:30:02+00:00",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of inves"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T21:16:20+00:00",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-21T21:14:19+00:00",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+    },
+    {
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T21:14:00+00:00",
+      "summary": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery."
+    },
+    {
+      "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+      "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-21T21:07:11+00:00",
+      "summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices."
     },
     {
       "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -31,22 +301,13 @@
       "summary": "Investors have pushed the healthcare sector to a record high, and some favored stocks have high projected revenue growth rates through 2028."
     },
     {
-      "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-      "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:57:53+00:00",
-      "summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices."
-    },
-    {
       "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
       "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
       "source": "TechCrunch",
       "category": "tech",
       "lang": "en",
       "published": "2026-10-21T20:57:40+00:00",
-      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\""
+      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\""
     },
     {
       "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
@@ -56,15 +317,6 @@
       "lang": "en",
       "published": "2026-10-21T20:57:12+00:00",
       "summary": "Trump-aligned PACs are pouring hundreds of millions into House and Senate races as Republicans defend an expanding midterm election battleground map."
-    },
-    {
-      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-      "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:55:19+00:00",
-      "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence."
     },
     {
       "title": "New York’s first microdrama film festival searches for its audience",
@@ -85,33 +337,6 @@
       "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settl"
     },
     {
-      "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
-      "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:45:16+00:00",
-      "summary": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\""
-    },
-    {
-      "title": "Tesla beats on earnings and sales even as auto revenue declines",
-      "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:43:00+00:00",
-      "summary": "Tesla reported better-than-expected third-quarter results."
-    },
-    {
-      "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
-      "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:37:00+00:00",
-      "summary": "The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections."
-    },
-    {
       "title": "PHP: The three letters that shut down sites all over the internet today",
       "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
       "source": "The Verge",
@@ -121,7 +346,7 @@
       "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any sit"
     },
     {
-      "title": "Tesla stars Optimus robot production in California as profit falls 43%",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
       "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
       "source": "TechCrunch",
       "category": "tech",
@@ -166,22 +391,13 @@
       "summary": "Deux failles critiques découvertes dans l’un des rouages essentiels du web ont conduit de nombreux services à se mettre hors ligne."
     },
     {
-      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:18:00+00:00",
-      "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend."
-    },
-    {
       "title": "Automattic begins layoffs following board upheaval and executive departures",
       "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
       "source": "TechCrunch",
       "category": "tech",
       "lang": "en",
       "published": "2026-10-21T20:15:00+00:00",
-      "summary": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances."
+      "summary": "Sources say more cuts could follow as the company looks to improve its finances."
     },
     {
       "title": "Bose acquires Skullcandy to help it reach a wider audience",
@@ -191,24 +407,6 @@
       "lang": "en",
       "published": "2026-10-21T20:15:00+00:00",
       "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - including its head-tracking spatial audio and excellent active noise cancellation "
-    },
-    {
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:15:00+00:00",
-      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
-    },
-    {
-      "title": "SpaceX’s massive AI targets will test the limits of reality",
-      "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:15:00+00:00",
-      "summary": "As Elon Musk aims to increase SpaceX’s computing capacity exponentially, he’ll face challenges related to funding, power supply and simply securing sufficient chips."
     },
     {
       "title": "GM aims to develop vehicles in as little as two years with AI, software push",
@@ -238,15 +436,6 @@
       "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico."
     },
     {
-      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T20:01:00+00:00",
-      "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts"
-    },
-    {
       "title": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
       "link": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
       "source": "CNBC - Top News",
@@ -263,15 +452,6 @@
       "lang": "en",
       "published": "2026-10-21T19:54:00+00:00",
       "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complete t"
-    },
-    {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-21T19:53:20+00:00",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Clau"
     },
     {
       "title": "GM is betting compute and AI will help it compete with Chinese automakers",
@@ -301,7 +481,7 @@
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
     },
     {
-      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
       "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
       "source": "TechCrunch",
       "category": "tech",
@@ -319,24 +499,6 @@
       "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
     },
     {
-      "title": "Walmart is inviting AI agents to shop for you",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-21T19:30:00+00:00",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, [&#82"
-    },
-    {
-      "title": "‘Super’ El Niño may soon make your coffee super expensive",
-      "link": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T19:24:00+00:00",
-      "summary": "Agricultural markets around the world are already dealing with record-high diesel prices and high fertilizer costs. A “super” El Niño is almost guaranteed to make matters worse for farmers and consumers."
-    },
-    {
       "title": "The internet is having a very bad cybersecurity day",
       "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
       "source": "TechCrunch",
@@ -346,15 +508,6 @@
       "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week."
     },
     {
-      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-      "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-21T19:02:49+00:00",
-      "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other l"
-    },
-    {
       "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
       "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
       "source": "TechCrunch",
@@ -362,15 +515,6 @@
       "lang": "en",
       "published": "2026-10-21T18:51:56+00:00",
       "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion."
-    },
-    {
-      "title": "Cyberpunk 2077&#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
-      "link": "https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-21T18:39:52+00:00",
-      "summary": "Cyberpunk 2077 is getting a big new 2.5 update that, among other features, brings cross-platform mod support to consoles and content inspired by the new season of the Cyberpunk: Edgerunners anime on Netflix. There's a lot to unpack in the full patch notes. The Edgerunners-specific content includes a"
     },
     {
       "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
@@ -391,7 +535,7 @@
       "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product."
     },
     {
-      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
       "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
       "source": "TechCrunch",
       "category": "tech",
@@ -481,22 +625,13 @@
       "summary": "The growing AI trade is infiltrating traditionally safe sectors like utilities, making hedging more difficult."
     },
     {
-      "title": "Mobilisations : quand des militants musulmans appellent à «arracher» les pancartes «Bismillah c’est les ténèbres» des manifestants",
-      "link": "https://www.lefigaro.fr/actualite-france/mobilisations-quand-des-militants-musulmans-appellent-a-arracher-les-pancartes-bismillah-c-est-les-tenebres-des-manifestants-20261021",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-21T17:13:34+00:00",
-      "summary": "RÉCIT - Des militants musulmans dénoncent l’utilisation du mot «bismillah» en manifestation. Au moins l’un d’entre eux est passé à l’acte. Un signe marquant de l’«extrémisme», selon une islamologue."
-    },
-    {
       "title": "Waymo starts offering rides at the Las Vegas airport",
       "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
       "source": "TechCrunch",
       "category": "tech",
       "lang": "en",
       "published": "2026-10-21T16:59:44+00:00",
-      "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3."
+      "summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city."
     },
     {
       "title": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
@@ -524,15 +659,6 @@
       "lang": "en",
       "published": "2026-10-21T16:35:48+00:00",
       "summary": "A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon."
-    },
-    {
-      "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
-      "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T16:34:00+00:00",
-      "summary": "Private insurance costs way more for the same results — or worse."
     },
     {
       "title": "Fusées réutilisables, constellations, stations spatiales… Comment la Chine talonne les États-Unis",
@@ -589,15 +715,6 @@
       "summary": "ANALYSE - Vitrines brisées, magasins pillés : la casse du 17 octobre se chiffre en centaines de millions d’euros. Mais l’essentiel de l’impact sur l’économie tricolore est ailleurs."
     },
     {
-      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-      "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T15:30:50+00:00",
-      "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds."
-    },
-    {
       "title": "À quelques semaines du Black Friday et de Noël, les commerçants pillés redoutent de ne pas pouvoir reconstituer leurs stocks",
       "link": "https://www.lefigaro.fr/conso/a-quelques-semaines-du-black-friday-et-de-noel-les-commercants-pilles-redoutent-de-ne-pas-pouvoir-reconstituer-leurs-stocks-20261021",
       "source": "Le Figaro - Économie",
@@ -614,15 +731,6 @@
       "lang": "en",
       "published": "2026-10-21T15:17:03+00:00",
       "summary": "EBay will lay off 9% of its workforce, or about 1,000 employees, as it works to focus on its \"top strategic priorities.\""
-    },
-    {
-      "title": "A $50 sports bet costs a young investor hundreds later. Here's how",
-      "link": "https://www.cnbc.com/2026/10/21/sports-betting-young-investors-compounding.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T15:16:20+00:00",
-      "summary": "Studies show gambling is eating away at people's savings and investing funds, especially among younger generations."
     },
     {
       "title": "Comment le prochain vote du Budget 2027 pourrait venir impacter la gestion patrimoniale des œuvres d'art en France",
@@ -931,15 +1039,6 @@
       "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition."
     },
     {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-21T14:00:00+00:00",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
-    },
-    {
       "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
       "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
       "source": "CNBC - Top News",
@@ -949,15 +1048,6 @@
       "summary": "United is opening a 54,000-square-foot lounge as part of the revamp of Houston's George Bush Intercontinental Airport."
     },
     {
-      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-      "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-21T13:30:00+00:00",
-      "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient."
-    },
-    {
       "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
       "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
       "source": "CNBC - Top News",
@@ -965,42 +1055,6 @@
       "lang": "en",
       "published": "2026-10-21T13:13:48+00:00",
       "summary": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market."
-    },
-    {
-      "title": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
-      "link": "https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T13:00:01+00:00",
-      "summary": "OpenAI is rolling out ChatGPT Ads in 26 new countries as it works to expand its advertising business"
-    },
-    {
-      "title": "Mach9 raises $34M after pivoting to AI CAD software",
-      "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-21T13:00:00+00:00",
-      "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021."
-    },
-    {
-      "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-      "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T12:43:49+00:00",
-      "summary": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days."
-    },
-    {
-      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-      "link": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T12:33:34+00:00",
-      "summary": "Tokenized stocks are gaining momentum in international markets, even as major U.S. companies are pushing back against efforts to introduce them domestically."
     },
     {
       "title": "« Il sera difficile de réduire le déficit » : la dette française s’affole et franchit le cap des 5 %",
@@ -1021,24 +1075,6 @@
       "summary": "Housing data deteriorated further in September, according to separate reports Tuesday."
     },
     {
-      "title": "House committee says Webull messages point to China access to U.S. customer data",
-      "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T11:05:18+00:00",
-      "summary": "The House Select Committee on China earlier this month said online investing platform Webull is quietly \"tied in structural ways\" to China's government."
-    },
-    {
-      "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-      "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T10:40:01+00:00",
-      "summary": "France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more."
-    },
-    {
       "title": "Le patron de Ryanair prévoit «la plus grosse augmentation de prix de l’histoire» pour les billets d’avion en Europe en 2027",
       "link": "https://www.lefigaro.fr/conso/le-patron-de-ryanair-prevoit-la-plus-grosse-augmentation-de-prix-de-l-histoire-pour-les-billets-d-avion-en-europe-en-2027-20261021",
       "source": "Le Figaro - Économie",
@@ -1057,15 +1093,6 @@
       "summary": "Émission des factures, gestion des notes de frais des clients et transmission des données de caisse vont progressivement s’intégrer dans le quotidien de ces chefs d’entreprise. Si le cadre réglementaire se précise, les solutions techniques et les pratiques restent encore en phase d’adaptation."
     },
     {
-      "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
-      "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-21T07:49:48+00:00",
-      "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models."
-    },
-    {
       "title": "« Pour se concentrer ce n'est pas l'idéal, mais c'est toujours mieux que d’apprendre en ligne » : en Ukraine, le quotidien des enfants dans les écoles-bunkers",
       "link": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/97679438514329/pour-se-concentrer-ce-nest-pas-lideal-mais-cest-toujours-mieux-que-d-apprendre-en-ligne-en-ukraine-le-quotidien-des-enfants-dans-les-ecoles-bunkers",
       "source": "La Tribune - Actualité",
@@ -1073,33 +1100,6 @@
       "lang": "fr",
       "published": "2026-10-21T04:00:01+00:00",
       "summary": "REPORTAGE — Située à 20 kilomètres du front et 30 kilomètres de la frontière russe, l'école primaire n°30 de Soumy s'est enterrée à 10 mètres sous terre."
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-20T23:01:23+00:00",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-    },
-    {
-      "title": "SpaceX and Tesla boards form special committees to review merger",
-      "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-20T22:57:57+00:00",
-      "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors."
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-20T22:24:02+00:00",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
       "title": "Budget : les députés vont-ils redresser les comptes de la Sécu ?",
