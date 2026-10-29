@@ -1,16 +1,232 @@
 {
-  "generated_at": "2026-10-28T22:03:09.105971+00:00",
+  "generated_at": "2026-10-29T03:44:34.973442+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T02:49:39+00:00",
+      "summary": "Samsung Electronics reported third-quarter earnings on Thursday."
+    },
+    {
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-29T02:22:46+00:00",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single"
+    },
+    {
+      "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+      "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T02:14:14+00:00",
+      "summary": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations."
+    },
+    {
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T01:58:00+00:00",
+      "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries."
+    },
+    {
+      "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T00:32:02+00:00",
+      "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory."
+    },
+    {
+      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T00:20:00+00:00",
+      "summary": "An agreement between the companies could come next week, Bloomberg reported"
+    },
+    {
+      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T00:16:39+00:00",
+      "summary": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity."
+    },
+    {
+      "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T00:15:00+00:00",
+      "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”"
+    },
+    {
+      "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T00:11:14+00:00",
+      "summary": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market"
+    },
+    {
+      "title": "The major reason Microsoft’s stock is heading higher after earnings",
+      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T00:10:00+00:00",
+      "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check."
+    },
+    {
+      "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+      "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T23:38:00+00:00",
+      "summary": "For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship."
+    },
+    {
+      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
+      "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T23:24:37+00:00",
+      "summary": "CNBC calculated the rolling 60-day correlation of daily returns for each of the 21 unique pairs among the Magnificent Seven."
+    },
+    {
+      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T23:18:00+00:00",
+      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments."
+    },
+    {
+      "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+      "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T23:17:17+00:00",
+      "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion."
+    },
+    {
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-28T23:15:00+00:00",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-28T23:05:39+00:00",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the lau"
+    },
+    {
+      "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T23:02:00+00:00",
+      "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics."
+    },
+    {
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-28T22:47:50+00:00",
+      "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
+    },
+    {
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T22:41:00+00:00",
+      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you."
+    },
+    {
+      "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+      "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T22:38:41+00:00",
+      "summary": "Any button that can be clicked can also be touched."
+    },
     {
       "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
       "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-28T22:01:21+00:00",
+      "published": "2026-10-28T22:34:56+00:00",
       "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue."
+    },
+    {
+      "title": "Commando armé, influence étrangère, soupçons en interne : psychose à l’usine Framatome après le spectaculaire vol d’une tonne d’un métal critique",
+      "link": "https://www.lefigaro.fr/actualite-france/commando-arme-influence-etrangere-soupcons-en-interne-psychose-a-l-usine-framatome-apres-le-spectaculaire-vol-d-une-tonne-d-un-metal-critique-20261028",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-28T22:27:44+00:00",
+      "summary": "ENQUÊTE - Trente fûts de cristaux d’hafnium, utilisé notamment dans l’aéronautique (sous-marins nucléaires, avions de combat, drones d’attaque), ont été subtilisés la semaine dernière à Jarrie (Isère)."
+    },
+    {
+      "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+      "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T22:27:00+00:00",
+      "summary": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year."
+    },
+    {
+      "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
+      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T22:25:00+00:00",
+      "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets."
+    },
+    {
+      "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+      "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T22:12:28+00:00",
+      "summary": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said."
     },
     {
       "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
@@ -18,8 +234,17 @@
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-28T22:00:13+00:00",
+      "published": "2026-10-28T22:07:17+00:00",
       "summary": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years."
+    },
+    {
+      "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-28T22:04:19+00:00",
+      "summary": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus."
     },
     {
       "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
@@ -49,13 +274,13 @@
       "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
     },
     {
-      "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-      "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "source": "The Verge",
+      "category": "tech",
       "lang": "en",
-      "published": "2026-10-28T21:55:12+00:00",
-      "summary": "For the full year, Chipotle reiterated its previous forecast that its same-store sales will increase by a low single digit percentage."
+      "published": "2026-10-28T21:57:45+00:00",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and"
     },
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
@@ -65,15 +290,6 @@
       "lang": "en",
       "published": "2026-10-28T21:48:37+00:00",
       "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
-    },
-    {
-      "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-      "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T21:47:47+00:00",
-      "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion."
     },
     {
       "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
@@ -121,25 +337,7 @@
       "summary": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting."
     },
     {
-      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T21:30:00+00:00",
-      "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
-    },
-    {
-      "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
-      "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T21:27:00+00:00",
-      "summary": "Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday."
-    },
-    {
-      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
       "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
       "source": "TechCrunch",
       "category": "tech",
@@ -155,15 +353,6 @@
       "lang": "en",
       "published": "2026-10-28T21:16:18+00:00",
       "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've s"
-    },
-    {
-      "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T21:07:00+00:00",
-      "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics."
     },
     {
       "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
@@ -182,69 +371,6 @@
       "lang": "en",
       "published": "2026-10-28T20:59:23+00:00",
       "summary": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts."
-    },
-    {
-      "title": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
-      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:58:00+00:00",
-      "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets."
-    },
-    {
-      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:49:00+00:00",
-      "summary": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook."
-    },
-    {
-      "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-      "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:45:00+00:00",
-      "summary": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows."
-    },
-    {
-      "title": "Here’s what just sent Oracle’s stock soaring",
-      "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:38:00+00:00",
-      "summary": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared."
-    },
-    {
-      "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-      "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:35:33+00:00",
-      "summary": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year."
-    },
-    {
-      "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-      "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:26:06+00:00",
-      "summary": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus."
-    },
-    {
-      "title": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-      "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:23:48+00:00",
-      "summary": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter."
     },
     {
       "title": "Google says its investments in AI are driving more searches",
@@ -274,15 +400,6 @@
       "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is"
     },
     {
-      "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:18:00+00:00",
-      "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts."
-    },
-    {
       "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
       "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
       "source": "CNBC - Top News",
@@ -299,15 +416,6 @@
       "lang": "fr",
       "published": "2026-10-28T20:14:55+00:00",
       "summary": "S’il juge la capitalisation trop inégalitaire et instable, le candidat insoumis ne se «[plaint] pas» des bénéfices que lui apporte ce système en tant qu’ancien parlementaire."
-    },
-    {
-      "title": "Options traders break down a massive Alphabet trade into earnings",
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T20:13:59+00:00",
-      "summary": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report."
     },
     {
       "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
@@ -382,15 +490,6 @@
       "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US g"
     },
     {
-      "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-      "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T19:30:34+00:00",
-      "summary": "This could be one of the best times to buy corporate bonds in recent history, investing experts say, with treasuries yielding 5% boosting fixed income market."
-    },
-    {
       "title": "Enjeu sécuritaire ou mesure liberticide ? Matignon met la pression sur les réseaux sociaux pour empêcher pillages et violences",
       "link": "https://www.lefigaro.fr/secteur/high-tech/enjeu-securitaire-ou-mesure-liberticide-matignon-met-la-pression-sur-les-reseaux-sociaux-pour-empecher-pillages-et-violences-20261028",
       "source": "Le Figaro - Économie",
@@ -425,15 +524,6 @@
       "lang": "en",
       "published": "2026-10-28T19:19:58+00:00",
       "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
-    },
-    {
-      "title": "Hands-on with the new OLED iPad Mini",
-      "link": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-28T19:18:58+00:00",
-      "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and tell\" event venue [&#8"
     },
     {
       "title": "Fed chairman talks tough on inflation — plus, what's behind Micron's big rally",
@@ -490,15 +580,6 @@
       "summary": "DÉCRYPTAGE - L’an dernier, les propositions d’imposition des plus aisés et des grands groupes tenaient le haut du pavé des débats budgétaires. Cette année, les députés de l’ex-NFP peinent à les imposer."
     },
     {
-      "title": "Brendan Carr plans to let prisons jam cellphone signals",
-      "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-28T18:57:02+00:00",
-      "summary": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for use "
-    },
-    {
       "title": "À qui profite la volte-face de Donald Trump sur les sanctions pétrolières contre la Russie ?",
       "link": "https://www.lefigaro.fr/conjoncture/a-qui-profite-la-volte-face-de-donald-trump-sur-les-sanctions-petrolieres-contre-la-russie-20261028",
       "source": "Le Figaro - Économie",
@@ -506,24 +587,6 @@
       "lang": "fr",
       "published": "2026-10-28T18:45:00+00:00",
       "summary": "DÉCRYPTAGE - En autorisant la reprise des exportations de diesel russe et en suspendant les droits de douane qui menaçaient les principaux acheteurs de Moscou, le président américain leur accorde un répit bienvenu. Pas sûr, en revanche, que le consommateur américain en profite réellement."
-    },
-    {
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-28T18:36:26+00:00",
-      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official "
-    },
-    {
-      "title": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
-      "link": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T18:33:53+00:00",
-      "summary": "With the Club portfolio now down to 31 positions, we are working on new ideas to add to the Bullpen."
     },
     {
       "title": "Safran prêt à équiper les successeurs de l’A320neo et du 737 Max",
@@ -542,15 +605,6 @@
       "lang": "fr",
       "published": "2026-10-28T18:15:00+00:00",
       "summary": "ANALYSE - Avec ses droits de douane, le président américain a contraint les industriels à investir des dizaines de milliards pour construire des usines et ainsi relancer la production aux États-Unis."
-    },
-    {
-      "title": "Commando armé, influence étrangère, soupçons en interne : psychose à l’usine Framatome après le spectaculaire vol d’une tonne d’un métal critique",
-      "link": "https://www.lefigaro.fr/actualite-france/commando-arme-influence-etrangere-soupcons-en-interne-psychose-a-l-usine-framatome-apres-le-spectaculaire-vol-d-une-tonne-d-un-metal-critique-20261028",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-28T18:13:30+00:00",
-      "summary": "ENQUÊTE - Trente fûts de cristaux d’hafnium, utilisé notamment dans l’aéronautique (sous-marins nucléaires, avions de combat, drones d’attaque), ont été subtilisés la semaine dernière à Jarrie (Isère)."
     },
     {
       "title": "Ces quelques signaux positifs sur la dette française, au milieu de la spirale de défiance des investisseurs",
@@ -578,15 +632,6 @@
       "lang": "fr",
       "published": "2026-10-28T18:00:00+00:00",
       "summary": "DÉCRYPTAGE - Après le rail et l’acier, l’eau pourrait être le prochain secteur à repasser sous contrôle public britannique. Très populaire, le mouvement s’annonce coûteux, alors que les finances publiques sont sous contrainte."
-    },
-    {
-      "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-      "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T17:39:43+00:00",
-      "summary": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters."
     },
     {
       "title": "Deux accidents graves en moins d’un an : la descente aux enfers du réseau de train à grande vitesse espagnol",
@@ -715,15 +760,6 @@
       "summary": "DÉCRYPTAGE - La France Insoumise a détaillé ce mercredi son projet de pôle public bancaire, destiné à réorienter davantage l’épargne des Français vers le financement de l’économie."
     },
     {
-      "title": "At least 68 people dead in high-speed Spain train crash",
-      "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T15:41:54+00:00",
-      "summary": "It is the second deadly high-speed train collision in Spain this year."
-    },
-    {
       "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
       "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
       "source": "TechCrunch",
@@ -740,15 +776,6 @@
       "lang": "fr",
       "published": "2026-10-28T15:38:48+00:00",
       "summary": "Face aux entreprises qui utilisent l'IA pour copier vite et bien les innovations de leurs concurrents, les patrons de start-up ont arrêté de partager leur idées."
-    },
-    {
-      "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-      "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T15:09:38+00:00",
-      "summary": "Total political ad spending and reservations for the 2026 cycle have topped $11.2 billion, according to AdImpact."
     },
     {
       "title": "Voice AI in vogue: Nvidia releases new open transcription model",
@@ -787,24 +814,6 @@
       "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google."
     },
     {
-      "title": "Meta has a new AI pet app called Waddle World",
-      "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-28T13:53:31+00:00",
-      "summary": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI."
-    },
-    {
-      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-      "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-28T13:39:18+00:00",
-      "summary": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release."
-    },
-    {
       "title": "L'IA ne sera un progrès que si elle est partagée",
       "link": "https://www.journaldunet.com/intelligence-artificielle/1557299-l-ia-ne-sera-un-progres-que-si-elle-est-partagee/",
       "source": "Journal du Net",
@@ -812,15 +821,6 @@
       "lang": "fr",
       "published": "2026-10-28T13:29:08+00:00",
       "summary": "Dipty Chander, présidente d'E-mma, Caroline Ballu, directrice du Tech Show Paris, Adia Danso, présidente et fondatrice de Tech With Women Club, Angela Naser, directrice de Women in Tech France et Houleymatou Baldé, fondatrice et directrice générale de Yeeso signent cette tribune dans le Journal du N"
-    },
-    {
-      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-      "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-28T13:09:08+00:00",
-      "summary": "CNBC calculated the rolling 60-day correlation of daily returns for each of the 21 unique pairs among the Magnificent Seven."
     },
     {
       "title": "Shein, Temu : les petits colis vers la France sont en baisse",
