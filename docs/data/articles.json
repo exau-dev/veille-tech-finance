@@ -1,16 +1,232 @@
 {
-  "generated_at": "2026-10-29T22:14:32.763504+00:00",
+  "generated_at": "2026-10-30T03:47:19.130825+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+      "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T03:38:24+00:00",
+      "summary": "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013."
+    },
+    {
+      "title": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
+      "link": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T03:28:10+00:00",
+      "summary": "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government."
+    },
+    {
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T03:16:00+00:00",
+      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win."
+    },
+    {
+      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T03:01:44+00:00",
+      "summary": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses."
+    },
+    {
+      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T01:46:36+00:00",
+      "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections."
+    },
+    {
+      "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+      "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T01:34:32+00:00",
+      "summary": "Alaska's election could determine which party has a majority in the Senate. GOP Sen. Dan Sullivan faces a strong challenge from Democrat Mary Peltola."
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T01:20:48+00:00",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+    },
+    {
+      "title": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
+      "link": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T01:06:07+00:00",
+      "summary": "Further downside is certainly possible, but selling now won't erase the losses we've taken."
+    },
+    {
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T00:39:52+00:00",
+      "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market."
+    },
+    {
+      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+      "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T00:38:13+00:00",
+      "summary": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon."
+    },
+    {
+      "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T00:28:45+00:00",
+      "summary": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks"
+    },
+    {
+      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+      "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T00:15:00+00:00",
+      "summary": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings"
+    },
+    {
+      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+      "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T00:14:00+00:00",
+      "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower."
+    },
+    {
+      "title": "How elections worldwide are testing Trump’s influence abroad",
+      "link": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T00:13:22+00:00",
+      "summary": "Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening."
+    },
+    {
+      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+      "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T00:06:00+00:00",
+      "summary": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&amp;P 500."
+    },
+    {
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T00:05:00+00:00",
+      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”"
+    },
+    {
+      "title": "The director of Obsession put a new horror short on YouTube",
+      "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-29T23:57:18+00:00",
+      "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for "
+    },
+    {
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-29T23:44:56+00:00",
+      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says."
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-29T23:42:22+00:00",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+    },
+    {
+      "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+      "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-29T23:42:21+00:00",
+      "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time "
+    },
+    {
+      "title": "Why Intel’s stock is sinking toward its worst drop in two years",
+      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T23:21:00+00:00",
+      "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops."
+    },
+    {
+      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-29T22:45:00+00:00",
+      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”"
+    },
+    {
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-29T22:27:23+00:00",
+      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday."
+    },
     {
       "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
       "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-29T22:10:56+00:00",
+      "published": "2026-10-29T22:24:49+00:00",
       "summary": "Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations."
+    },
+    {
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-29T22:19:32+00:00",
+      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 m"
     },
     {
       "title": "The midterms are crucial to the future of Social Security — no matter how old you are",
@@ -22,31 +238,13 @@
       "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term."
     },
     {
-      "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-      "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+      "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+      "link": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-29T22:00:20+00:00",
-      "summary": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks"
-    },
-    {
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T22:00:00+00:00",
-      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”"
-    },
-    {
-      "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
-      "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T21:55:44+00:00",
-      "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market."
+      "published": "2026-10-29T21:59:31+00:00",
+      "summary": "Amazon's cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus."
     },
     {
       "title": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
@@ -85,33 +283,6 @@
       "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project."
     },
     {
-      "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
-      "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T21:42:06+00:00",
-      "summary": "Alaska's election could determine which party has a majority in the Senate. GOP Sen. Dan Sullivan faces a strong challenge from Democrat Mary Peltola."
-    },
-    {
-      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
-      "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T21:36:00+00:00",
-      "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower."
-    },
-    {
-      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-      "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T21:35:00+00:00",
-      "summary": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&amp;P 500."
-    },
-    {
       "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
       "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
       "source": "MarketWatch - Top Stories",
@@ -148,16 +319,7 @@
       "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data."
     },
     {
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T20:45:00+00:00",
-      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”"
-    },
-    {
-      "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
       "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
       "source": "TechCrunch",
       "category": "tech",
@@ -166,40 +328,13 @@
       "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media."
     },
     {
-      "title": "The S&P 500 isn’t the big winner you may think it is",
-      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T20:39:00+00:00",
-      "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”"
-    },
-    {
-      "title": "All the reasons Marvell investors are ‘freaking out’ as Lumentum deal rumors swirl",
-      "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T20:31:00+00:00",
-      "summary": "Investors are nervous that Marvell would have to pay a big premium — and wait a while for China to approve any deal."
-    },
-    {
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-29T20:30:24+00:00",
-      "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections."
-    },
-    {
-      "title": "This is where most people go wrong in their 30s and 40s",
-      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T20:30:00+00:00",
-      "summary": "These big life decisions will determine just how well you retire."
+      "published": "2026-10-29T20:16:03+00:00",
+      "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business."
     },
     {
       "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
@@ -535,15 +670,6 @@
       "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is t"
     },
     {
-      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-      "link": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T17:40:23+00:00",
-      "summary": "Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed 14 charges against Kalshi, as well as CEO Tarek Mansour and COO Luana Lopes Lara, inclu"
-    },
-    {
       "title": "Le nouvel opus de Call of Duty créé la polémique pour avoir utilisé de véritables images d'une bousculade mortelle à Séoul",
       "link": "https://www.lefigaro.fr/secteur/high-tech/le-nouvel-opus-de-call-of-duty-cree-la-polemique-pour-avoir-utilise-de-veritables-images-d-une-bousculade-mortelle-a-seoul-20261029",
       "source": "Le Figaro - Économie",
@@ -569,15 +695,6 @@
       "lang": "fr",
       "published": "2026-10-29T17:24:06+00:00",
       "summary": "Le mot-dièse «#OnBloquelExtremeDroite», apparu en début de semaine, a gagné en popularité en ligne, notamment sur X."
-    },
-    {
-      "title": "Data centers could send US climate pollution skyrocketing",
-      "link": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T17:10:46+00:00",
-      "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club. That would essentially wipe out 15 years of g"
     },
     {
       "title": "Les éditeurs en ligne portent plainte contre Google auprès de la Commission européenne",
@@ -625,15 +742,6 @@
       "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
     },
     {
-      "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
-      "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T16:20:51+00:00",
-      "summary": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI buildout."
-    },
-    {
       "title": "SuperMe raises $20M for its network of AI expert profiles",
       "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
       "source": "TechCrunch",
@@ -643,15 +751,6 @@
       "summary": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles."
     },
     {
-      "title": "This open-source project lets you sync Withings data to other apps without a subscription",
-      "link": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T16:14:06+00:00",
-      "summary": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was already fed up with the Withings mobile app which they describe as a \"bloated mess,\" beca"
-    },
-    {
       "title": "Quelle est cette «taxe émeutes» qui pourrait faire augmenter les prix des contrats d’assurance ?",
       "link": "https://www.lefigaro.fr/conjoncture/quelle-est-cette-taxe-emeutes-qui-pourrait-faire-augmenter-les-prix-des-contrats-d-assurance-20261029",
       "source": "Le Figaro - Économie",
@@ -659,33 +758,6 @@
       "lang": "fr",
       "published": "2026-10-29T16:07:07+00:00",
       "summary": "Voté dans le cadre du budget 2026, ce dispositif devrait être opérationnel à partir du 1er janvier 2027. Il obligera les assureurs à couvrir le risque d’émeutes dans leurs contrats d’assurance auto et habitation, en échange de la création d’un «fonds de mutualisation» garanti par l’État."
-    },
-    {
-      "title": "DoorDash to acquire Instacart for $17 billion",
-      "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T15:53:12+00:00",
-      "summary": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners."
-    },
-    {
-      "title": "Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
-      "link": "https://www.cnbc.com/2026/10/29/the-wnbas-scramble-to-move-thursdays-finals-game-6-to-1230-pm-et.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T15:52:12+00:00",
-      "summary": "Many different options were considered before the WNBA decided to move Thursday's Game 6 of the WNBA Finals to a midday time slot."
-    },
-    {
-      "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-      "link": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T15:50:36+00:00",
-      "summary": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history."
     },
     {
       "title": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
@@ -733,42 +805,6 @@
       "summary": "En quittant son poste dès février prochain, Christine Lagarde ouvre la possibilité à Emmanuel Macron de participer à la désignation de son successeur avant l’élection présidentielle du printemps 2027. Le président français a appelé à une transition «ordonnée et équilibrée»."
     },
     {
-      "title": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
-      "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T14:53:06+00:00",
-      "summary": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday."
-    },
-    {
-      "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-      "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T14:51:29+00:00",
-      "summary": "Burger King's U.S. restaurants outperformed, while Popeyes disappointed."
-    },
-    {
-      "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T14:48:01+00:00",
-      "summary": "Markets saw the decision as a hawkish pause and were last pricing in a 67% chance of a December rate hike."
-    },
-    {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T14:35:26+00:00",
-      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
-    },
-    {
       "title": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
       "link": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
       "source": "CNBC - Top News",
@@ -776,24 +812,6 @@
       "lang": "en",
       "published": "2026-10-29T14:15:43+00:00",
       "summary": "The noted investor, famous from \"The Big Short,\" says it would be \"impossible\" for an AI crash not to hurt the broader market"
-    },
-    {
-      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-      "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T13:43:53+00:00",
-      "summary": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security."
-    },
-    {
-      "title": "DoorDash to acquire Instacart for $17B",
-      "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T13:40:57+00:00",
-      "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery."
     },
     {
       "title": "Le Sénat adopte l'imprescriptibilité des crimes sexuels sur mineurs",
@@ -814,15 +832,6 @@
       "summary": "Une fuite massive révèle l'identité, les bureaux et les affectations de plus de 41 000 employés du département américain de la Sécurité intérieure, alors que la politique migratoire américaine s'intensifie."
     },
     {
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T13:00:00+00:00",
-      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure."
-    },
-    {
       "title": "Dialogue social : patronat et syndicats ont touché près de 157 millions d'euros en 2025",
       "link": "https://www.journaldunet.com/business/1557335-le-patronat-et-les-syndicats-ont-touche-pres-de-157-millions-d-euros-en-2025/",
       "source": "Journal du Net",
@@ -830,15 +839,6 @@
       "lang": "fr",
       "published": "2026-10-29T12:56:10+00:00",
       "summary": "Le bilan annuel du fonds pour le financement du dialogue social révèle une répartition détaillée et en progression des financements publics aux organisations patronales et syndicales."
-    },
-    {
-      "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-      "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T12:06:03+00:00",
-      "summary": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff."
     },
     {
       "title": "Lauréates 2026 – Les Concrètes : agir là où les besoins sont les plus urgents",
