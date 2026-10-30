@@ -1,34 +1,412 @@
 {
-  "generated_at": "2026-10-30T17:35:16.939586+00:00",
+  "generated_at": "2026-10-30T21:50:09.016296+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T21:48:53+00:00",
+      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data."
+    },
+    {
+      "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+      "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T21:45:52+00:00",
+      "summary": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too."
+    },
+    {
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T21:30:00+00:00",
+      "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday"
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T21:26:59+00:00",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+    },
+    {
+      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T21:23:00+00:00",
+      "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say."
+    },
+    {
+      "title": "$6.3 billion Binance hack is largest crypto theft on record",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T21:21:17+00:00",
+      "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered."
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T21:17:40+00:00",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
+    },
+    {
+      "title": "Pertes colossales, clients criminels, modèles toujours incontrôlables… Ces petits secrets honteux qu’Anthropic révèle dans 335 pages à destination des investisseurs",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/pertes-colossales-clients-criminels-modeles-toujours-incontrolables-ces-petits-secrets-honteux-qu-anthropic-revele-dans-335-pages-a-destination-des-investisseurs-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T21:16:55+00:00",
+      "summary": "DÉCRYPTAGE - La firme californienne, qui ne sait pas si elle atteindra un jour la rentabilité, joue la carte de la transparence et liste les nombreux problèmes auxquelles elle fait face, et tous ceux qui vont s’aggraver au fil des mois."
+    },
+    {
+      "title": "Cyberattaque de Binance : les États-Unis vont «examiner» la responsabilité de la Corée du Nord annonce Trump",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-de-binance-les-etats-unis-vont-examiner-la-responsabilite-de-la-coree-du-nord-annonce-trump-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T21:05:57+00:00",
+      "summary": "Au lendemain de la cyberattaque d’ampleur ayant frappé la plateforme d’échange de cryptomonnaie Binance, les soupçons se tournent vers le groupement de hackers nord-coréens TraderTraitor."
+    },
+    {
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T21:01:32+00:00",
+      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images o"
+    },
+    {
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:52:00+00:00",
+      "summary": "Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month."
+    },
+    {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T20:48:43+00:00",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lo"
+    },
+    {
+      "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:48:00+00:00",
+      "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops."
+    },
+    {
+      "title": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+      "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:46:04+00:00",
+      "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber."
+    },
+    {
+      "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:42:00+00:00",
+      "summary": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter."
+    },
+    {
+      "title": "Déjà à un niveau record, les faillites devraient repartir à la hausse",
+      "link": "https://www.lefigaro.fr/societes/deja-a-un-niveau-record-les-faillites-devraient-repartir-a-la-hausse-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T20:32:28+00:00",
+      "summary": "Fragilisées par la crise de l’énergie et la hausse des taux d’intérêt, près de 19.000 entreprises pourraient tomber au quatrième trimestre 2026, selon le cabinet d’études Altarès."
+    },
+    {
+      "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:30:57+00:00",
+      "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off."
+    },
+    {
+      "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+      "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:29:00+00:00",
+      "summary": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say."
+    },
+    {
+      "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:28:00+00:00",
+      "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems."
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T20:26:10+00:00",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setti"
+    },
+    {
+      "title": "The selloff in tech stocks is shifting into overdrive",
+      "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:26:00+00:00",
+      "summary": "Technology stocks had been priced for perfection. They are now getting hammered."
+    },
+    {
+      "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:23:00+00:00",
+      "summary": "“A cheaper stock does not necessarily offer better value,” one expert says."
+    },
+    {
+      "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
+      "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:23:00+00:00",
+      "summary": "Teachers, nurses and other borrowers have waited years for approval to complete their payment obligation and access debt relief, the suit claims."
+    },
+    {
+      "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T20:02:45+00:00",
+      "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake."
+    },
+    {
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T19:55:13+00:00",
+      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture."
+    },
+    {
+      "title": "Pourquoi les banques françaises résistent aussi bien dans un contexte dégradé",
+      "link": "https://www.lefigaro.fr/societes/pourquoi-les-banques-francaises-resistent-aussi-bien-dans-un-contexte-degrade-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T19:47:05+00:00",
+      "summary": "DÉCRYPTAGE - Grâce notamment à leur diversification internationale, les établissements financiers ont dégagé des profits élevés depuis le début de l’année. Mais l’horizon s’assombrit."
+    },
+    {
+      "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T19:27:03+00:00",
+      "summary": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash."
+    },
+    {
+      "title": "Croissance en berne et inflation en hausse : ce spectre de la récession qui plane sur la France",
+      "link": "https://www.lefigaro.fr/conjoncture/croissance-en-berne-et-inflation-en-hausse-ce-spectre-de-la-recession-qui-plane-sur-la-france-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T19:15:00+00:00",
+      "summary": "DÉCRYPTAGE - Pour la deuxième fois en l’espace de trois trimestres, la croissance se révèle négative, réduisant à peau de chagrin les prévisions pour 2026 et 2027. Et complique d’autant le redressement des comptes publics."
+    },
+    {
+      "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+      "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T19:11:32+00:00",
+      "summary": "Investors are preparing for a blue wave in the midterm election on Tuesday that will determine who controls Congress for the remainder of President Trump's term."
+    },
+    {
+      "title": "« C’est le FSB qui s’occupe de notre rédaction » : le journal Novaïa Gazeta contraint de mettre la clé sous la porte",
+      "link": "https://www.lefigaro.fr/medias/c-est-le-fsb-qui-s-occupe-de-notre-redaction-le-journal-novaia-gazeta-contraint-de-mettre-la-cle-sous-la-porte-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T19:05:00+00:00",
+      "summary": "RÉCIT - Le journal, ultime représentant de la presse indépendante en Russie, et qui s’était ouvertement opposé à l’offensive russe contre l’Ukraine, a annoncé vendredi sa fermeture sous la pression des autorités."
+    },
+    {
+      "title": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+      "link": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T18:55:44+00:00",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
+    },
+    {
+      "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
+      "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T18:45:35+00:00",
+      "summary": "Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening."
+    },
+    {
+      "title": "Sanofi relève ses perspectives de croissance et grimpe en Bourse",
+      "link": "https://www.lefigaro.fr/decideurs/sanofi-releve-ses-perspectives-de-croissance-et-grimpe-en-bourse-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T18:32:22+00:00",
+      "summary": "Pour la deuxième fois, les ventes du Dupixent ont dépassé les 5 milliards d’euros en un seul trimestre."
+    },
+    {
+      "title": "Cyberattaque contre Binance : la plateforme peut-elle survivre financièrement au plus grand piratage de l’histoire des cryptomonnaies ?",
+      "link": "https://www.lefigaro.fr/conjoncture/cyberattaque-contre-binance-la-plateforme-peut-elle-survivre-financierement-au-plus-grand-piratage-de-l-histoire-des-cryptomonnaies-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T18:32:19+00:00",
+      "summary": "ANALYSE - Après avoir essuyé l’équivalent de 6,36 milliards de dollars de pertes, le géant mondial des cryptomonnaies assure pouvoir rembourser tous ses clients lésés. Mais le principal risque pourrait être ailleurs."
+    },
+    {
+      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+      "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T18:32:17+00:00",
+      "summary": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein."
+    },
+    {
+      "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+      "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T18:28:09+00:00",
+      "summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz."
+    },
+    {
+      "title": "«Il est très vraisemblable que de l’IA ait été employée» : derrière le casse contre Binance, la menace de la sophistication des cyberattaques",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/il-est-tres-vraisemblable-que-de-l-ia-ait-ete-employee-derriere-le-casse-contre-binance-la-menace-de-la-sophistication-des-cyberattaques-20261030",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-10-30T18:27:23+00:00",
+      "summary": "INTERVIEW - Près de 6 milliards de dollars ont été volés sur la plateforme d’échanges de cryptomonnaie Binance. Un butin historique, symbole de la sophistication toujours plus grande des méthodes employées par les hackers."
+    },
+    {
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T18:21:38+00:00",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: B"
+    },
     {
       "title": "Fed officials are already saying they’ll need to get back to hiking rates",
       "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-30T17:33:55+00:00",
-      "summary": "Musalem's comments offer the first morsels of insight into what leaders at the Fed see next following this week's decision to hold interst rates steady."
+      "published": "2026-10-30T18:18:17+00:00",
+      "summary": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next."
     },
     {
-      "title": "You can expect the stock market to rally no matter who wins on Election Day",
-      "link": "https://www.marketwatch.com/story/you-can-expect-the-stock-market-to-rally-no-matter-who-wins-on-election-day-d4a3c282?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
+      "title": "Défense, cybersécurité, énergie… Comment jouer la souveraineté en Bourse ?",
+      "link": "https://www.lefigaro.fr/conjoncture/defense-cybersecurite-energie-comment-jouer-la-souverainete-en-bourse-20261030",
+      "source": "Le Figaro - Économie",
       "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T17:32:00+00:00",
-      "summary": "Also in Weekend Reads: Dividend stocks, a way to jump on the Anthropic bandwagon ahead of its IPO, and advice from The Moneyist."
+      "lang": "fr",
+      "published": "2026-10-30T18:15:00+00:00",
+      "summary": "DÉCRYPTAGE - La question de l’autonomie stratégique européenne est devenue un thème d’investissement majeur et une source d’opportunités."
     },
     {
-      "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
-      "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "title": "Why bitcoin held up better after the record Binance hack",
+      "link": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-10-30T17:31:46+00:00",
-      "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate, or if Democrats take control of the chamber."
+      "published": "2026-10-30T18:07:00+00:00",
+      "summary": "Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history."
+    },
+    {
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T18:01:24+00:00",
+      "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers."
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T17:47:12+00:00",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+    },
+    {
+      "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
+      "link": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-30T17:40:00+00:00",
+      "summary": "The American Federation of Teachers sued the Trump administration, alleging it unlawfully blocked student loan forgiveness for tens of thousands of borrowers."
+    },
+    {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-30T17:38:04+00:00",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital me"
     },
     {
       "title": "The delightfully messy state of Apple gadgets",
@@ -38,24 +416,6 @@
       "lang": "en",
       "published": "2026-10-30T17:25:20+00:00",
       "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new"
-    },
-    {
-      "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-      "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T17:21:47+00:00",
-      "summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz."
-    },
-    {
-      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
-      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T17:21:00+00:00",
-      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term."
     },
     {
       "title": "Rivian’s autonomy gamble faces its first real test",
@@ -74,24 +434,6 @@
       "lang": "en",
       "published": "2026-10-30T17:15:53+00:00",
       "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027."
-    },
-    {
-      "title": "The big winners of the tech wreck are biopharma stocks",
-      "link": "https://www.marketwatch.com/story/the-big-winners-of-the-tech-wreck-are-biopharma-stocks-2ac4d175?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T17:13:00+00:00",
-      "summary": "The shares of large drugmakers like Lilly, Gilead and J&amp;J keep hitting record highs."
-    },
-    {
-      "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T17:12:59+00:00",
-      "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake."
     },
     {
       "title": "Derrière la cyberattaque contre Binance, l’ombre de la Corée du Nord et des «méthodes» des hackers de TraderTraitor",
@@ -118,7 +460,7 @@
       "category": "tech",
       "lang": "en",
       "published": "2026-10-30T17:00:00+00:00",
-      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
     },
     {
       "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
@@ -130,15 +472,6 @@
       "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy"
     },
     {
-      "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T16:45:00+00:00",
-      "summary": "“A cheaper stock does not necessarily offer better value,” one expert says."
-    },
-    {
       "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
       "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
       "source": "CNBC - Top News",
@@ -146,15 +479,6 @@
       "lang": "en",
       "published": "2026-10-30T16:44:31+00:00",
       "summary": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East."
-    },
-    {
-      "title": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
-      "link": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T16:41:34+00:00",
-      "summary": "Google lost nearly half a trillion this week. But the week's tech sell off might provide an opportunity, says Mike Khouw."
     },
     {
       "title": "Binance's $6.3 billion hack: What we know and what comes next",
@@ -166,24 +490,6 @@
       "summary": "Billions in crypto assets have been frozen following a potential Binance security breach, raising questions about whether the funds can be recovered."
     },
     {
-      "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-      "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T16:20:00+00:00",
-      "summary": "Teachers, nurses and other borrowers have waited years for approval to complete their payment obligation and access debt relief, the suit claims."
-    },
-    {
-      "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
-      "link": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T16:04:59+00:00",
-      "summary": "The American Federation of Teachers sued the Trump administration, alleging it unlawfully blocked student loan forgiveness for tens of thousands of borrowers."
-    },
-    {
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
       "source": "TechCrunch",
@@ -191,42 +497,6 @@
       "lang": "en",
       "published": "2026-10-30T16:03:45+00:00",
       "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
-    },
-    {
-      "title": "$6.3 billion Binance hack is largest crypto theft on record",
-      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T16:01:51+00:00",
-      "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered."
-    },
-    {
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T16:00:00+00:00",
-      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”"
-    },
-    {
-      "title": "Cyberattaque contre Binance : la plateforme peut-elle survivre financièrement au plus grand piratage de l’histoire des cryptomonnaies ?",
-      "link": "https://www.lefigaro.fr/conjoncture/cyberattaque-contre-binance-la-plateforme-peut-elle-survivre-financierement-au-plus-grand-piratage-de-l-histoire-des-cryptomonnaies-20261030",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-30T15:59:23+00:00",
-      "summary": "ANALYSE - 6,36 milliards de dollars envolés en une vingtaine de minutes, des retraits suspendus et des clients à rassurer. Après cette cyberattaque d’une ampleur inédite, le géant mondial des cryptomonnaies assure pouvoir couvrir toutes les pertes. Mais sa solidité financière est mise à l’épreuve."
-    },
-    {
-      "title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
-      "link": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T15:53:00+00:00",
-      "summary": "About 52% of people with a workplace retirement plan say they would invest in private assets if they were available in their company’s plan."
     },
     {
       "title": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
@@ -238,15 +508,6 @@
       "summary": "Trump and Vance had canceled planned appearances across three states, reducing in-person campaigning in the final days before the midterm election."
     },
     {
-      "title": "Jim Cramer reveals 3 stocks to buy — plus, why he is not selling the Intel plunge",
-      "link": "https://www.cnbc.com/investingclub/2026/10/30/cramer-sees-3-stocks-to-buy-not-selling-the-intel-plunge.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T15:49:19+00:00",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
-    },
-    {
       "title": "Agnès Firmin Le Bodo démissionne de son poste de corapporteuse de la commission d'enquête",
       "link": "https://www.journaldunet.com/business/action-publique/1557417-agnes-firmin-le-bodo-demissionne-de-son-poste-de-corapporteuse-de-la-commission-d-enquete/",
       "source": "Journal du Net",
@@ -254,15 +515,6 @@
       "lang": "fr",
       "published": "2026-10-30T15:38:14+00:00",
       "summary": "La députée Horizons renonce à son rôle de corapporteuse, estimant que la distribution des postes rompt l'équilibre démocratique."
-    },
-    {
-      "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
-      "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T15:37:21+00:00",
-      "summary": "Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening."
     },
     {
       "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
@@ -274,15 +526,6 @@
       "summary": "Prediction markets' failure to call an LA primary correctly raised the possibility they can be manipulated to exaggerate the amount of support candidates have."
     },
     {
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
-      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T15:30:00+00:00",
-      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”"
-    },
-    {
       "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
       "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
       "source": "The Verge",
@@ -290,24 +533,6 @@
       "lang": "en",
       "published": "2026-10-30T15:29:02+00:00",
       "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and j"
-    },
-    {
-      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
-      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T15:26:00+00:00",
-      "summary": "Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month."
-    },
-    {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T15:15:00+00:00",
-      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”"
     },
     {
       "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
@@ -344,15 +569,6 @@
       "lang": "fr",
       "published": "2026-10-30T14:44:03+00:00",
       "summary": "Les difficultés des géants du secteur entraînent Wall Street et le Nasdaq vers le bas ce vendredi."
-    },
-    {
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-30T14:23:26+00:00",
-      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient, b"
     },
     {
       "title": "L'inflation en France s'établit à 3,4% en octobre",
@@ -409,15 +625,6 @@
       "summary": "DoorDash said that it is open to working with third-party agent makers."
     },
     {
-      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-      "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-30T13:52:14+00:00",
-      "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyo"
-    },
-    {
       "title": "Cyberattaque contre Binance : comment des plateformes de cryptomonnaies peuvent se faire dévaliser ?",
       "link": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-contre-binance-comment-des-plateformes-de-cryptomonnaies-peuvent-se-faire-devaliser-20261030",
       "source": "Le Figaro - Économie",
@@ -445,24 +652,6 @@
       "summary": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates."
     },
     {
-      "title": "Silicon Valley wants you to invest in miracles",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-30T13:11:05+00:00",
-      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracle"
-    },
-    {
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-30T13:01:14+00:00",
-      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of "
-    },
-    {
       "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
       "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
       "source": "TechCrunch",
@@ -479,15 +668,6 @@
       "lang": "en",
       "published": "2026-10-30T13:00:00+00:00",
       "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now."
-    },
-    {
-      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-      "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-30T13:00:00+00:00",
-      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. [&#"
     },
     {
       "title": "Fonds gelés, 6,3 milliards de dollars de préjudice, Corée du Nord : la cyberattaque massive de la plateforme Binance plonge le secteur des cryptos dans la panique",
@@ -517,24 +697,6 @@
       "summary": "L'Insee annonce un nouveau repli du PIB, faisant craindre une entrée en récession et suscitant des réactions chez les économistes."
     },
     {
-      "title": "Amazon : l’action du titre chute malgré les bons résultats de son activité informatique",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/amazon-l-action-du-titre-chute-malgre-les-bons-resultats-de-son-activite-informatique-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-30T11:51:15+00:00",
-      "summary": "Si Amazon a réalisé entre juillet et septembre un chiffre d’affaires de 201,9 milliards de dollars, en hausse de 12% sur un an, son action dévissait de 6% à la clôture de Wall Street."
-    },
-    {
-      "title": "Budget 2027 : les députés votent 48 milliards d’euros de dépenses supplémentaires",
-      "link": "https://www.lefigaro.fr/conjoncture/budget-2027-les-deputes-votent-28-milliards-d-euros-de-depenses-supplementaires-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-30T11:50:47+00:00",
-      "summary": "DÉCRYPTAGE - En commission des finances, les parlementaires, généreux avec l’enveloppe dédiée à l’écologie, refusent les économies et creusent le déficit sans compter."
-    },
-    {
       "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
       "link": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
       "source": "CNBC - Top News",
@@ -553,15 +715,6 @@
       "summary": "Elles réinventent la gastronomie, bousculent les codes de l’influence, rendent la culture plus accessible ou mettent la technologie au service de la santé. Pour leur troisième édition, Les Lauréates, une initiative portée par La Tribune et le magazine Elle, distinguent dans la catégorie « Les Pépite"
     },
     {
-      "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-      "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T11:12:17+00:00",
-      "summary": "Investors are preparing for a blue wave in the midterm election on Tuesday that will determine who controls Congress for the remainder of President Trump's term."
-    },
-    {
       "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
       "link": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
       "source": "CNBC - Top News",
@@ -569,15 +722,6 @@
       "lang": "en",
       "published": "2026-10-30T11:00:01+00:00",
       "summary": "Hyperscalers continue spending big on artificial intelligence, putting pressure on their legacy businesses and impacting their free cash flow."
-    },
-    {
-      "title": "Quelle est cette «taxe émeutes» qui pourrait faire augmenter les prix des contrats d’assurance ?",
-      "link": "https://www.lefigaro.fr/conjoncture/quelle-est-cette-taxe-emeutes-qui-pourrait-faire-augmenter-les-prix-des-contrats-d-assurance-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-30T10:42:40+00:00",
-      "summary": "Voté dans le cadre du budget 2026, ce dispositif devrait être opérationnel à partir du 1er janvier 2027. Il obligera les assureurs à couvrir le risque d’émeutes dans leurs contrats d’assurance auto et habitation, en échange de la création d’un «fonds de mutualisation» garanti par l’État."
     },
     {
       "title": "Christine Lagarde annonce sa démission de la présidence de la BCE",
@@ -670,15 +814,6 @@
       "summary": "Quelques chiffres de nomenclature déterminent désormais la TVA à l'importation déclarée chaque mois. Pourtant, dans bien des entreprises, ce code reste l'affaire du seul transitaire."
     },
     {
-      "title": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
-      "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T09:00:24+00:00",
-      "summary": "The oil major was the latest to smash profit expectations as global conflicts continue to drive energy market volatility."
-    },
-    {
       "title": "La Banque du Japon affirme avoir atteint son objectif d'inflation",
       "link": "https://www.journaldunet.com/business/1557389-la-banque-du-japon-affirme-avoir-atteint-son-objectif-d-inflation/",
       "source": "Journal du Net",
@@ -686,24 +821,6 @@
       "lang": "fr",
       "published": "2026-10-30T08:12:51+00:00",
       "summary": "L'institution maintient son taux directeur à 1,25% et évoque un possible durcissement monétaire en décembre face à la hausse persistante des prix."
-    },
-    {
-      "title": "Collision de trains en Espagne : un tel accident pourrait-il se produire en France ?",
-      "link": "https://www.lefigaro.fr/conjoncture/collision-de-trains-en-espagne-un-tel-accident-pourrait-il-se-produire-en-france-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-30T07:51:07+00:00",
-      "summary": "Au moins 69 personnes ont perdu la vie dans un effroyable accident ferroviaire au sud de Madrid, mercredi 28 octobre. Une panne informatique et une erreur humaine seraient en cause. De quoi poser question sur la possibilité d’un tel drame en France."
-    },
-    {
-      "title": "Foxconn hopes to own 50% of the global AI server market within a couple years",
-      "link": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T07:43:39+00:00",
-      "summary": "Foxconn's chairman told CNBC that AI demand remains strong as the company eyes U.S. expansion and a larger share of the global AI server market."
     },
     {
       "title": "Epargne salariale : 75% des dirigeants de TPE-PME jugent sa mise en place complexe",
@@ -778,15 +895,6 @@
       "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
     },
     {
-      "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-      "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T00:28:45+00:00",
-      "summary": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks"
-    },
-    {
       "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
       "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
       "source": "TechCrunch",
@@ -841,15 +949,6 @@
       "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion."
     },
     {
-      "title": "GM reaches $220M settlement over selling drivers’ private data",
-      "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T21:01:04+00:00",
-      "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data."
-    },
-    {
       "title": "La plateforme de prédiction Polymarket victime d’une «intrusion», plusieurs millions de dollars potentiellement volés",
       "link": "https://www.lefigaro.fr/secteur/high-tech/la-plateforme-de-prediction-polymarket-victime-d-une-intrusion-plusieurs-millions-de-dollars-potentiellement-voles-20261029",
       "source": "Le Figaro - Économie",
@@ -857,105 +956,6 @@
       "lang": "fr",
       "published": "2026-10-29T20:51:11+00:00",
       "summary": "Dans un message publié sur son compte X (ex-Twitter) la plateforme a affirmé qu’un de ses «prestataires tiers» avait été visé par une «intrusion». Sur les réseaux sociaux, certains utilisateurs assurent avoir perdu plusieurs centaines de milliers de dollars."
-    },
-    {
-      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-      "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T20:43:56+00:00",
-      "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media."
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T20:08:31+00:00",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
-    },
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T20:05:47+00:00",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
-    },
-    {
-      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-      "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T20:02:03+00:00",
-      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year."
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-29T19:56:19+00:00",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
-    },
-    {
-      "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
-      "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-29T19:36:04+00:00",
-      "summary": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East."
-    },
-    {
-      "title": "«Je sens que je dois dire ces choses, et je ne peux pas le faire dans ma position actuelle» : le calendrier très politique du départ de Christine Lagarde de la BCE",
-      "link": "https://www.lefigaro.fr/economie/je-sens-que-je-dois-dire-ces-choses-et-je-ne-peux-pas-le-faire-dans-ma-position-actuelle-le-calendrier-tres-politique-du-depart-de-christine-lagarde-de-la-bce-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-29T19:05:30+00:00",
-      "summary": "DÉCRYPTAGE - En anticipant son départ, la Française laisse à Emmanuel Macron la possibilité de participer au choix de son successeur. Une nomination stratégique, avant l’élection présidentielle, et face au risque de crise financière qui pèse sur la France."
-    },
-    {
-      "title": "TotalEnergies toujours plus rentable, mais presque populaire… Comment Patrick Pouyanné a redressé l’image du géant français du pétrole",
-      "link": "https://www.lefigaro.fr/societes/totalenergies-toujours-plus-rentable-mais-presque-populaire-comment-patrick-pouyanne-a-redresse-l-image-du-geant-francais-du-petrole-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-29T19:00:00+00:00",
-      "summary": "DÉCRYPTAGE - Longtemps vilipendé pour son activité pétrolière et ses profits élevés, le groupe est désormais loué pour avoir notamment plafonné les prix des carburants dans ses stations-service."
-    },
-    {
-      "title": "Malgré un contexte difficile, TF1 tire les premiers fruits de son accord avec Netflix",
-      "link": "https://www.lefigaro.fr/medias/malgre-un-contexte-difficile-tf1-tire-les-premiers-fruits-de-son-accord-avec-netflix-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-29T18:50:00+00:00",
-      "summary": "DÉCRYPTAGE - Les revenus publicitaires digitaux du groupe progressent de 20,5 % au troisième trimestre, soutenus par l’accord de distribution avec la plateforme américaine. Une accélération encourageante, qui ne suffit toutefois pas à compenser la dégradation du marché publicitaire linéaire."
-    },
-    {
-      "title": "«Les vraies économies sont ailleurs» : les nécessaires coupes sur les opérateurs de l’État ne doivent pas éclipser les causes profondes du déficit",
-      "link": "https://www.lefigaro.fr/conjoncture/les-vraies-economies-sont-ailleurs-les-necessaires-coupes-sur-les-operateurs-de-l-etat-ne-doivent-pas-eclipser-les-causes-profondes-du-deficit-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-29T18:45:00+00:00",
-      "summary": "DÉCRYPTAGE - Les organismes chargés de missions de service public sont mis à contribution de l’effort budgétaire. Mais leur part dans le déficit public est infime par rapport aux dépenses de santé et de retraite."
-    },
-    {
-      "title": "Ministre de l’Économie, présidente de la BCE… Le parcours exceptionnel de Christine Lagarde à la tête des institutions économiques mondiales",
-      "link": "https://www.lefigaro.fr/conjoncture/ministre-de-l-economie-presidente-de-la-bce-le-parcours-exceptionnel-de-christine-lagarde-a-la-tete-des-institutions-economiques-mondiales-20261029",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-10-29T18:35:00+00:00",
-      "summary": "PORTRAIT - La présidente quittera la Banque centrale européenne le 7 février 2027, afin d’avoir la liberté de défendre les valeurs européennes de la France, à l’approche des élections."
     },
     {
       "title": "Les éditeurs en ligne portent plainte contre Google auprès de la Commission européenne",
