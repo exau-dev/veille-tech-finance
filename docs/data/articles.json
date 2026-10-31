@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-10-31T03:30:25.397025+00:00",
+  "generated_at": "2026-10-31T11:29:03.060313+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+      "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-31T11:00:01+00:00",
+      "summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March."
+    },
+    {
+      "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+      "link": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-31T10:27:19+00:00",
+      "summary": "In just six years, giant skeletons have gone from an absurd viral novelty to the centerpiece of an expanding retail arms race for the front lawn."
+    },
+    {
+      "title": "L'agence de notation Fitch Ratings dégrade les perspectives de la dette de la France",
+      "link": "https://www.latribune.fr/article/economie/finances-publiques/32240655864940/lagence-de-notation-fitch-ratings-degrade-les-perspectives-de-la-dette-de-la-france",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-31T09:08:36+00:00",
+      "summary": "Alors que l'agence de notation avait maintenu sa notation et sa perspective, elle considère qu'il y a eu une « détérioration de la dynamique de la dette ». Pour le ministre de l’Économie Roland Lescure, « cette appréciation confirme l’absolue nécessité d’adopter d’ici la fin de l’année un budget res"
+    },
+    {
+      "title": "\"Des contrôleurs mentent par appât du gain\" : cette agente SNCF donne ses astuces pour ne pas vous faire avoir en cas d'amende",
+      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557295-cd1-controleur-sncf/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-31T06:05:05+00:00",
+      "summary": "Pression, extorsion : agente de sûreté ferroviaire, Léa dénonce les pratiques de certains contrôleurs et explique aux usagers comment ne pas se laisser piéger."
+    },
+    {
+      "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+      "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-31T06:00:02+00:00",
+      "summary": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened."
+    },
+    {
+      "title": "AI is coming to construction sites. But does it make workers safer?",
+      "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-31T06:00:02+00:00",
+      "summary": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited."
+    },
+    {
+      "title": "Retraite : toutes les pensions de novembre augmentent, mais moins que prévu",
+      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557313-retraite-complementaire/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-10-31T05:55:02+00:00",
+      "summary": "Les 14 millions d'anciens salariés du privé vont voir leur pension complémentaire augmenter. Une revalorisation légèrement inférieure à la formule initiale, mais qui sera visible immédiatement sur les comptes en banque."
+    },
+    {
+      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-10-31T04:30:00+00:00",
+      "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19"
+    },
+    {
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-10-31T04:16:50+00:00",
+      "summary": "The money behind the money is thrilled, mostly."
+    },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -299,15 +380,6 @@
       "lang": "en",
       "published": "2026-10-30T20:26:10+00:00",
       "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setti"
-    },
-    {
-      "title": "The selloff in tech stocks is shifting into overdrive",
-      "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T20:26:00+00:00",
-      "summary": "Technology stocks had been priced for perfection. They are now getting hammered."
     },
     {
       "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
@@ -616,15 +688,6 @@
       "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and j"
     },
     {
-      "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
-      "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T15:14:27+00:00",
-      "summary": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls."
-    },
-    {
       "title": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
       "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
       "source": "CNBC - Top News",
@@ -749,15 +812,6 @@
       "lang": "fr",
       "published": "2026-10-30T11:51:59+00:00",
       "summary": "L'Insee annonce un nouveau repli du PIB, faisant craindre une entrée en récession et suscitant des réactions chez les économistes."
-    },
-    {
-      "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
-      "link": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T11:29:59+00:00",
-      "summary": "Russian strikes caused major power outages in Dnipro as a reported Ukrainian drone attack sparked a fire at a Russian oil refinery."
     },
     {
       "title": "Lauréates 2026 – Les Pépites : une génération qui invente ses propres règles",
@@ -886,15 +940,6 @@
       "summary": "Une récente étude OpinionWay révèle un paradoxe : 73% des dirigeants de TPE-PME envisagent l'épargne salariale, mais 75% jugent sa mise en place complexe. Un enjeu clé : simplifier son accès."
     },
     {
-      "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
-      "link": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T07:12:49+00:00",
-      "summary": "Iran said four tankers struck mines in the Strait of Hormuz, while Tehran disputed a U.S. claim that key shipping lanes had been cleared."
-    },
-    {
       "title": "Binance a subi un piratage estimé à 6,3 milliards de dollars, plus gros vol de cryptos de l'histoire",
       "link": "https://www.journaldunet.com/business/1557391-binance-a-subi-un-piratage-estime-a-6-3-milliards-de-dollars/",
       "source": "Journal du Net",
@@ -922,15 +967,6 @@
       "summary": "Les expulsions locatives seront suspendues pendant cinq mois, mais le relogement, le danger, le squat ou certaines décisions familiales écartent cette protection."
     },
     {
-      "title": "A pharma giant is moving past one patent cliff — but another is already looming",
-      "link": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-10-30T06:00:01+00:00",
-      "summary": "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks."
-    },
-    {
       "title": "Le salaire de tous les salariés et fonctionnaires va baisser dès janvier 2027 à cause de la hausse d'une cotisation obligatoire",
       "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557301-hf1-hausse-mutuelle-salaries-fonctionnaires/",
       "source": "Journal du Net",
@@ -938,15 +974,6 @@
       "lang": "fr",
       "published": "2026-10-30T05:55:02+00:00",
       "summary": "Un changement sur les fiches de paie va entrainer une baisse du salaire net perçu par les salariés du privé et par les fonctionnaires en 2027."
-    },
-    {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-10-30T01:20:48+00:00",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
     },
     {
       "title": "La plateforme de prédiction Polymarket victime d’une «intrusion», plusieurs millions de dollars potentiellement volés",
@@ -1093,24 +1120,6 @@
       "summary": "Face aux cyberattaques dopées à l'IA, les entreprises doivent placer la cybersécurité au cœur de leur stratégie, renforcer leur résilience et faire de chaque collaborateur un acteur de leur sécurité."
     },
     {
-      "title": "L'attaque parfaite se fond dans le trafic légitime : pourquoi la protection DDoS doit changer de logique",
-      "link": "https://www.journaldunet.com/cybersecurite/1557179-l-attaque-parfaite-se-fond-dans-le-trafic-legitime-pourquoi-la-protection-ddos-doit-changer-de-logique/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-29T08:54:21+00:00",
-      "summary": "Les attaques DDoS se fondent de plus en plus dans le trafic légitime. Face à cette évolution, la protection doit dépasser les volumes de trafic pour analyser les comportements."
-    },
-    {
-      "title": "Digital Omnibus : ce que change le mandat du Conseil de l'UE du 21 octobre 2026",
-      "link": "https://www.journaldunet.com/cybersecurite/1557131-digital-omnibus-ce-que-change-le-mandat-du-conseil-du-21-octobre-2026/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-29T08:49:52+00:00",
-      "summary": "Digital Omnibus : le Conseil de l'Union européenne écarte la redéfinition de la donnée personnelle et les cookies dans le RGPD, mais allège la notification des violations et ouvre l'intérêt légitime à l'IA."
-    },
-    {
       "title": "Prêter à l'État pour éponger la dette : les questions sur le mécanisme du grand emprunt national",
       "link": "https://www.latribune.fr/article/banques-finance/assurance/55789388466220/preter-a-letat-pour-eponger-la-dette-les-questions-sur-le-mecanisme-du-grand-emprunt-national",
       "source": "La Tribune - Actualité",
@@ -1235,15 +1244,6 @@
       "lang": "fr",
       "published": "2026-10-27T05:00:08+00:00",
       "summary": "ENTRETIEN – Ancien de l’administration Bush, cette figure du néoconservatisme américain estime que les midterms du 3 novembre ne sont qu’un avant-goût de ce qui attend le pays en 2028."
-    },
-    {
-      "title": "« On est proche d’une guerre civile » : au cœur des kibboutz, la société israélienne fracturée avant les législatives",
-      "link": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/44827275021548/on-est-proche-d-une-guerre-civile-au-coeur-des-kibboutz-la-societe-israelienne-fracturee-avant-les-legislatives",
-      "source": "La Tribune - Actualité",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-26T20:27:05+00:00",
-      "summary": "Alors que les premières législatives depuis le 7-Octobre se tiennent mardi, la société israélienne n’a jamais été autant divisée et dans le déni des crimes commis à Gaza."
     },
     {
       "title": "Conjuguer performance et impact, une nouvelle vision de l’investissement",
