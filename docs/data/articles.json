@@ -1,16 +1,844 @@
 {
-  "generated_at": "2026-11-03T00:14:20.129986+00:00",
+  "generated_at": "2026-11-03T13:22:29.684889+00:00",
   "count": 140,
   "failed_sources": [],
   "articles": [
+    {
+      "title": "Grève intersyndicale du 5 novembre : transports, éducation, santé... À quoi faut-il s’attendre ?",
+      "link": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T13:04:52+00:00",
+      "summary": "Après trois journées de mobilisation sociale les 17, 24 et 31 octobre, les syndicats veulent accentuer la pression sur le gouvernement. Ils appellent à une nouvelle journée de grève et de manifestations le jeudi 5 novembre «pour les salaires, les services publics, l’emploi et l’industrie»."
+    },
+    {
+      "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T13:01:55+00:00",
+      "summary": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations."
+    },
+    {
+      "title": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
+      "link": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T13:01:23+00:00",
+      "summary": "The road to bull-market glory does not run through Walmart and Berkshire Hathaway and Eli Lilly."
+    },
+    {
+      "title": "New national home listing database is taking on Compass in the battle for control of real estate information",
+      "link": "https://www.cnbc.com/2026/11/03/national-home-listing-database-battles-compass-in-real-estate-info-war.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T13:00:01+00:00",
+      "summary": "Heavy hitters in residential real estate joined the fight over who can see residential property listings. Their goal, they say, is to counter private listings."
+    },
+    {
+      "title": "3 signs cash-strapped consumers are nearing a ‘spend-pocalypse’ that would hurt the economy",
+      "link": "https://www.marketwatch.com/story/3-signs-cash-strapped-consumers-are-nearing-a-spend-pocalypse-that-would-hurt-the-economy-2ab4c3dd?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T13:00:00+00:00",
+      "summary": "Nearly 70% of U.S. GDP comes from consumers. What happens when they stop spending?"
+    },
+    {
+      "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+      "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:59:00+00:00",
+      "summary": "The company missed revenue expectations, a tough outcome in today’s less forgiving tech market."
+    },
+    {
+      "title": "Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings",
+      "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:50:27+00:00",
+      "summary": "The iPhone-maker and software giant fell after earnings failed to impress investors."
+    },
+    {
+      "title": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
+      "link": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:46:58+00:00",
+      "summary": "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food."
+    },
+    {
+      "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+      "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:44:15+00:00",
+      "summary": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic."
+    },
+    {
+      "title": "Pfizer hikes full-year outlook, taps company veteran as new CFO",
+      "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:36:43+00:00",
+      "summary": "Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month."
+    },
+    {
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:30:00+00:00",
+      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”"
+    },
+    {
+      "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
+      "link": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:28:00+00:00",
+      "summary": "These stocks trade at low price/earnings valuations, and the companies are projected to achieve very high revenue growth rates through 2028."
+    },
+    {
+      "title": "Wall Street’s most hated stocks are faring far better than its favorites",
+      "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:22:00+00:00",
+      "summary": "The thrashing that Wall Street’s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market."
+    },
+    {
+      "title": "Gérald Darmanin juge Edouard Philippe en danger de ne pas atteindre le second tour",
+      "link": "https://www.journaldunet.com/business/action-publique/1557507-gerald-darmanin-juge-edouard-philippe-en-danger-de-ne-pas-atteindre-le-second-tour/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T12:20:40+00:00",
+      "summary": "Le ministre de la Justice affiche un soutien réservé à Edouard Philippe et écarte l'idée d'une primaire à droite et au centre, à 200 jours du scrutin."
+    },
+    {
+      "title": "What analysts are telling us while Apple’s stock falls after earnings report",
+      "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:20:00+00:00",
+      "summary": "Shares in Apple declined 4.5% in premarket trading after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue  growth."
+    },
+    {
+      "title": "«Additive washing» : Yuka et Que Choisir Ensemble alertent sur ces produits «sans conservateur» cachant en réalité un florilège d’additifs",
+      "link": "https://www.lefigaro.fr/conso/additive-washing-yuka-et-que-choisir-ensemble-alertent-sur-ces-produits-sans-conservateur-cachant-en-realite-un-florilege-d-additifs-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T12:16:54+00:00",
+      "summary": "Dans une étude, Yuka et Que Choisir Ensemble épinglent vingt produits ultra-transformés dont l’emballage vante un produit «sans conservateur» ou «sans colorant», tout en contenant d’autres additifs, parfois controversés. Les deux organisations demandent le retrait de ces mentions."
+    },
+    {
+      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:15:00+00:00",
+      "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”"
+    },
+    {
+      "title": "The stock market loves gridlock. But midterm elections won’t resolve two big money fights.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:12:00+00:00",
+      "summary": "Investors hoping for an Election Day lift face a looming government-spending showdown and growing opposition to AI data centers."
+    },
+    {
+      "title": "Baked by Melissa enters Target with first at-home cupcake mix",
+      "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:11:15+00:00",
+      "summary": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season."
+    },
+    {
+      "title": "Apple's John Ternus faces early test as global memory crisis hurts profits",
+      "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:10:31+00:00",
+      "summary": "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street."
+    },
+    {
+      "title": "Versant earnings beat expectations as digital platforms drive growth",
+      "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:06:59+00:00",
+      "summary": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance."
+    },
+    {
+      "title": "Palantir stock is down 8%. Analysts say bookings growth is to blame.",
+      "link": "https://www.marketwatch.com/story/palantir-stock-is-down-8-analysts-say-bookings-growth-is-to-blame-0492921b?mod=mw_rss_topstories",
+      "source": "MarketWatch - Top Stories",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T12:06:00+00:00",
+      "summary": "Analysts at Morgan Stanley pointed to  a slowdown in a  number of bookings metrics in the third quarter as worth picking at."
+    },
+    {
+      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+      "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on, and they can be set to glow in set patterns, activate for specific apps, or [&"
+    },
+    {
+      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
+      "link": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
+      "source": "The Verge",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD and former CTO at Specialized, runs the startup as an independent business that co"
+    },
     {
       "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
       "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
       "source": "MarketWatch - Top Stories",
       "category": "finance",
       "lang": "en",
-      "published": "2026-11-03T00:03:00+00:00",
+      "published": "2026-11-03T11:56:00+00:00",
       "summary": "The “tech wreck” from October continues. Is a bear market next?"
+    },
+    {
+      "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
+      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T11:54:28+00:00",
+      "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare."
+    },
+    {
+      "title": "JD.com autorisé par l’UE à racheter le deuxième actionnaire de Fnac Darty",
+      "link": "https://www.lefigaro.fr/societes/jd-com-autorise-par-l-ue-a-racheter-le-deuxieme-actionnaire-de-fnac-darty-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T11:42:24+00:00",
+      "summary": "Bruxelles enquêtait depuis mai sur ce projet d’acquisition, en raison de soupçons «que JD.com ait pu bénéficier de subventions étrangères, susceptibles de fausser la concurrence sur le marché européen»."
+    },
+    {
+      "title": "Production grippée de l’iPhone Duo, coûts en hausse : John Ternus rattrapé par les défis industriels d’Apple",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/production-grippee-de-l-iphone-duo-couts-en-hausse-john-ternus-rattrape-par-les-defis-industriels-d-apple-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T11:28:51+00:00",
+      "summary": "ANALYSE - Malgré des résultats annuels records, le nouveau directeur général doit faire face à différents problèmes dans sa chaîne d’approvisionnement, dont certains rognent ses marges."
+    },
+    {
+      "title": "Lauréates 2026 — Les Engagées : la détermination pour changer les modèles",
+      "link": "https://www.latribune.fr/article/economie/1590954968063/laureates-2026-les-engagees-la-determination-pour-changer-les-modeles",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:20:01+00:00",
+      "summary": "Elles se battent sans relâche pour une société plus juste, portant leur cause en étendard, qu’elles œuvrent dans les sciences ou l’environnement, qu’elles fassent reconnaître un handicap, encouragent la parole ou luttent pour plus de justice. Pour la troisième année consécutive, La Tribune et le mag"
+    },
+    {
+      "title": "\"Nos fausses publicités permettent aux banque d'identifier les fraudeurs et les victimes d'arnaque\"",
+      "link": "https://www.journaldunet.com/cybersecurite/1557511-on-diffuse-de-fausses-publicites-pour-identifier-les-potentiels-fraudeurs-et-victimes-d-arnaques-au-profit-des-banques/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:18:09+00:00",
+      "summary": "Le négociateur de cyber-rançons belge et PDG de Secutec, Geert Baudewijns, précise comment son entreprise de cybersécurité aide les banques à identifier les profils à risque."
+    },
+    {
+      "title": "Facture électronique : ce que les auto-entrepreneurs devront vraiment faire en septembre 2027",
+      "link": "https://www.journaldunet.com/fintech/1557199-facture-electronique-ce-que-les-auto-entrepreneurs-devront-vraiment-faire-en-septembre-2027/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:07:18+00:00",
+      "summary": "Recevoir des factures électroniques est obligatoire depuis septembre 2026. En septembre 2027, les auto-entrepreneurs devront aussi émettre et déclarer. Ce qui change vraiment."
+    },
+    {
+      "title": "La France n'a jamais créé autant d'entreprises, pourquoi le financement fait-il encore défaut aux plus petites ?",
+      "link": "https://www.journaldunet.com/start-up/1557161-la-france-n-a-jamais-cree-autant-d-entreprises-pourquoi-le-financement-fait-il-encore-defaut-aux-plus-petites/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:06:03+00:00",
+      "summary": "Les TPE ont besoin de financements rapides et adaptés. Malgré le record de créations, l'accès au crédit reste difficile pour les petites structures, freinant leur survie et leur croissance."
+    },
+    {
+      "title": "Transmission d'entreprise : la préparation, ce chantier que les patrons négligent trop souvent",
+      "link": "https://www.journaldunet.com/management/direction-generale/1557499-transmission-d-entreprise-la-preparation-ce-chantier-que-les-patrons-negligent-trop-souvent/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:04:56+00:00",
+      "summary": "Ce qu'un acquéreur valorise va bien au-delà du chiffre d'affaires : autonomie des équipes, lisibilité des comptes, positionnement. Autant de leviers qui demandent plusieurs années de préparation."
+    },
+    {
+      "title": "L'IA peut libérer les marques des intermédiaires, ou les enfermer pour de bon",
+      "link": "https://www.journaldunet.com/retail/1557369-l-ia-peut-liberer-les-marques-des-intermediaires-ou-les-enfermer-pour-de-bon/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:04:08+00:00",
+      "summary": "Avec l'émergence de l'IA agentique, pour la première fois en deux décennies, les marques peuvent reprendre le contrôle direct de la manière dont elles interagissent avec leurs clients en ligne."
+    },
+    {
+      "title": "Mariage 2.0 : un marché de 4,7 milliards d'euros qui se numérise sans le dire",
+      "link": "https://www.journaldunet.com/start-up/1557263-mariage-2-0-un-marche-de-4-7-milliards-d-euros-qui-se-numerise-sans-le-dire/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:00:57+00:00",
+      "summary": "247 000 mariages par an, 19 000 euros chacun, et 64 % des couples qui choisissent leurs prestataires sur une plateforme : le mariage est devenu un marché numérique sans que personne le dise."
+    },
+    {
+      "title": "Pourquoi les meilleurs recrutements viennent parfois d'un CV qui ne colle pas au poste",
+      "link": "https://www.journaldunet.com/management/emploi-cadres/1557477-pourquoi-les-meilleurs-recrutements-viennent-parfois-d-un-cv-qui-ne-colle-pas-au-poste/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:00:22+00:00",
+      "summary": "Un recrutement hors-piste n'est pas un pari romantique mais un calcul rationnel : compétences transversales, risque partagé, projet solide plutôt que CV qui coche les cases"
+    },
+    {
+      "title": "Une facture sur dix impayée à trois mois : ce que les TPE du dépannage apprennent à toutes les petites entreprises",
+      "link": "https://www.journaldunet.com/management/direction-generale/1557319-une-facture-sur-dix-impayee-a-trois-mois-ce-que-les-tpe-du-depannage-apprennent-a-toutes-les-petites-entreprises/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T11:00:21+00:00",
+      "summary": "80 000 interventions de dépannage analysées : une facture sur dix reste impayée à trois mois, et les professionnels paient plus tard que les particuliers. Quatre règles pour encaisser mieux."
+    },
+    {
+      "title": "Société aux Emirats : la création s'est démocratisée, les pièges aussi",
+      "link": "https://www.journaldunet.com/start-up/1557085-societe-aux-emirats-la-creation-s-est-democratisee-les-pieges-aussi/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:59:06+00:00",
+      "summary": "Détention à 100 %, démarches en ligne, free zones en concurrence : créer une société aux Émirats n'a jamais été aussi simple. S'y installer pour de bon reste une autre affaire."
+    },
+    {
+      "title": "Vitrine cassée le 17 octobre ? L'État paie 100 % du chômage partiel de vos salariés jusqu'à fin janvier",
+      "link": "https://www.journaldunet.com/management/commercial/1557463-vitrine-cassee-le-17-octobre-l-etat-paie-100-du-chomage-partiel-de-vos-salaries-jusqu-a-fin-janvier/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:58:34+00:00",
+      "summary": "Commerces et PME vandalisés les 17 et 18 octobre : un décret du 27 octobre 2026 supprime tout reste à charge sur le chômage partiel jusqu'au 31 janvier 2027. Conditions, justificatifs et pièges à éviter"
+    },
+    {
+      "title": "Pourquoi avoir un site internet ne suffit plus pour trouver des clients en 2026",
+      "link": "https://www.journaldunet.com/seo/1557383-pourquoi-avoir-un-site-internet-ne-suffit-plus-pour-trouver-des-clients-en-2026/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:56:59+00:00",
+      "summary": "Un site internet ne suffit plus pour attirer des clients. Visibilité sur Google, expérience mobile, confiance et parcours utilisateur : découvrez les éléments essentiels pour transformer votre site."
+    },
+    {
+      "title": "E-commerce : à un mois du du Black Friday, votre OMS tiendra-t-il le choc ?",
+      "link": "https://www.journaldunet.com/retail/1557457-e-commerce-a-un-mois-du-du-black-friday-votre-oms-tiendra-t-il-le-choc/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:55:06+00:00",
+      "summary": "Avec le Black Friday débute une période cruciale de plusieurs semaines pour les e-commerçants durant laquelle leur OMS ne doit pas flancher. Pour cela, rien ne doit être laissé au hasard."
+    },
+    {
+      "title": "Réservation en ligne : ce qu'un restaurant devrait vérifier avant de signer avec une plateforme",
+      "link": "https://www.journaldunet.com/retail/1557325-reservation-en-ligne-ce-qu-un-restaurant-devrait-verifier-avant-de-signer-avec-une-plateforme/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:54:15+00:00",
+      "summary": "Les plateformes de réservation apportent de la visibilité aux restaurants, mais leurs conditions varient selon l'origine des réservations. Les questions à poser avant de signer."
+    },
+    {
+      "title": "L'entretien d'embauche permet-il encore de repérer les meilleurs ?",
+      "link": "https://www.journaldunet.com/management/direction-generale/1557453-l-entretien-d-embauche-permet-il-encore-de-reperer-les-meilleurs/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:54:15+00:00",
+      "summary": "Tests, mises en situation, intelligence artificielle : les méthodes de recrutement se perfectionnent. Pourtant, la capacité à anticiper la réussite professionnelle reste incertaine."
+    },
+    {
+      "title": "Crypto-agilité : l'agilité qu'on n'a pas exercée n'existe pas",
+      "link": "https://www.journaldunet.com/cybersecurite/1557495-crypto-agilite-l-agilite-qu-on-n-a-pas-exercee-n-existe-pas/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:53:05+00:00",
+      "summary": "Lors d'un exercice, changer d'algorithme de signature a pris un dixième de seconde, et retirer l'ancienne clé a fait échouer 501 preuves. Ce que DORA demande déjà, et comment s'exercer en une journée."
+    },
+    {
+      "title": "Dans la France en quasi-récession, où est votre prochain JOB ?",
+      "link": "https://www.journaldunet.com/management/emploi-cadres/1557451-dans-la-france-en-quasi-recession-ou-est-votre-prochain-job/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:52:55+00:00",
+      "summary": "Le PIB recule, les embauches gèlent, les cadres du digital font le dos rond. Pendant ce temps, la défense, le nucléaire, la cyber, l'IA, la santé et la senior economy recrutent alors on fait quoi ?"
+    },
+    {
+      "title": "La carte cadeau, un véritable média pour les marques",
+      "link": "https://www.journaldunet.com/retail/1557253-la-carte-cadeau-un-veritable-media-pour-les-marques/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:52:48+00:00",
+      "summary": "Les distributeurs de cartes cadeaux sont devenus des écosystèmes d'audience : pour les enseignes, la carte cadeau n'est plus un produit annexe mais un média à part entière."
+    },
+    {
+      "title": "Chaque kilomètre compte : quand le prix du diesel devient un enjeu de résilience pour les supply chains",
+      "link": "https://www.journaldunet.com/retail/1557217-chaque-kilometre-compte-quand-le-prix-du-diesel-devient-un-enjeu-de-resilience-pour-les-supply-chains/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:51:36+00:00",
+      "summary": "A environ 2,40 euros le litre selon les régions, le prix du diesel pèse désormais bien lourd sur les coûts d'exploitation des entreprises françaises."
+    },
+    {
+      "title": "Réforme douanière : l'Europe a les bonnes idées, pas encore la bonne méthode",
+      "link": "https://www.journaldunet.com/retail/1557201-reforme-douaniere-l-europe-a-les-bonnes-idees-pas-encore-la-bonne-methode/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:50:03+00:00",
+      "summary": "La réforme du Code des douanes de l'UE (2026) multiplie statuts, obligations et contrôles au lieu de simplifier, tandis que 27 administrations appliquent les mêmes règles de façon différente."
+    },
+    {
+      "title": "Pourquoi la conformité réglementaire ne garantit pas la sécurité réelle",
+      "link": "https://www.journaldunet.com/cybersecurite/1557365-pourquoi-la-conformite-reglementaire-ne-garantit-pas-la-securite-reelle/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:49:19+00:00",
+      "summary": "Le paysage de la cybersécurité en Europe entre dans une nouvelle ère. Des réglementations telles que NIS2 et DORA relèvent les exigences en matière de résilience, de responsabilité et de gouvernance opérationnelle, imposant aux organisations de démontrer non seulement que des contrôles de sécurité e"
+    },
+    {
+      "title": "«J’ai réussi à réunir environ 40 partenaires en trois ans» : les conseils business de Sophie Faguet, qui dispute sa première Route du Rhum",
+      "link": "https://www.lefigaro.fr/decideurs/management/j-ai-reussi-a-reunir-environ-40-partenaires-en-trois-ans-les-conseils-business-de-sophie-faguet-qui-dispute-sa-premiere-route-du-rhum-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T10:48:57+00:00",
+      "summary": "Alors que la Route du Rhum bat son plein, personne ne doit oublier que les marins sont de vrais entrepreneurs, avec des problématiques qui ne dépareraient dans le business."
+    },
+    {
+      "title": "SEO programmatique : arrêtons de nous faire peur avec le contenu dupliqué",
+      "link": "https://www.journaldunet.com/retail/1557373-seo-programmatique-arretons-de-nous-faire-peur-avec-le-contenu-duplique/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:46:38+00:00",
+      "summary": "Le SEO programmatique n'est pas condamné au contenu dupliqué : avec les bons réflexes de vérification, il devient un vrai levier de croissance organique."
+    },
+    {
+      "title": "Carburants : «E. Leclerc ne peut pas suivre TotalEnergies» dans la guerre des prix, reconnaît Michel-Édouard Leclerc",
+      "link": "https://www.lefigaro.fr/conso/carburants-e-leclerc-ne-peut-pas-suivre-totalenergies-dans-la-guerre-des-prix-reconnait-michel-edouard-leclerc-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T10:43:07+00:00",
+      "summary": "«Si E. Leclerc met le gazole à 2,15 euros, je le mettrai à 2,14. Nous serons toujours moins chers», a affirmé lundi le patron de TotalEnergies Patrick Pouyanné, alors que la libération de stocks stratégiques de diesel fait reculer les tarifs à la pompe."
+    },
+    {
+      "title": "Carburants : 6000 stations sur les 10.000 que compte le pays ont déjà baissé le prix du gazole, se félicite Serge Papin",
+      "link": "https://www.lefigaro.fr/conso/carburants-6000-stations-sur-les-10-000-que-compte-le-pays-ont-deja-baisse-le-prix-du-gazole-se-felicite-serge-papin-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T10:35:11+00:00",
+      "summary": "Grâce à la libération de dix millions de barils de gazole issus des stocks stratégiques, entamée dimanche, son prix a baissé de 12 centimes en moyenne, et même de «plus de 15 centimes» dans 4.000 d’entre elles, a assuré le ministre du Commerce et du Pouvoir d’achat."
+    },
+    {
+      "title": "Inflation, pétrole, dette, IA… Les 7 grands dossiers économiques des midterms",
+      "link": "https://www.latribune.fr/article/economie/international/50817436294853/inflation-petrole-dette-ia-les-8-grands-dossiers-economiques-des-midterms",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T10:30:01+00:00",
+      "summary": "Plusieurs dossiers économiques pourraient peser sur le scrutin des midterms et fragiliser Donald Trump. Du pouvoir d’achat à la dette, le bilan du président américain est sous pression."
+    },
+    {
+      "title": "Malgré les protestations, McDonald’s poursuit son implantation à la campagne",
+      "link": "https://www.lefigaro.fr/actualite-france/malgre-les-protestations-mcdonald-s-poursuit-son-implantation-a-la-campagne-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T10:14:08+00:00",
+      "summary": "DÉCRYPTAGE - L’enseigne américaine étend son empire aux petites communes, quitte à s’attirer les foudres des riverains et à mettre en danger les quelques restaurants qui subsistent en centre-ville. Mais les agriculteurs et certains élus y trouvent leur compte."
+    },
+    {
+      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+      "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T09:58:37+00:00",
+      "summary": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war."
+    },
+    {
+      "title": "Jusqu’à 40 centimes pour une heure de film en 4K : combien pourrait vous coûter la taxe au gigaoctet ?",
+      "link": "https://www.lefigaro.fr/conso/jusqu-a-40-centimes-pour-une-heure-de-film-en-4k-combien-pourrait-vous-couter-la-taxe-au-gigaoctet-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T09:46:06+00:00",
+      "summary": "SIMULATEUR – Adopté un vendredi matin dans un hémicycle désert, l’amendement socialiste prévoit de taxer chaque gigaoctet téléchargé par les internautes français. Faites le test."
+    },
+    {
+      "title": "Lourdement endetté, l’opérateur télécoms britannique Virgin Media O2 va supprimer des milliers d’emplois",
+      "link": "https://www.lefigaro.fr/societes/lourdement-endette-l-operateur-telecoms-britannique-virgin-media-o2-va-supprimer-des-milliers-d-emplois-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T09:42:54+00:00",
+      "summary": "L’entreprise dit prévoir des économies d’approximativement 300 millions de livres (360 millions d’euros) grâce à «une réduction de la taille des effectifs» dans le cadre d’un plan plus large destiné à réduire ses coûts d’environ 800 millions de livres par an d’ici 2029."
+    },
+    {
+      "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
+      "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T09:42:29+00:00",
+      "summary": "The former White House communications director also said the Republican party was facing a \"civil war\" after the result."
+    },
+    {
+      "title": "A little-known biotech’s high-stakes cancer bet just paid off and its shares doubled",
+      "link": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T09:35:47+00:00",
+      "summary": "Genmab’s shares have doubled in three months after a string of cancer drug trial wins, strengthening its push to own more of the medicines it develops."
+    },
+    {
+      "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+      "link": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T09:30:35+00:00",
+      "summary": "Europe is scrambling to develop infrastructure to support the rollout of AI amid high energy and land costs."
+    },
+    {
+      "title": "«Un chèque en blanc exorbitant» : des élus de gauche et associations contestent l’utilisation du livret A pour financer le nucléaire",
+      "link": "https://www.lefigaro.fr/conjoncture/un-cheque-en-blanc-exorbitant-des-elus-de-gauche-et-associations-contestent-l-utilisation-du-livret-a-pour-financer-le-nucleaire-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T09:15:08+00:00",
+      "summary": "Ils demandent le retrait du dispositif gouvernemental prévoyant de mobiliser l’épargne réglementée pour financer de nouveaux réacteurs nucléaires, craignant qu’il ne fragilise le financement du logement social."
+    },
+    {
+      "title": "Edouard Philippe veut diviser l'immigration légale par deux et provoque la colère de la gauche",
+      "link": "https://www.journaldunet.com/business/action-publique/1557487-edouard-philippe-veut-diviser-l-immigration-legale-par-deux/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T09:07:19+00:00",
+      "summary": "Les déclarations d'Edouard Philippe sur l'immigration et l'intégration suscitent une vive polémique à gauche à l'approche de la présidentielle 2027."
+    },
+    {
+      "title": "En grande difficulté, le groupe GiFi placé en redressement judiciaire, 6000 emplois menacés en France",
+      "link": "https://www.lefigaro.fr/societes/en-grande-difficulte-le-groupe-gifi-place-en-redressement-judiciaire-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T09:06:04+00:00",
+      "summary": "Le tribunal de commerce de Toulouse ordonne une période d’observation de six mois et donne rendez-vous le 8 janvier pour une nouvelle audience."
+    },
+    {
+      "title": "«Il n’a pas su se réinventer» : en redressement judiciaire, Gifi est menacé d’être vendu à la découpe",
+      "link": "https://www.lefigaro.fr/societes/il-n-a-pas-su-se-reinventer-au-bord-de-la-faillite-gifi-est-menace-d-etre-vendu-a-la-decoupe-20261019",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T09:05:59+00:00",
+      "summary": "DÉCRYPTAGE - L’enseigne discount a été placée en redressement judiciaire ce mardi 3 novembre. Une période d’observation va s’ouvrir pour les six prochains mois."
+    },
+    {
+      "title": "Et si la loi influenceurs était finalement une bonne affaire pour les créateurs de contenu ?",
+      "link": "https://www.journaldunet.com/management/emploi-cadres/1557285-et-si-la-loi-influenceurs-etait-finalement-une-bonne-affaire-pour-les-createurs-de-contenu/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T09:00:14+00:00",
+      "summary": "Trois ans après la loi influenceurs, la réglementation passe encore pour un fardeau, mais les derniers chiffres de l'ARPP racontent une tout autre histoire, celle d'une transparence qui paie."
+    },
+    {
+      "title": "Emmanuel Macron se félicite de la baisse du gazole grâce aux stocks stratégiques",
+      "link": "https://www.journaldunet.com/business/action-publique/1557485-emmanuel-macron-attribue-la-baisse-du-gazole-aux-stocks-strategiques/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T08:51:09+00:00",
+      "summary": "Le président met en avant l'efficacité de la libération de stocks stratégiques pour faire baisser le prix du gazole, sans toucher à la fiscalité."
+    },
+    {
+      "title": "Snap transige avant un procès test sur l'addiction des jeunes",
+      "link": "https://www.journaldunet.com/business/1557489-snap-transige-avant-un-proces-test-sur-l-addiction-des-jeunes/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T08:42:40+00:00",
+      "summary": "Snap évite un procès public en transigeant, comme d'autres géants des réseaux sociaux, dans une affaire emblématique sur l'addiction des jeunes."
+    },
+    {
+      "title": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+      "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T08:27:23+00:00",
+      "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks."
+    },
+    {
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T08:01:00+00:00",
+      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech."
+    },
+    {
+      "title": "«On sera obligé de ne pas chauffer tous les jours» : face à la hausse des prix de l’énergie, les Français inquiets à l’approche de l’hiver",
+      "link": "https://www.lefigaro.fr/conso/on-sera-oblige-de-ne-pas-chauffer-tous-les-jours-face-a-la-hausse-des-prix-de-l-energie-les-francais-inquiets-a-l-approche-de-l-hiver-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T07:29:15+00:00",
+      "summary": "Avec des prix du gaz et du fioul qui n’ont cessé de grimper ces derniers mois, les factures s’annoncent douloureuses cet hiver. Près de neuf Français sur dix (86%) estiment que leurs dépenses énergétiques pèsent lourdement dans leur budget, selon une étude du Médiateur national de l’énergie."
+    },
+    {
+      "title": "Aramco's profit rises as refining margins strengthen amid Iran war",
+      "link": "https://www.cnbc.com/2026/11/03/saudi-aramcos-third-quarter-middle-east-.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T07:24:47+00:00",
+      "summary": "Aramco posted third-quarter earnings on Tuesday."
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T07:20:00+00:00",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+    },
+    {
+      "title": "Data centers : « Il y a un manque d’informations et une forte aspiration démocratique », explique le sociologue Irénée Regnauld",
+      "link": "https://www.latribune.fr/article/economie/57523999491514/data-centers-il-y-a-un-manque-d-informations-et-une-forte-aspiration-democratique-explique-le-sociologue-irenee-regnauld",
+      "source": "La Tribune - Actualité",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T07:00:01+00:00",
+      "summary": "DATA CENTERS, LA FRONDE QUI VIENT (2/5). À Dardilly, Bordeaux ou Marseille, les contestations contre les data centers se multiplient. Le sociologue Irénée Regnauld décrypte les racines d’un mouvement français nourri par un déficit d’information et une exigence de transparence."
+    },
+    {
+      "title": "«La précarité énergétique augmente et freine la transition énergétique», alerte le Médiateur de l’énergie",
+      "link": "https://www.lefigaro.fr/conso/la-precarite-energetique-augmente-et-freine-la-transition-energetique-alerte-le-mediateur-de-l-energie-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T07:00:00+00:00",
+      "summary": "De plus en plus de ménages sont confrontés à «l’inconfort thermique» en été comme en hiver. Les moins de 35 ans sont les plus exposés, alerte le Médiateur national de l’énergie Bernard Doroszczuk."
+    },
+    {
+      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+      "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T06:46:36+00:00",
+      "summary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
+    },
+    {
+      "title": "Mentions, engagement, ROI : un an d'influence commerciale en France en chiffres",
+      "link": "https://www.journaldunet.com/martech/1557469-mentions-engagement-roi-la-big-picture-de-l-influence-commerciale-en-france/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T06:45:03+00:00",
+      "summary": "Bien qu'en léger recul, l'activité des créateurs reste soutenue en France avec des taux d'engagement très différents en fonction du secteur de l'annonceur, selon le 2e Baromètre de l'influence commerciale dévoilé ce mardi."
+    },
+    {
+      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T06:32:10+00:00",
+      "summary": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks."
+    },
+    {
+      "title": "Facturation électronique : 2 mois après le lancement, voici les premiers bugs qui donnent du fil à retordre",
+      "link": "https://www.lefigaro.fr/decideurs/facturation-electronique-2-mois-apres-le-lancement-voici-les-premiers-bugs-qui-donnent-du-fil-a-retordre-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T06:30:00+00:00",
+      "summary": "Problème d’inscription sur l’annuaire des entreprises et difficultés de portabilité sont les principaux écueils rencontrés par les entreprises… Explications."
+    },
+    {
+      "title": "Aux Etats-Unis, près de 9 PDG sur 10 prévoient d'embaucher davantage malgré l'essor de l'IA, voici pourquoi",
+      "link": "https://www.journaldunet.com/management/ressources-humaines/1557467-rv1-recruter-plus-malgre-l-ia/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T06:05:03+00:00",
+      "summary": "On entend souvent que l'intelligence artificielle va remplacer des métiers mais elle pourrait avoir un tout autre impact sur le monde du travail."
+    },
+    {
+      "title": "Le niveau des stocks de gaz en Europe au plus bas depuis 2013, alerte l’AIE",
+      "link": "https://www.lefigaro.fr/conjoncture/le-niveau-des-stocks-de-gaz-en-europe-au-plus-bas-depuis-2013-alerte-l-aie-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T06:00:00+00:00",
+      "summary": "L’Agence internationale de l’énergie met en garde sur une situation qui rendrait le Vieux continent «vulnérable» en cas d’hiver rigoureux. Les pressions sur le marché devraient se poursuivre jusqu’en 2027."
+    },
+    {
+      "title": "Nouveau plafond pour les retraités du privé : ils ne pourront pas toucher plus de 2 037 euros par mois en 2027",
+      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557415-hf1-plafond-retraite-cnav-2027/",
+      "source": "Journal du Net",
+      "category": "tech",
+      "lang": "fr",
+      "published": "2026-11-03T05:55:03+00:00",
+      "summary": "Les pensions de retraite versées par la Carsat et la Caisse nationale d'assurance vieillesse (Cnav) auront un nouveau plafond en 2027. Les retraités ne pourront pas gagner davantage."
+    },
+    {
+      "title": "Où sont passées les centaines de milliards d’euros du plan de relance européen post-Covid ?",
+      "link": "https://www.lefigaro.fr/conjoncture/ou-sont-passees-les-centaines-de-milliards-d-euros-du-plan-de-relance-europeen-post-covid-20261103",
+      "source": "Le Figaro - Économie",
+      "category": "finance",
+      "lang": "fr",
+      "published": "2026-11-03T05:15:00+00:00",
+      "summary": "DÉCRYPTAGE - Les derniers versements de cette manne historique de 750 milliards d’euros sont envoyés en ce moment. Les retombées, pas faciles à mesurer, tardent à se voir en termes de croissance économique, sauf pour l’Espagne et l’Italie."
+    },
+    {
+      "title": "Australia hikes rates to 18-year high to fight inflation",
+      "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T03:46:20+00:00",
+      "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year."
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T03:30:00+00:00",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+    },
+    {
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T02:47:57+00:00",
+      "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization."
+    },
+    {
+      "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
+      "link": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T02:31:00+00:00",
+      "summary": "Employees describing jobs as 'remote' are now often in-office, as companies fail to create the collaboration they claim is critical, NY Fed research shows."
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T01:49:52+00:00",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+    },
+    {
+      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T01:32:13+00:00",
+      "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election."
+    },
+    {
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T01:12:55+00:00",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived."
+    },
+    {
+      "title": "Apple's quarter is not perfect. But with enough to like, we raised our price target",
+      "link": "https://www.cnbc.com/investingclub/2026/11/02/apples-quarter-is-not-perfect-but-with-enough-to-like-we-raised-our-price-target.html",
+      "source": "CNBC - Top News",
+      "category": "finance",
+      "lang": "en",
+      "published": "2026-11-03T00:55:36+00:00",
+      "summary": "We remain \"own it, don't trade it\" on Apple stock."
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T00:35:52+00:00",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
+    },
+    {
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "lang": "en",
+      "published": "2026-11-03T00:14:51+00:00",
+      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan."
     },
     {
       "title": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
@@ -20,24 +848,6 @@
       "lang": "en",
       "published": "2026-11-02T23:54:27+00:00",
       "summary": "While technology stocks have come under pressure in recent weeks, consumer stocks have been resilient."
-    },
-    {
-      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T23:48:28+00:00",
-      "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election."
-    },
-    {
-      "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
-      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T23:39:00+00:00",
-      "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum."
     },
     {
       "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
@@ -58,15 +868,6 @@
       "summary": "The one-year-old startup is now valued at $300 million."
     },
     {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T23:13:34+00:00",
-      "summary": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress"
-    },
-    {
       "title": "Apple’s inventory surges 154% as memory chip costs climb",
       "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
       "source": "TechCrunch",
@@ -74,15 +875,6 @@
       "lang": "en",
       "published": "2026-11-02T23:04:57+00:00",
       "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion."
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
-      "link": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T23:00:01+00:00",
-      "summary": "The U.S. chipmaker's humanoid robot systems feature mechanical hands from China-linked startups."
     },
     {
       "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
@@ -94,24 +886,6 @@
       "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this &#8203;point, we're not able to predict when supply and deman"
     },
     {
-      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-      "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T22:53:20+00:00",
-      "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million."
-    },
-    {
-      "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
-      "link": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T22:34:07+00:00",
-      "summary": "Employees describing jobs as 'remote' are now often in-office, as companies fail to create the collaboration they claim is critical, NY Fed research shows."
-    },
-    {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
       "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "source": "TechCrunch",
@@ -119,15 +893,6 @@
       "lang": "en",
       "published": "2026-11-02T22:14:50+00:00",
       "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
-    },
-    {
-      "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
-      "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T22:03:00+00:00",
-      "summary": "Some investors appeared a little too eager to buy the dip in technology stocks last month."
     },
     {
       "title": "Apple set an iPhone sales record even without a new standard iPhone",
@@ -139,85 +904,13 @@
       "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in re"
     },
     {
-      "title": "Wall Street’s most hated stocks are faring far better than its favorites",
-      "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:45:00+00:00",
-      "summary": "The thrashing that Wall Street’s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market."
-    },
-    {
-      "title": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
-      "link": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
+      "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
+      "link": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
       "source": "CNBC - Top News",
       "category": "finance",
       "lang": "en",
-      "published": "2026-11-02T21:35:06+00:00",
-      "summary": "Kimberly-Clark has a plan improve growth and earnings following its acquisition of Kenvue"
-    },
-    {
-      "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:35:00+00:00",
-      "summary": "How to manage “giving while living” without endangering your own retirement."
-    },
-    {
-      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:30:00+00:00",
-      "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”"
-    },
-    {
-      "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:29:00+00:00",
-      "summary": "The S&amp;P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages."
-    },
-    {
-      "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
-      "link": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:15:13+00:00",
-      "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said."
-    },
-    {
-      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:13:43+00:00",
-      "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks."
-    },
-    {
-      "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-      "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:10:34+00:00",
-      "summary": "Oracle filed plans on Monday to issue new shares and more debt to finance its artificial intelligence buildout."
-    },
-    {
-      "title": "Palantir earnings reveal a major AI turning point",
-      "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:09:00+00:00",
-      "summary": "The U.S. commercial business brought in more money than the U.S. government segment in the third quarter."
+      "published": "2026-11-02T21:59:48+00:00",
+      "summary": "Intel’s turnaround now hinges on proving its foundry strategy can deliver, as customers look for signs the company will add fab capacity and catch TSMC"
     },
     {
       "title": "Meta will end Quest 2 OS updates in 2027",
@@ -227,24 +920,6 @@
       "lang": "en",
       "published": "2026-11-02T21:04:20+00:00",
       "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of [&#82"
-    },
-    {
-      "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-      "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:00:59+00:00",
-      "summary": "The AI infrastructure deal is expected to close during the first half of 2028."
-    },
-    {
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T21:00:00+00:00",
-      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”"
     },
     {
       "title": "I bonds now pay 5.51% — but there are trade-offs. What to know before buying",
@@ -265,15 +940,6 @@
       "summary": "Just a day before the midterms, Kalshi traders give Democrats a 74% chance of controlling the Senate."
     },
     {
-      "title": "Négociations commerciales : l’absence des distributeurs à une réunion préparatoire jugée «paradoxale» et «contre-productive» par Bercy",
-      "link": "https://www.lefigaro.fr/societes/negociations-commerciales-l-absence-des-distributeurs-a-une-reunion-preparatoire-jugee-paradoxale-et-contre-productive-par-bercy-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T20:38:32+00:00",
-      "summary": "Le gouvernement espère toujours faire signer aux syndicats agricoles, aux industriels de l’alimentaire et aux grandes enseignes un «pacte de responsabilité» pour modérer l’inflation à venir en rayons."
-    },
-    {
       "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
       "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
       "source": "The Verge",
@@ -283,33 +949,6 @@
       "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned "
     },
     {
-      "title": "Prix du gazole : Emmanuel Macron salue des «solutions concrètes qui portent leurs fruits»",
-      "link": "https://www.lefigaro.fr/conjoncture/prix-du-gazole-emmanuel-macron-salue-des-solutions-concretes-qui-portent-leurs-fruits-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T20:33:21+00:00",
-      "summary": "Le gouvernement a commencé dimanche à mettre à disposition des distributeurs dix millions de barils de gazole issus de ses stocks stratégiques, dans l’espoir de diminuer de 12 à 18 centimes le prix du litre à la pompe."
-    },
-    {
-      "title": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
-      "link": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
-      "source": "MarketWatch - Top Stories",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T20:30:00+00:00",
-      "summary": "Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily."
-    },
-    {
-      "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
-      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T20:19:25+00:00",
-      "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions"
-    },
-    {
       "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
       "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
       "source": "The Verge",
@@ -317,15 +956,6 @@
       "lang": "en",
       "published": "2026-11-02T20:03:52+00:00",
       "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using i"
-    },
-    {
-      "title": "Des audiences stratosphériques mais un niveau d’hostilité inédit : récit d’un mois d’octobre hors norme pour les chaînes d’info",
-      "link": "https://www.lefigaro.fr/medias/des-audiences-stratospheriques-mais-un-niveau-d-hostilite-inedit-recit-d-un-mois-d-octobre-hors-norme-pour-les-chaines-d-info-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T20:02:17+00:00",
-      "summary": "Portées par les journées de manifestations, BFMTV, CNews, LCI et Franceinfo ont rassemblé plus de 11 % du public en octobre. Un record historique sur fond d’agressions de reporters, de critiques politiques et de polémiques sur le traitement de l’actualité."
     },
     {
       "title": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
@@ -346,24 +976,6 @@
       "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked."
     },
     {
-      "title": "La grande prudence des médias face au « bouton anti-IA » censé empêcher l’aspiration de leurs contenus",
-      "link": "https://www.lefigaro.fr/economie/la-grande-prudence-des-medias-face-au-bouton-anti-ia-cense-empecher-l-aspiration-de-leurs-contenus-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T19:45:00+00:00",
-      "summary": "DÉCRYPTAGE - Anthropic, OpenAI, Google et Microsoft proposent un dispositif unique permettant de bloquer la collecte des contenus pour les modèles d’IA. Une initiative destinée à calmer le jeu en plein bras de fer avec les médias."
-    },
-    {
-      "title": "Les biologistes pourront désormais vacciner",
-      "link": "https://www.lefigaro.fr/societes/les-biologistes-pourront-desormais-vacciner-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T19:26:31+00:00",
-      "summary": "EXCLUSIF - La profession et l’assurance-maladie viennent de signer un accord triennal qui fixe les conditions de sa rémunération pour les années à venir, et leur attribue des missions de prévention."
-    },
-    {
       "title": "Web host Squarespace lays off 19% of its employees",
       "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
       "source": "TechCrunch",
@@ -382,24 +994,6 @@
       "summary": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time "
     },
     {
-      "title": "Fed will vote on rates less often. What that could mean for borrowers",
-      "link": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T19:21:15+00:00",
-      "summary": "Fed Chairman Kevin Warsh said he plans to reduce the number of rate-setting votes, a move some economists say could delay relief for borrowers."
-    },
-    {
-      "title": "Comment le Royaume-Uni veut s’imposer comme la vigie mondiale des risques liés à l’IA",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/comment-le-royaume-uni-veut-s-imposer-comme-la-vigie-mondiale-des-risques-lies-a-l-ia-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T19:20:00+00:00",
-      "summary": "DÉCRYPTAGE - Face au laisser-faire américain, Londres multiplie les investissements vers des structures capables de surveiller les modèles de pointe des géants de l’IA."
-    },
-    {
       "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
       "source": "TechCrunch",
@@ -407,24 +1001,6 @@
       "lang": "en",
       "published": "2026-11-02T19:19:17+00:00",
       "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
-    },
-    {
-      "title": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
-      "link": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T19:19:17+00:00",
-      "summary": "Judge Zia Faruqui suggested the prosecution of ex-officials Nikki Floris and Bradley Benavides was rushed to come out ahead of the midterm election."
-    },
-    {
-      "title": "Hausse du smic, gel des allégements de charges… Les négociations annuelles sur les salaires sous haute tension",
-      "link": "https://www.lefigaro.fr/societes/hausse-du-smic-gel-des-allegements-de-charges-les-negociations-annuelles-sur-les-salaires-sous-haute-tension-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T19:15:00+00:00",
-      "summary": "DÉCRYPTAGE - Face à des mesures qui représenteraient plus de 11 milliards d’euros, et une croissance en berne, les entreprises risquent de manquer de moyens pour augmenter les salaires."
     },
     {
       "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
@@ -445,15 +1021,6 @@
       "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, "
     },
     {
-      "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-      "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T18:59:48+00:00",
-      "summary": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy."
-    },
-    {
       "title": "Anthropic clamps down on Claude’s AI video game clones",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
       "source": "The Verge",
@@ -461,78 +1028,6 @@
       "lang": "en",
       "published": "2026-11-02T18:56:02+00:00",
       "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cla"
-    },
-    {
-      "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-      "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T18:46:31+00:00",
-      "summary": "The latest projections show Social Security may have to cut retirement benefits in six years. Here's what may happen if Congress doesn't prevent that."
-    },
-    {
-      "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
-      "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T18:43:24+00:00",
-      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo "
-    },
-    {
-      "title": "Passage de témoin chez Euronext : comment Stéphane Boujnah a totalement transformé l’entreprise en onze ans",
-      "link": "https://www.lefigaro.fr/societes/passage-de-temoin-chez-euronext-comment-stephane-boujnah-a-totalement-transforme-l-entreprise-en-onze-ans-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T18:40:37+00:00",
-      "summary": "RÉCIT - Le Néerlandais David Knibbe, actuel patron de l’assureur NN Group, va succéder en mai 2027 à Stéphane Boujnah à la tête de l’opérateur boursier paneuropéen Euronext, qui gère notamment la Bourse de Paris."
-    },
-    {
-      "title": "« Si E.Leclerc met le gazole à 2,15 euros, je le mettrai à 2,14 » : le patron de TotalEnergies s’engage dans la guerre des prix des carburants",
-      "link": "https://www.lefigaro.fr/economie/si-e-leclerc-met-le-gazole-a-2-15-euros-je-le-mettrai-a-2-14-le-patron-de-totalenergies-s-engage-dans-la-guerre-des-prix-des-carburants-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T18:30:00+00:00",
-      "summary": "DÉCRYPTAGE - À l’occasion de la présentation des « perspectives énergétiques », un exercice de prévisions à l’horizon de 2060, Patrick Pouyanné alerte sur une nouvelle hausse du prix du gaz à l’approche de l’hiver."
-    },
-    {
-      "title": "Le grand magasin BHV officiellement placé en redressement judiciaire",
-      "link": "https://www.lefigaro.fr/societes/le-grand-magasin-bhv-officiellement-place-en-redressement-judiciaire-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T18:05:41+00:00",
-      "summary": "L’emblématique grand magasin parisien avait demandé son placement en redressement judiciaire la semaine dernière. La requête a été acceptée par le tribunal des activités économiques de Paris."
-    },
-    {
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "source": "The Verge",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T18:01:30+00:00",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 h"
-    },
-    {
-      "title": "Électricité : tout comprendre à l’évolution des «heures creuses», qui va toucher des millions de clients à partir de ce mercredi",
-      "link": "https://www.lefigaro.fr/conso/electricite-tout-comprendre-a-l-evolution-des-heures-creuses-qui-va-toucher-des-millions-de-clients-a-partir-de-ce-mercredi-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T17:57:38+00:00",
-      "summary": "Depuis novembre 2025, les horaires des «heures creuses» - ces heures de consommation à tarif réduit - évoluent progressivement. La deuxième phase de cette refonte sera lancée ce 4 novembre 2026. Elle durera jusqu’au 30 novembre 2027 et concernera 9,3 millions de clients."
-    },
-    {
-      "title": "La Corée du Sud met sur la table près de 15 milliards d’euros pour l’IA en 2027",
-      "link": "https://www.lefigaro.fr/conjoncture/la-coree-du-sud-met-sur-la-table-pres-de-15-milliards-d-euros-pour-l-ia-en-2027-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T17:56:53+00:00",
-      "summary": "Le pays, qui annonce un budget à l’équilibre l’année prochaine, investit massivement de l’argent public dans l’intelligence artificielle."
     },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
@@ -560,42 +1055,6 @@
       "lang": "en",
       "published": "2026-11-02T17:49:41+00:00",
       "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem."
-    },
-    {
-      "title": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
-      "link": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T17:28:16+00:00",
-      "summary": "Fanatics and the NHL debuted Hometown Remix, a special-edition uniform and apparel program covering all 32 teams."
-    },
-    {
-      "title": "Cognac : l'Assemblée vote un soulagement spécifique de TVA, avec l’appui du gouvernement",
-      "link": "https://www.lefigaro.fr/conso/cognac-l-assemblee-vote-un-soulagement-specifique-de-tva-avec-l-appui-du-gouvernement-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T17:11:39+00:00",
-      "summary": "Déposé par la députée Renaissance Sandra Marsaud, l’amendement au projet de budget de l’État pour 2027 prévoit une exonération de TVA pour amortir les achats et opérations nécessaires, réalisés par ces entreprises pour réaliser leur production."
-    },
-    {
-      "title": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
-      "link": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T17:04:34+00:00",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
-    },
-    {
-      "title": "Budget 2027 : les députés écartent la hausse de TVA pour Canal+",
-      "link": "https://www.lefigaro.fr/medias/budget-2027-les-deputes-ecartent-la-hausse-de-tva-pour-canal-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T16:54:44+00:00",
-      "summary": "Les parlementaires ont adopté lundi les amendements visant à supprimer cette disposition, par 45 voix contre 15."
     },
     {
       "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
@@ -634,24 +1093,6 @@
       "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
     },
     {
-      "title": "Après la cyberattaque des réfrigérateurs, l’Europe s’inquiète de la vulnérabilité des champs photovoltaïques",
-      "link": "https://www.lefigaro.fr/societes/apres-la-cyberattaque-des-refrigerateurs-l-europe-s-inquiete-de-la-vulnerabilite-des-champs-photovoltaiques-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T16:27:32+00:00",
-      "summary": "DÉCRYPTAGE - Bruxelles envisage de bloquer certains équipements chinois, notamment les onduleurs, pour protéger le secteur des énergies renouvelables des risques de piratage."
-    },
-    {
-      "title": "L’UE dénonce «des cyberattaques répétées extrêmement préoccupantes» contre des supermarchés en Europe",
-      "link": "https://www.lefigaro.fr/secteur/high-tech/l-ue-denonce-des-cyberattaques-repetees-extremement-preoccupantes-contre-des-supermarches-en-europe-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T16:25:00+00:00",
-      "summary": "Le commissaire européen à l’Agriculture, Christophe Hansen, parle d’un «avertissement que nous devons prendre au sérieux», alors que des milliers de frigos de supermarchés ont de nouveau été piratés ce lundi en Europe."
-    },
-    {
       "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
       "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
       "source": "TechCrunch",
@@ -670,33 +1111,6 @@
       "summary": "On oppose souvent ambition professionnelle et vie personnelle, comme si travailler signifiait vivre moins. Pourtant, pour certains, créer et réussir sont précisément une manière de vivre."
     },
     {
-      "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-      "link": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T15:30:41+00:00",
-      "summary": "VIX deemed \"unreactive\" by options traders"
-    },
-    {
-      "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-      "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T15:28:46+00:00",
-      "summary": "Russia and Ukraine both report cyberattacks on their alerting systems, as strikes continue across the countries."
-    },
-    {
-      "title": "Du « meilleur marché de tout Paris » au placement en redressement judiciaire, la longue descente aux enfers du BHV",
-      "link": "https://www.lefigaro.fr/societes/faillite-du-bhv-de-l-echec-du-virage-vers-le-luxe-au-scandale-de-l-accord-avec-shein-la-longue-descente-aux-enfers-de-l-ex-bazar-de-l-hotel-de-ville-20261027",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T15:15:53+00:00",
-      "summary": "RÉCIT - Jadis poumon économique du Marais, le grand magasin parisien enchaîne les difficultés depuis une dizaine d’années. Les polémiques sur l’arrivée de Shein, censé le relancer, ont précipité sa chute."
-    },
-    {
       "title": "Un attentisme dévastateur. La chronique financière de Marc Fiorentino",
       "link": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/1114279130599714/un-attentisme-devastateur-la-chronique-financiere-de-marc-fiorentino",
       "source": "La Tribune - Actualité",
@@ -704,87 +1118,6 @@
       "lang": "fr",
       "published": "2026-11-02T15:00:02+00:00",
       "summary": "C’est vrai. La dette, le déficit public, la hausse du pétrole et la hausse des taux d’intérêt pèsent sur notre économie. Et sur votre argent."
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T15:00:00+00:00",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
-    },
-    {
-      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
-      "link": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T14:42:38+00:00",
-      "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer."
-    },
-    {
-      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-      "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T14:22:35+00:00",
-      "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion."
-    },
-    {
-      "title": "Connecticut Sen. Chris Murphy hospitalized after stroke, office says",
-      "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T14:14:00+00:00",
-      "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'"
-    },
-    {
-      "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-      "link": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T14:08:52+00:00",
-      "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies."
-    },
-    {
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T14:00:00+00:00",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
-    },
-    {
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T13:57:53+00:00",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
-    },
-    {
-      "title": "Cybersécurité : comment l'IA oblige RSSI et CDO à travailler ensemble",
-      "link": "https://www.journaldunet.com/cybersecurite/1557455-cybersecurite-comment-l-ia-oblige-rssi-et-cdo-a-travailler-ensemble/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T13:49:20+00:00",
-      "summary": "L'IA apporte de nouveaux risques dont certains sont gérés par le chief data officer, garant de la qualité des données sur lesquelles elle s'entraîne."
-    },
-    {
-      "title": "Libération des stocks de gazole : y a-t-il déjà un effet sur les prix à la pompe ?",
-      "link": "https://www.lefigaro.fr/conso/liberation-des-stocks-de-gazole-y-a-t-il-deja-un-effet-sur-les-prix-a-la-pompe-20261102",
-      "source": "Le Figaro - Économie",
-      "category": "finance",
-      "lang": "fr",
-      "published": "2026-11-02T12:57:52+00:00",
-      "summary": "Annoncé début octobre par Sébastien Lecornu pour faire baisser le prix du diesel, le déstockage de barils de gazole des stocks stratégiques français a commencé dimanche 1er novembre. Le gouvernement escompte un recul de 12 à 18 centimes par litre."
     },
     {
       "title": "Lauréates 2026 – Les Inspirées : changer les récits pour changer la société",
@@ -796,231 +1129,6 @@
       "summary": "Écriture, musique, illustration, témoignage ou engagement culturel : leurs voix interrogent les représentations et rendent visibles des réalités longtemps ignorées. Pour leur troisième édition, Les Lauréates, une initiative portée par La Tribune et le magazine Elle, distinguent dans la catégorie « L"
     },
     {
-      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-      "link": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "lang": "en",
-      "published": "2026-11-02T11:00:00+00:00",
-      "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company."
-    },
-    {
-      "title": "Le gouvernement prévoit de ramener le déficit de la Sécurité sociale à 12,7 milliards d'euros",
-      "link": "https://www.journaldunet.com/business/action-publique/1557441-le-gouvernement-prevoit-de-ramener-le-deficit-de-la-securite-sociale-a-12-7-milliards-d-euros/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:53:27+00:00",
-      "summary": "L'exécutif détaille une série de mesures budgétaires touchant retraites et santé pour ramener le déficit de la Sécurité sociale à 12,7 milliards d'euros en 2027."
-    },
-    {
-      "title": "PME : avant de refaire votre site, posez-vous ces trois questions",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557427-pme-avant-de-refaire-votre-site-posez-vous-ces-trois-questions/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:52:22+00:00",
-      "summary": "Un nouveau site n'apporte pas plus de clients si le message reste flou. Trois questions pour savoir où se trouve vraiment le problème."
-    },
-    {
-      "title": "Quand l'enfant devient la voix de son propre apprentissage",
-      "link": "https://www.journaldunet.com/management/formation/1557419-quand-l-enfant-devient-la-voix-de-son-propre-apprentissage/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:50:59+00:00",
-      "summary": "L'enfant peut-il devenir acteur de son propre apprentissage grâce au numérique ? Entre neurosciences, pédagogie et intelligence artificielle, cette chronique explore le potentiel des contenus personnaliséslisés"
-    },
-    {
-      "title": "Taxe produits chinois : ce que paie vraiment une PME industrielle",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557385-taxe-produits-chinois-ce-que-paie-vraiment-une-pme-industrielle/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:46:03+00:00",
-      "summary": "Le droit de 3 euros vise les petits colis. Pour une PME qui fait fabriquer en Chine, la taxe réelle dépend du code douanier, de la valeur et de l'origine, fixés dès la commande."
-    },
-    {
-      "title": "Consulter vos équipes ne suffit pas : l'humanitaire montre où l'écoute s'arrête",
-      "link": "https://www.journaldunet.com/management/emploi-cadres/1557371-consulter-vos-equipes-ne-suffit-pas-l-humanitaire-montre-ou-l-ecoute-s-arrete/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:45:27+00:00",
-      "summary": "Les populations aidées se disent mieux informées, mais leur influence n'a pas progressé. Le rapport 2026 de l'ALNAP interroge les managers : votre consultation peut-elle changer une décision ?"
-    },
-    {
-      "title": "Facturation électronique : à force d'exceptions, la France risque de perdre les bénéfices de l'interopérabilité",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557361-facturation-electronique-a-force-d-exceptions-la-france-risque-de-perdre-les-benefices-de-l-interoperabilite/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:44:51+00:00",
-      "summary": "À force de multiplier les formats et les exceptions, la réforme française de la facturation électronique risque de complexifier les échanges et de compromettre les bénéfices de l'interopérabilité."
-    },
-    {
-      "title": "Le développement personnel est devenu un travail de plus. Quand sommes-nous devenus nos propres patrons ?",
-      "link": "https://www.journaldunet.com/management/efficacite-personnelle/1557351-le-developpement-personnel-est-devenu-un-travail-de-plus-quand-sommes-nous-devenus-nos-propres-patrons/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:43:55+00:00",
-      "summary": "Car la vie n'est pas un brouillon qu'il faudrait retoucher sans cesse. Nous pouvons commencer à la vivre dès aujourd'hui."
-    },
-    {
-      "title": "Et si l'IA devenait le premier confident des salariés ?",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557305-et-si-l-ia-devenait-le-premier-confident-des-salaries/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:42:47+00:00",
-      "summary": "Disponible à toute heure et peu jugeante, l'IA devient l'interlocutrice à qui l'on confie ses doutes et ses tensions au travail, parfois avant d'en parler à son manager."
-    },
-    {
-      "title": "Congés imposés à Noël : jusqu'où peut aller l'employeur ?",
-      "link": "https://www.journaldunet.com/management/vie-personnelle/1557229-conges-imposes-a-noel-jusqu-ou-peut-aller-l-employeur/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:35:20+00:00",
-      "summary": "L'employeur peut imposer des congés à Noël, mais doit respecter les délais, les accords collectifs et les droits acquis. Fermeture, rémunération et fractionnement : les règles à connaître en pratique."
-    },
-    {
-      "title": "Métiers 2027-2030 : ceux qui vont recruter et ceux qu'il faut absolument préserver",
-      "link": "https://www.journaldunet.com/management/emploi-cadres/1557221-metiers-2027-2030-ceux-qui-vont-recruter-et-ceux-qu-il-faut-absolument-preserver/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:34:48+00:00",
-      "summary": "Santé, ingénierie, bâtiment, numérique et intelligence artificielle : quels métiers recruteront entre 2027 et 2030 ? Le véritable défi sera aussi de fidéliser les professionnels indispensables."
-    },
-    {
-      "title": "Logiciels de gestion pour TPE : pourquoi le prix affiché n'est presque jamais le prix payé",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557191-logiciels-de-gestion-pour-tpe-pourquoi-le-prix-affiche-n-est-presque-jamais-le-prix-paye/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:26:22+00:00",
-      "summary": "Prix hors taxes, options payantes, remise de la première année, coût de sortie : les mécanismes qui font grimper la facture d'un logiciel de gestion, et comment comparer sur le bon chiffre."
-    },
-    {
-      "title": "À l'heure de l'IA, le risque pour les marques est de devenir interchangeables",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557169-a-l-heure-de-l-ia-le-risque-pour-les-marques-est-de-devenir-interchangeables/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T10:23:49+00:00",
-      "summary": "L'IA générative permet aux entreprises de produire toujours plus de contenus, toujours plus vite. Demain, l'avantage ne sera pas de parler plus, mais d'avoir quelque chose à dire."
-    },
-    {
-      "title": "Alstom revoit à la baisse ses prévisions semestrielles",
-      "link": "https://www.journaldunet.com/economie/industrie/1557437-alstom-revoit-a-la-baisse-ses-previsions-semestrielles/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:58:18+00:00",
-      "summary": "Le constructeur ferroviaire français revoit à la baisse ses prévisions semestrielles, affecté par des difficultés industrielles majeures sur le projet Coradia Max."
-    },
-    {
-      "title": "La crise du private equity arrive pour 2028",
-      "link": "https://www.journaldunet.com/business/1557345-la-crise-du-private-equity-arrive-pour-2028/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:53:55+00:00",
-      "summary": "Mur de la dette, hausse des taux d'intérêt et disruptions causées par l'IA forment un cocktail explosif qui pourrait bien précipiter la crise qui couve depuis déjà près d'un an."
-    },
-    {
-      "title": "Qui soutient encore les dirigeants de PME ?",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557167-qui-soutient-encore-les-dirigeants-de-pme/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:50:33+00:00",
-      "summary": "Isolés face aux crises, aux normes et à des structures de représentation qu'ils désertent, les dirigeants de PME n'ont jamais eu autant besoin de collectif."
-    },
-    {
-      "title": "Le vrai défi : bouger au-delà de l'heure de sport",
-      "link": "https://www.journaldunet.com/management/vie-personnelle/1557151-le-vrai-defi-bouger-au-dela-de-l-heure-de-sport/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:49:59+00:00",
-      "summary": "Malgré une pratique sportive en hausse, les Français restent sédentaires. L'enjeu : intégrer davantage de mouvement au quotidien, avec un rôle clé pour les entreprises."
-    },
-    {
-      "title": "Risque climatique : se prémunir contre l'effondrement par morceaux",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557139-risque-climatique-se-premunir-contre-l-effondrement-par-morceaux/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:48:51+00:00",
-      "summary": "Hausse des surprimes, franchises alourdies, assureurs en retrait : face au risque climatique, lier franchises et prévention permettrait de garder les entreprises assurables, donc finançables."
-    },
-    {
-      "title": "Edouard Philippe refuse une primaire de la droite et du centre",
-      "link": "https://www.journaldunet.com/business/action-publique/1557435-edouard-philippe-refuse-une-primaire-de-la-droite-et-du-centre/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:45:33+00:00",
-      "summary": "L'ancien Premier ministre mise sur sa position centrale pour s'imposer comme \"candidat naturel\" du bloc central, face à Gabriel Attal et d'autres rivaux."
-    },
-    {
-      "title": "RC professionnelle : comparer le risque conservé avant la cotisation",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557099-rc-professionnelle-comparer-le-risque-conserve-avant-la-cotisation/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:44:39+00:00",
-      "summary": "Comparer deux RC professionnelles exige de regarder au-delà du prix : activités assurées, plafonds, franchises et dates déterminent le risque conservé par l'entreprise."
-    },
-    {
-      "title": "Le hIAtus : quand l'IA redéfinit la place de l'humain",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557091-le-hiatus-quand-l-ia-redefinit-la-place-de-l-humain/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:43:11+00:00",
-      "summary": "L'IA ne transforme pas seulement les tâches : Elle formalise et transfère une partie de l'expertise collaborateurs. La question est donc quelle place veut-on préserver pour l'humain ?"
-    },
-    {
-      "title": "CSSCT : refuser une réunion extraordinaire est devenu un exercice à haut risque",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557089-cssct-refuser-une-reunion-extraordinaire-est-devenu-un-exercice-a-haut-risque/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:42:08+00:00",
-      "summary": "Depuis l'arrêt du 23 septembre 2026, l'employeur ne peut plus refuser une réunion extraordinaire de la CSSCT jugée \" inutile \" : trois vérifications seulement, sous le contrôle du juge."
-    },
-    {
-      "title": "L'amnésie décisionnelle, angle mort des comités de direction",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557083-l-amnesie-decisionnelle-angle-mort-des-comites-de-direction/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:41:44+00:00",
-      "summary": "Les comités de direction archivent leurs décisions et perdent leurs raisons. Départs, fusions, urgences : l'amnésie décisionnelle coûte cher. Quatre pratiques simples pour y remédier."
-    },
-    {
-      "title": "Et si notre résilience et notre souveraineté alimentaires se jouaient dans les frigos de nos supermarchés ?",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557077-et-si-notre-resilience-et-notre-souverainete-alimentaires-se-jouaient-dans-les-frigos-de-nos-supermarches/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:40:31+00:00",
-      "summary": "Et si une cyberattaque contre les frigos de nos supermarchés révélait une autre menace ? Derrière cet incident se joue un enjeu majeur : notre souveraineté alimentaire et notre sécurité nationale"
-    },
-    {
-      "title": "Fournisseur Alibaba : usine ou négociant ? Ce que la fiche cache",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557021-fournisseur-alibaba-usine-ou-negociant-ce-que-la-fiche-cache/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T09:39:44+00:00",
-      "summary": "Sept fournisseurs Alibaba sur dix présentés comme des usines sont des négociants. Ce que la fiche ne dit pas, et ce que l'acheteur doit vérifier sur place."
-    },
-    {
       "title": "Les Midterms, une élection à quitte ou double. La chronique de Douglas Kennedy",
       "link": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/80377428623399/les-midterms-une-election-a-quitte-ou-double-la-chronique-de-douglas-kennedy",
       "source": "La Tribune - Actualité",
@@ -1028,15 +1136,6 @@
       "lang": "fr",
       "published": "2026-11-02T09:30:01+00:00",
       "summary": "Chaque mois, notre chroniqueur nous livre son regard sur les États-Unis et, au-delà de leurs frontières, sur le monde."
-    },
-    {
-      "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
-      "link": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T09:11:02+00:00",
-      "summary": "Apollo has launched a 10 billion euro European private credit platform backed by major global investors."
     },
     {
       "title": "Comment le géant de l'intérim Proman s'est imposé dans le secteur, de Manosque à Chicago",
@@ -1066,15 +1165,6 @@
       "summary": "REPORTAGE — Deux ans après avoir accueilli avec espoir le retour de Donald Trump, les Ukrainiens attendent des « midterms » qu’ils limitent son pouvoir. Sans se faire d’illusions sur la marge de manœuvre du Congrès."
     },
     {
-      "title": "Les abonnés aux heures creuses vont payer plus cher chez EDF, Engie, Total Energies et d'autres s'ils ne reprogramment pas leurs appareils",
-      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557395-hf1-facture-electricite-novembre/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T06:05:03+00:00",
-      "summary": "Enedis modifie les horaires des heures pleines/heures creuses pour 11 millions de foyers ayant souscrit à un contrat d'abonnement à l'électricité. Les factures des clients vont grimper s'ils ne changent pas leurs habitudes."
-    },
-    {
       "title": "Immobilier : l'APL accession va-t-elle faire son grand retour ?",
       "link": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/23830923171184/immobilier-lapl-accession-va-t-elle-faire-son-grand-retour",
       "source": "La Tribune - Actualité",
@@ -1084,15 +1174,6 @@
       "summary": "Cette aide, qui avait été supprimée pour des raisons budgétaires en 2018, pourrait faire son grand retour. Elle pourrait aider près de 35.000 ménages et les retours sur investissements seraient considérables."
     },
     {
-      "title": "Son patron lui écrit 279 fois pendant son congé maladie mais la justice trouve ça normal... dans un premier temps",
-      "link": "https://www.journaldunet.com/management/juridique/1557009-dossier-de-harcelement/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-02T05:55:02+00:00",
-      "summary": "Recevoir des centaines de mails de son patron pendant un arrêt maladie ou des vacances peut relever du harcèlement. Et la justice vient finalement de rappeler une règle de bon sens : chaque message compte, même s'ils se ressemblent tous."
-    },
-    {
       "title": "Démission de Christine Lagarde de la BCE : un départ et de multiples hypothèses",
       "link": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/18037574320478/demission-de-christine-lagarde-de-la-bce-un-depart-et-de-multiples-hypotheses",
       "source": "La Tribune - Actualité",
@@ -1100,42 +1181,6 @@
       "lang": "fr",
       "published": "2026-11-02T05:30:02+00:00",
       "summary": "Le démission de Christine Lagarde de son poste de présidente de la BCE s’inscrit dans une période d’incertitudes monétaires et politiques."
-    },
-    {
-      "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-      "link": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T04:09:34+00:00",
-      "summary": "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests."
-    },
-    {
-      "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-      "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-02T02:39:35+00:00",
-      "summary": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections."
-    },
-    {
-      "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-      "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-01T21:06:42+00:00",
-      "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year."
-    },
-    {
-      "title": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
-      "link": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
-      "source": "CNBC - Top News",
-      "category": "finance",
-      "lang": "en",
-      "published": "2026-11-01T17:12:59+00:00",
-      "summary": "President Donald Trump's Department of Justice has sued Alaska, demanding the state not certify the election if the incumbent Republican loses."
     },
     {
       "title": "Temu, Shein, AliExpress... une nouvelle taxe de deux euros appliquée aux produits importés dans l'Union européenne",
@@ -1199,51 +1244,6 @@
       "lang": "fr",
       "published": "2026-11-01T08:00:02+00:00",
       "summary": "Les résultats des élections de mi-mandat orienteront la nature de la prochaine campagne présidentielle américaine, que ce soit chez les républicains, pour assumer ou non l’héritage du trumpisme, ou chez les démocrates, pour tenir compte ou pas de la tentation d’être plus radicalement de gauche."
-    },
-    {
-      "title": "OPINION. « On ne sauvera pas la Sécurité sociale en taxant ceux qui la financent », par Éric Ciotti, maire de Nice et président de l’UDR",
-      "link": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/81887858830489/opinion-on-ne-sauvera-pas-la-securite-sociale-en-taxant-ceux-qui-la-financent-par-eric-ciotti-maire-de-nice-et-president-de-l-udr",
-      "source": "La Tribune - Actualité",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-01T07:15:01+00:00",
-      "summary": "Pour le président de l’UDR, augmenter le coût du travail pour combler les déficits pénaliserait les travailleurs. Il enjoint le gouvernement à plutôt baisser ses dépenses pour équilibrer les comptes publics."
-    },
-    {
-      "title": "Les jours fériés tombent très mal en 2027 sauf pour les salariés dont le contrat est en forfait jour",
-      "link": "https://www.journaldunet.com/management/vie-personnelle/1557347-hf1-hausse-rtt-2027/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-01T05:55:02+00:00",
-      "summary": "Le droit du travail va permettre à des millions de salariés du privé de gagner plus de RTT en 2027, notamment les travailleurs en forfait jour et ceux qui font des heures supplémentaires."
-    },
-    {
-      "title": "François-Xavier Selleret, directeur général de l’Agirc-Arrco : « L’évolution des retraites ne doit jamais être supérieure à celle des salaires »",
-      "link": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/78999690776579/francois-xavier-selleret-directeur-general-de-l-agirc-arrco-l-evolution-des-retraites-ne-doit-jamais-etre-superieure-a-celle-des-salaires",
-      "source": "La Tribune - Actualité",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-01T05:50:01+00:00",
-      "summary": "Le dirigeant de la fédération décrypte les coulisses de la revalorisation des retraites du secteur privé, dans un contexte de chute démographique."
-    },
-    {
-      "title": "Michael Kimmage directeur du Kennan Institute : « Trump a beaucoup contribué à ces succès de propagande russe »",
-      "link": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/80050488280458/michael-kimmage-directeur-du-kennan-institute-trump-a-beaucoup-contribue-a-ces-succes-de-propagande-russe",
-      "source": "La Tribune - Actualité",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-11-01T05:30:02+00:00",
-      "summary": "ENTRETIEN — Chargé du dossier Russie-Ukraine au département d’État sous l’administration Obama, auteur de nombreux ouvrages, le directeur du centre de recherche, spécialisé dans l’étude des espaces de l’ex-URSS et de l’Asie centrale, explique pourquoi la politique étrangère de Donald Trump pourrait "
-    },
-    {
-      "title": "\"Des contrôleurs mentent par appât du gain\" : cette agente SNCF donne ses astuces pour ne pas vous faire avoir en cas d'amende",
-      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557295-cd1-controleur-sncf/",
-      "source": "Journal du Net",
-      "category": "tech",
-      "lang": "fr",
-      "published": "2026-10-31T06:05:05+00:00",
-      "summary": "Pression, extorsion : agente de sûreté ferroviaire, Léa dénonce les pratiques de certains contrôleurs et explique aux usagers comment ne pas se laisser piéger."
     },
     {
       "title": "Conjuguer performance et impact, une nouvelle vision de l’investissement",
